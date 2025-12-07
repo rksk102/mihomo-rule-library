@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2025-12-06 19:09:02
+# Date:     2025-12-07 08:24:23
 # Mode:     DOMAIN
-# Count:    26212 (Raw: 26212)
+# Count:    26218 (Raw: 26218)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -2192,6 +2192,7 @@ archives.gov
 archivx.to
 archlinux.org
 archlinuxarm.org
+arcraiders.com
 arctosia.com
 area120.com
 area51.to
@@ -7753,6 +7754,8 @@ emac.in
 emaga.com
 emagic.de
 emanna.com
+embark-studios.com
+embark.games
 embase.com
 embed-cdn.com
 embed.ly
@@ -8408,6 +8411,8 @@ facegbook.com
 faceid99.com
 faceid99.net
 faceidglobal.com
+faceit-cdn.net
+faceit.com
 faceless.me
 faceobk.com
 faceobok.com
@@ -19215,6 +19220,7 @@ rea.io
 rea.tech
 reabble.com
 reachporn.com
+reachthefinals.com
 reachtheworldonfacebook.com
 react.com
 reactjs.com

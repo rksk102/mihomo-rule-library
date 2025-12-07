@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2025-12-06 19:09:02
+# Date:     2025-12-07 08:24:23
 # Mode:     DOMAIN
-# Count:    6067 (Raw: 6067)
+# Count:    6072 (Raw: 6072)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 00cdn.com
@@ -1651,6 +1651,7 @@ dandan818.com
 dandanplay.com
 dandanvoice.com
 dangbei.com
+dangbei.net
 dangdang.com
 danji100.com
 danji6.com
@@ -4165,6 +4166,7 @@ pupuapi.com
 pupumall.com
 pushcfg.com
 py-axa.com
+qbitai.com
 qbox.me
 qc188.com
 qcc.com
@@ -4446,6 +4448,7 @@ sf.cn
 sfacg.com
 sfbuy.com
 sfcar.hk
+sfccn.com
 sffix.cn
 sfgy.org
 sg.cn
@@ -5014,6 +5017,7 @@ toutiaovod.com
 toutiaowap.cn
 toutiaowap.com
 toutiaowap.net
+touying.com
 touzid.com
 tower.com.cn
 tower.im
@@ -6020,6 +6024,7 @@ zjzsa.com
 zlfund.cn
 zmengzhu.com
 zmifi.com
+znds.com
 zofund.com
 zol-img.com.cn
 zol.com.cn
