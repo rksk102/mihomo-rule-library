@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2025-12-07 19:08:54
+# Date:     2025-12-08 08:31:29
 # Mode:     DOMAIN
-# Count:    6072 (Raw: 6072)
+# Count:    6076 (Raw: 6076)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 00cdn.com
@@ -2274,6 +2274,7 @@ gcloudcstest.com
 gcloudcstestonly.com
 gclouddolphin.com
 gcloudsdk.com
+gcloudsvcs.com
 gcores.com
 gdjdxy.com
 gdliontech.com
@@ -3419,6 +3420,7 @@ larkvc.com
 larsonlimited.com
 las.ac.cn
 lascn.net
+latepost.com
 lawxp.com
 lawyee.org
 lazada.com
@@ -3955,6 +3957,7 @@ ocwms.com
 oeeee.com
 offcn.com
 officese.com
+ofweek.com
 oi-wiki.com
 oicq88.com
 okjike.com
@@ -5679,6 +5682,7 @@ xunfei.cn
 xunfeixxj.com
 xunlei.com
 xunyou.com
+xunyou.mobi
 xwbank.com
 xxsy.net
 xxtmail.com

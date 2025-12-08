@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2025-12-07 19:08:54
+# Date:     2025-12-08 08:31:28
 # Mode:     DOMAIN
-# Count:    26218 (Raw: 26218)
+# Count:    26219 (Raw: 26219)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -12148,6 +12148,7 @@ imageab.com
 imagebam.com
 imagecurl.com
 imagecurl.org
+imagedelivery.net
 imagefap.com
 imageflea.com
 imageglass.org
