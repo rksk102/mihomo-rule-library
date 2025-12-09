@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2025-12-08 19:10:36
+# Date:     2025-12-09 08:30:05
 # Mode:     DOMAIN
-# Count:    26219 (Raw: 26219)
+# Count:    26220 (Raw: 26220)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -19094,6 +19094,7 @@ r18.com
 r18av.com
 r18lu-avi.shop
 r18lu.com
+r2.dev
 r34porn.net
 rabbitscams.com
 rabbitscams.sex
