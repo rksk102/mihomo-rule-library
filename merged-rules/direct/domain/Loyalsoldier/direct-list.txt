@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2025-12-09 19:09:59
+# Date:     2025-12-10 08:29:40
 # Mode:     DOMAIN
-# Count:    116935 (Raw: 116935)
+# Count:    116934 (Raw: 116934)
 # Desc:     Auto-detected from direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -7352,7 +7352,6 @@
 75ll.com
 75n474.com
 75pk.com
-75team.com
 75ww.com
 75xn.com
 76065.com

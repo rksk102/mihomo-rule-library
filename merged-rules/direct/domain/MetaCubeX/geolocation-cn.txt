@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2025-12-09 19:09:59
+# Date:     2025-12-10 08:29:40
 # Mode:     DOMAIN
-# Count:    6076 (Raw: 6076)
+# Count:    6087 (Raw: 6087)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 00cdn.com
@@ -325,12 +325,11 @@
 7230.com
 72byte.com
 72whys.com
-75.team
-75team.com
 7down.com
 7fresh.com
 7k2k1.cn
 7k7k.com
+7moor-fs1.com
 7moor.com
 7po.com
 7x24cc.com
@@ -852,6 +851,7 @@ bio-equip.com
 bio360.net
 bio4p.com
 biodiscover.com
+biomart.cn
 bisheng.cn
 bishengcompiler.cn
 bishijie.com
@@ -1848,6 +1848,7 @@ douyinact.net
 douyincdn.com
 douyincloud.net
 douyincloud.run
+douyinec.com
 douyinfe.com
 douyinliving.com
 douyinpic.com
@@ -1916,6 +1917,8 @@ dxmpay.com
 dxmstatic.com
 dxmyqh.com
 dxpmedia.com
+dxy.cn
+dxy.com
 dxycdn.com
 dxzq.net
 dycloud.run
@@ -1953,6 +1956,7 @@ ecjobhome.com
 ecloud-gdu.com
 ecns.cn
 ecombdapi.com
+ecombdstatic.com
 ectencent.cn
 ectencent.com.cn
 ecukwai.com
@@ -2454,6 +2458,7 @@ handanjob.com
 hangjiayun.com
 hangzhouyq.cn
 hangzhouyq.com
+hanyi.com
 hanyi.com.cn
 hao123.com
 hao123img.com
@@ -2872,6 +2877,7 @@ iqiyi.com
 iqiyipic.com
 iqoo.com
 iranshao.com
+ireader.com
 iresearch.cn
 irs01.com
 irsnp.com
@@ -3063,6 +3069,7 @@ jingpinhui.com
 jingxi.com
 jinianbi.com
 jinrishici.com
+jinritemai.com
 jinrongren.net
 jinse.com
 jinshuju.net
@@ -4572,6 +4579,7 @@ snowballsecurities.com
 snssdk.com
 so.com
 sobot.com
+soboten.com
 socpk.com
 sofreight.com
 softwhy.com
@@ -5941,6 +5949,9 @@ zgzsa.com
 zhan.com
 zhanbuba.com
 zhangyoubao.com
+zhangyue.com
+zhangyue01.com
+zhangyuecdn.com
 zhanqi.tv
 zhanzhang.net
 zhaodanji.com
