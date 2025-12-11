@@ -116,6 +116,7 @@ adslvfile.qq.com
 adslvseed.qq.com
 adsmind.apdcdn.tc.qq.com
 adsqqclick.qq.com
+adstats.tencentmusic.com
 adstestview.qq.com
 adstudio-assets.scdn.co
 adsview.qq.com
@@ -314,6 +315,7 @@ hao123union.baidu.com
 hm.baidu.com
 hmma.baidu.com
 hq-tracking.qq.com
+htrace.wetvinfo.com
 httpool.com
 hubcloud.com.cn
 hwads-t.api.my7v.com
@@ -401,6 +403,7 @@ mobads.baidu.com
 mobileads.google.com
 mobilemsg.youku.com
 mobwithad.com
+monitor.music.qq.com
 mopub.com
 mountain.zhidao.baidu.com
 mpush.qq.com
@@ -480,6 +483,7 @@ qwapi.com
 reachmax.cn
 realsrv.com
 reke.at.sohu.com
+report.qqweb.qq.com
 res.hunantv.com
 retcode.taobao.com
 reyun.com
