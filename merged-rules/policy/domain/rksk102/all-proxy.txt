@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2025-12-10 19:11:36
+# Date:     2025-12-11 08:29:47
 # Mode:     DOMAIN
-# Count:    26221 (Raw: 26221)
+# Count:    26225 (Raw: 26225)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -18216,7 +18216,10 @@ poe.com
 poecdn.net
 pogo.com
 pogobeta.com
+poi.icu
 poi.moe
+poi6.net
+poihub.com
 points-media.com
 poisontube.com
 pojapp.cfd
@@ -18780,6 +18783,7 @@ product.co.jp
 production-openaicom-storage.azureedge.net
 profilemaster.com
 profreeporno.com
+project-poi.com
 project-syndicate.org
 projectapex.com
 projectara.com

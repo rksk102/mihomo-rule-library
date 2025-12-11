@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2025-12-10 19:11:37
+# Date:     2025-12-11 08:29:47
 # Mode:     DOMAIN
-# Count:    6087 (Raw: 6087)
+# Count:    6088 (Raw: 6088)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 00cdn.com
@@ -4338,6 +4338,7 @@ qweather.com
 qweather.net
 qwen.ai
 qwenlm.ai
+qwps.cn
 qy.net
 qyer.com
 qyerstatic.com
