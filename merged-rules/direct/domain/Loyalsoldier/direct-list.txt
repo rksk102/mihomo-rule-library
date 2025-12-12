@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2025-12-11 19:14:02
+# Date:     2025-12-12 08:30:07
 # Mode:     DOMAIN
-# Count:    116934 (Raw: 116934)
+# Count:    116933 (Raw: 116933)
 # Desc:     Auto-detected from direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -18052,7 +18052,6 @@ bytedance.org
 bytedanceapi.com
 bytedancehermestest.com
 bytedancevod.com
-bytedapm.com
 bytedcdn.com
 bytedeliver.com
 bytedgames.com
