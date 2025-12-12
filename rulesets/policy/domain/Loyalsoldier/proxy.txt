@@ -4667,6 +4667,7 @@ bypasscensorship.org
 byrut.org
 byspotify.com
 bytedance.map.fastly.net
+bytedapm.com
 byteglb.com
 byteoversea.com
 byteoversea.net
@@ -16449,6 +16450,7 @@ nextwork.com.hk
 nextwork.com.tw
 nextwork.hk
 nextwork.tw
+nexus-cdn.com
 nexusmods.com
 nf.id.au
 nfjtyd.com
@@ -19538,6 +19540,10 @@ ronjoneswriter.com
 roodo.com
 root-signing.ch
 rootsigning.com
+roovza-launches.appsflyersdk.com
+roovza.inapps.appsflyersdk.com
+roovza.launches.appsflyersdk.com
+roovza.skadsdk.appsflyersdk.com
 rosechina.net
 rosemarydoll.com
 roshy.tv
@@ -22245,6 +22251,7 @@ tiffany-towers.com
 tig-ol-bitties.live
 tigervpn.com
 tik-tokapi.com
+tiktok-minis.com
 tiktok-row.net
 tiktok.com
 tiktokcdn-eu.com

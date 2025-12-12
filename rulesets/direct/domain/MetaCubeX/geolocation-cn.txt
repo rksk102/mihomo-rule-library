@@ -498,6 +498,7 @@ aliexpress-media.com
 aliexpress.com
 alifanyi.com
 aligames.com
+aligfwaf.com
 alihealth.com.cn
 aliimg.com
 alikmd.com
@@ -702,6 +703,7 @@ bankofbeijing.com.cn
 bankofchina.com
 banmaaike.com
 baofeng.com
+baofeng.net
 baomitu.com
 baoxianshichang.com
 baseopendev.com
@@ -966,7 +968,6 @@ bytedance.net
 bytedance.org
 bytedanceapi.com
 bytedancehermestest.com
-bytedapm.com
 bytedcdn.com
 bytedeliver.com
 bytedgames.com
@@ -1058,6 +1059,7 @@ cardbaobao.com
 carnoc.com
 cbern.com.cn
 cbjq.com
+cc-pay.cn
 ccb-life.com.cn
 ccb.cn
 ccb.com
@@ -1346,6 +1348,7 @@ chouti.com
 chrstatic.com
 chsi.cn
 chsi.com.cn
+chuangcache.com
 chuangcdn.com
 chuangxin.com
 chuanke.com
@@ -1621,10 +1624,12 @@ cup.com.cn
 cup62.cn
 cwxzx.com
 cxbiji.com
+cxmt.com
 cyagen.com
 cybtc.com
 cyol.com
 cyts.com
+cyzone.cn
 cza84.cn
 cztv.com
 cztvcdn.com
@@ -1917,6 +1922,7 @@ dycloudbk.com
 dyhjw.com
 dzdvip.com
 dzh.com.cn
+dzng.com
 dzsc.com
 dzw3.com
 dzwww.com
@@ -3036,6 +3042,7 @@ jianyuweb.com
 jianzhi8.com
 jiaodong.net
 jiaoyimao.com
+jiashule.com
 jiasu.bohe.com
 jiasuhui.com
 jiasule.com
@@ -4242,6 +4249,7 @@ qijiayoudao.net
 qikoo.com
 qiku.com
 qikucdn.com
+qiluyidian.net
 qimao.com
 qingcache.com
 qingcloud.com
@@ -4279,6 +4287,7 @@ qiyukf.com
 qiyukf.net
 qiyukf.net.cn
 qizuang.com
+ql1d.com
 qlisten.cn
 qlivecdn.com
 qlogo.cn
@@ -4418,6 +4427,7 @@ scm121.cn
 scm121.com
 scoregg.com
 scsentry.cn
+scsjb.cn
 sczsxx.com
 sdgdwljt.com
 sdo.com
@@ -4774,6 +4784,7 @@ tcloudscdn.com
 tcloudscdn.net
 tcltech.com
 tcwqqdy.guru
+tdnsstic1.cn
 tdnsv1.com
 tdnsv1.net
 tdnsv10.com
@@ -5874,6 +5885,7 @@ yunpan.com
 yunqishi.net
 yunshipei.com
 yunxiao.com
+yunxinfw.com
 yunzhijia.com
 yunzhuxue.com
 yupoo.com
