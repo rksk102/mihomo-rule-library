@@ -855,7 +855,6 @@ biubiu001.com
 biyehome.net
 bjcathay.com
 bjinfobank.com
-bjyouth.gov.cn
 bjyouth.net
 bkapigw.com
 bkapps.com
@@ -907,6 +906,7 @@ bpltm.com
 brawlstars.cn
 bsb.com.cn
 bsbsb.top
+bsclink.cn
 bsurl.cc
 bsurl.cn
 btgtravel.com
@@ -1034,7 +1034,6 @@ bytexopen.com
 bytexservice.com
 c-ctrip.com
 c-t.work
-caac.gov.cn
 cabbagebox.com
 cache4ever.com
 cache666.com
@@ -1249,6 +1248,7 @@ cftest8.com
 cftsupport.com
 cfund108.com
 cfzq.com
+cgames.com
 cgbchina.com.cn
 cgws.com
 ch.com
@@ -1354,6 +1354,7 @@ chuangxin.com
 chuanke.com
 chuansong.me
 chuansongme.com
+chuapp.com
 chugou360.com
 chujingapp.com
 chushou.tv
@@ -1487,7 +1488,6 @@ cloudzhuhai.com
 cls.cn
 clsa.com
 cma.cn
-cma.gov.cn
 cmb-leasing.com
 cmbc.com.cn
 cmbchina.biz
@@ -1656,6 +1656,7 @@ dao123.com
 daocloud.io
 daojia.com
 daovoice.io
+dataeye.com
 datasea.cn
 daton.com.cn
 dayainfo.com
@@ -2256,11 +2257,15 @@ galaxyasset.com
 game234.com
 gameabc.com
 gamebonfire.com
+gamediary.cn
 gameitop.com
+gamelook.com.cn
 gameloop.com
 gamemei.com
 gamepack.cn
+gameres.com
 gamersky.com
+gamewower.com
 ganji.com
 ganjiangvpn.com
 ganjistatic1.com
@@ -2302,7 +2307,6 @@ gfan.com
 gfbzb.cn
 gfbzb.com
 gfbzb.com.cn
-gfbzb.gov.cn
 gfbzb.net
 gffunds.com.cn
 gfund.com
@@ -2372,6 +2376,7 @@ goto-game.org
 gotokeep.com
 gotolink.net
 goufw.com
+gov.cn
 govqcloud.com
 gowinamc.com
 gpall.cn
@@ -2755,6 +2760,7 @@ iciba.com
 iconfont.cn
 icourse163.org
 icourses.cn
+icpcw.com
 icphoto.cn
 icplishi.com
 ics.design
@@ -2796,6 +2802,7 @@ igetget.cn
 igetget.com
 igetui.com
 igexin.com
+ign.com.cn
 igtm-meeting-tencent.com
 igtm.pub
 igwfmc.com
@@ -3845,6 +3852,7 @@ myzaker.com
 mzres.com
 n.cn
 n0q.cn
+nadianshi.com
 nagcloudcs.com
 naixuecha.com
 namiso.com
@@ -3886,6 +3894,7 @@ newbandeng.com
 newcoder.com
 newniu.com
 news.cn
+news.yxrb.net
 newupbank.com
 newyx.net
 nextstudios.com
@@ -4210,7 +4219,6 @@ qeodns.com
 qeodns.net
 qftexpay.cn
 qgzb.com.cn
-qgzb.gov.cn
 qgzb.net
 qh-cdn.com
 qh24.com
@@ -4252,6 +4260,7 @@ qikucdn.com
 qiluyidian.net
 qimao.com
 qingcache.com
+qingcdn.com
 qingcloud.com
 qingdaochina.org
 qingdaonews.com
@@ -5052,6 +5061,7 @@ tripcdn.cn
 tripcdn.com
 tritoninfo.net
 trjcn.com
+trpcdn.net
 trunktech.com
 trustexporter.com
 trustie.net
@@ -5102,6 +5112,7 @@ ubuntukylin.com
 uc.cn
 uc123.com
 ucbug.com
+ucg.cn
 ucgslb.cn
 ucgslb.com
 ucgslb.info
@@ -5655,6 +5666,7 @@ xiumius.com
 xiziwang.net
 xjietiao.com
 xjoycity.com
+xkb.com.cn
 xkw.com
 xmcdn.com
 xmhouse.com
@@ -5802,10 +5814,12 @@ youpin.cn
 youpin.com.cn
 youshang.com
 youxiake.com
+youxichaguan.com
 youxigt.com
 youxihezi.net
 youxila.com
 youxiniao.com
+youxiputao.com
 youyierp.com
 youyitms.com
 youyiwms.com
@@ -5904,6 +5918,7 @@ yxwsgame.com
 yy.com
 yyds.co
 yystatic.com
+yystv.cn
 yytcdn.com
 yzcdn.cn
 yzyxgame.com
@@ -5915,7 +5930,6 @@ zaifan.com.cn
 zampda.net
 zampdsp.com
 zastatic.com
-zbbm.gov.cn
 zbbm.net
 zbj.com
 zbjdev.com
