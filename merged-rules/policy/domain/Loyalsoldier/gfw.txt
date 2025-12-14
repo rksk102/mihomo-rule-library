@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2025-12-13 19:09:09
+# Date:     2025-12-14 08:25:58
 # Mode:     DOMAIN
-# Count:    5957 (Raw: 5957)
+# Count:    5962 (Raw: 5962)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -301,6 +301,7 @@ anthropic.com
 antichristendom.com
 antiwave.net
 antpool.com
+anuneko.com
 anyporn.com
 anysex.com
 ao3.org
@@ -2847,6 +2848,7 @@ jeanyim.com
 jetos.com
 jex.com
 jgoodies.com
+jhelab.org
 jiangweiping.com
 jiaoyou8.com
 jiehua.cz
@@ -3951,6 +3953,7 @@ pobieramy.top
 podbean.com
 podcast.co
 podictionary.com
+podwise.ai
 poe.com
 points-media.com
 pokerstars.com
@@ -4117,9 +4120,11 @@ radicalparty.org
 radiko.jp
 radio-canada.ca
 radio-en-ligne.fr
+radio.co
 radio.garden
 radioaustralia.net.au
 radiohilight.net
+radiojar.com
 radioline.co
 radiovaticana.org
 radiovncr.com
