@@ -8,6 +8,7 @@ a.adtng.com
 a.alimama.cn
 a.market.xiaomi.com
 a.youdao.com
+aaid.umeng.com
 aaxads.com
 acjs.aliyun.com
 ad-delivery.net
@@ -172,6 +173,7 @@ atanx.alicdn.com
 atanx2.alicdn.com
 atm.youku.com
 atom-data.io
+badjs.weixinbridge.com
 baichuan-sdk.alicdn.com
 baifen.music.baidu.com
 bds.snssdk.com
@@ -184,6 +186,8 @@ beizi.biz
 biz.weibo.com
 bloodhound.spotify.com
 bluekai.com
+browser.events.data.msn.cn
+browser.events.data.msn.com
 btrace.qq.com
 bugly.qq.com
 byteadverts.com
@@ -200,6 +204,7 @@ cdn.pocoiq.cn
 cfts1tifqr.com
 china-caa.org
 chinaciaf.org
+clarity.ms
 clearbit.com
 clearbitjs.com
 clearbitscripts.com
@@ -221,6 +226,7 @@ cpro.baidustatic.com
 cps.360buy.com
 cpu.baidu.com
 crash.163.com
+crash2.zhihu.com
 crashlytics.163.com
 cretgate.com
 cstm.baidu.com
@@ -241,6 +247,7 @@ doubleclick.cn
 doubleclick.com
 doubleclick.net
 drmcmm.baidu.com
+dualstack-logs.amap.com
 duiwai.baidu.com
 dup.baidustatic.com
 e.kuaishou.cn
@@ -373,6 +380,7 @@ log3-applog-hl.fqnovel.com
 log3-applog.fqnovel.com
 log5-applog-hl.fqnovel.com
 log5-applog.fqnovel.com
+logs.amap.com
 lqc006.com
 lstat.youku.com
 lu.sogou.com
@@ -393,6 +401,7 @@ miao.baidu.com
 miaowu.baidu.com
 microad.co.jp
 microad.jp
+microsoftads.com
 mipcache.bdstatic.com
 misc.in.duokanbox.com
 mistat.xiaomi.com
@@ -410,6 +419,7 @@ monitor.music.qq.com
 mopub.com
 mountain.zhidao.baidu.com
 mpush.qq.com
+msads.net
 msg.video.qiyi.com
 msg.youku.com
 msg2.video.qiyi.com
@@ -418,6 +428,7 @@ mvad.com
 najva.com
 nbsdk-baichuan.alicdn.com
 nbsdk-baichuan.taobao.com
+nelreports.net
 ns1p.net
 nsclick.baidu.com
 nsclickvideo.baidu.com
@@ -431,6 +442,7 @@ openxcdn.net
 openxenterprise.com
 openxmarket.asia
 optaim.com
+optimus-ads.amap.com
 p-log.ykimg.com
 p.aty.sohu.com
 p3-ad-sign.byteimg.com
@@ -575,6 +587,7 @@ unityads.unitychina.cn
 upapi.net
 uranus.sogou.com
 urchin.com
+utoken.umeng.com
 v6-adashx.ut.amap.com
 v6-adashx.ut.cainiao.com
 v6-adashx.ut.ele.me
@@ -599,6 +612,7 @@ ykad-data.youku.com
 ylog.hiido.com
 ysm.yahoo.com
 z.gds.cnzz.com
+zhihu-web-analytics.zhihu.com
 zhugeapi.com
 zhugeapi.net
 zhugeio.com

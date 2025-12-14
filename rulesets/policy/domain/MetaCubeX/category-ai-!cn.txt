@@ -58,6 +58,7 @@ huggingface.co
 jasper.ai
 jules.google
 jules.google.com
+kiro.dev
 labs.google
 makersuite.google.com
 marscode.com
