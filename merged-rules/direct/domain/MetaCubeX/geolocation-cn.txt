@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2025-12-14 19:09:37
+# Date:     2025-12-15 08:32:18
 # Mode:     DOMAIN
-# Count:    6114 (Raw: 6114)
+# Count:    6115 (Raw: 6115)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 00cdn.com
@@ -3877,6 +3877,7 @@ ncss.org.cn
 ndcpp.com
 nearme.com.cn
 nease.net
+neea.cn
 neihancommunity.cn
 neihancommunity.com
 neihancommunity.net
