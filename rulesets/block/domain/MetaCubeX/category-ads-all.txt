@@ -11,7 +11,9 @@ a.youdao.com
 aaid.umeng.com
 aaxads.com
 acjs.aliyun.com
+ad-channel.diwodiwo.xyz
 ad-delivery.net
+ad-display.diwodiwo.xyz
 ad-srv.net
 ad.12306.cn
 ad.api.3g.youku.com
@@ -151,6 +153,8 @@ alimama.alicdn.com
 alitui.weibo.com
 alog.umeng.com
 alog.umengcloud.com
+alogs.umeng.com
+alogus.umeng.com
 amazon-adsystem.com
 analytics-data.io
 analytics.163.com
@@ -166,13 +170,16 @@ app-measurement.com
 apple.www.letv.com
 applovin.com
 applvn.com
+ar.umeng.com
 ark.letv.com
+aspect-upush.umeng.com
 assets.growingio.com
 assp.sohu.com
 atanx.alicdn.com
 atanx2.alicdn.com
 atm.youku.com
 atom-data.io
+audid.umeng.com
 badjs.weixinbridge.com
 baichuan-sdk.alicdn.com
 baifen.music.baidu.com
@@ -198,6 +205,7 @@ c.uaa.iqiyi.com
 casalemedia.com
 cb.baidu.com
 cbjs.baidu.com
+ccs.umeng.com
 cdn.advertserve.com
 cdn.banclip.com
 cdn.pocoiq.cn
@@ -215,6 +223,8 @@ click.uve.weibo.com
 cloudpush.iqiyi.com
 cm.baidu.com
 cnaa123.com
+cnlogs.umeng.com
+cnlogs.umengcloud.com
 collector.github.com
 collector.xhamster.com
 contentabc.com
@@ -277,7 +287,6 @@ fenxi.com
 fourier.taobao.com
 fout.jp
 fpb.sohu.com
-fundingchoicesmessages.google.com
 g.163.com
 g.click.taobao.com
 g1.tagtic.cn
@@ -429,9 +438,12 @@ najva.com
 nbsdk-baichuan.alicdn.com
 nbsdk-baichuan.taobao.com
 nelreports.net
+new-aaid.umeng.com
+new-aaid.umeng.com.gds.alibabadns.com
 ns1p.net
 nsclick.baidu.com
 nsclickvideo.baidu.com
+oc.umeng.com
 oct.pocoiq.cn
 ogury.co
 ogury.com
@@ -484,6 +496,7 @@ pinggai9.caixin.com
 pingjs.qq.com
 pixel.facebook.com
 pl.youku.com
+plbslog.umeng.com
 policy.video.iqiyi.com
 pos.baidu.com
 presage.io
@@ -500,6 +513,7 @@ realsrv.com
 reke.at.sohu.com
 report.qqweb.qq.com
 res.hunantv.com
+resolve.umeng.com
 retcode.taobao.com
 reyun.com
 rs.sinajs.cn
@@ -577,6 +591,8 @@ tubemogul.com
 uberads.com
 ubmcvideo.baidustatic.com
 ugdtimg.com
+ulogs.umeng.com
+ulogs.umengcloud.com
 unimhk.com
 union.baidu.com
 unioncom.cc
