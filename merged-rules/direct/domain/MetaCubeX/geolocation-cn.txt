@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2025-12-17 19:14:14
+# Date:     2025-12-18 08:29:36
 # Mode:     DOMAIN
-# Count:    6182 (Raw: 6182)
+# Count:    6186 (Raw: 6186)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 00cdn.com
@@ -3768,6 +3768,7 @@ mhyurl.cn
 mi-idc.com
 mi-img.com
 mi.com
+miaibox.com
 miaobolive.com
 miaomiaoz.com
 miaomiaozhe.com
@@ -4084,6 +4085,7 @@ openkylin.top
 openlearning.com
 openmidas.com
 openve.cn
+openvela.com
 oppo.cn
 oppo.com
 oppo.mobi
@@ -5664,6 +5666,7 @@ xiangbababus.com
 xiangrikuijianzhan.com
 xiangrikuisite.com
 xianjiqun.com
+xiaoaiassist.com
 xiaobaixitong.com
 xiaodutv.com
 xiaoe-tech.com
@@ -5689,6 +5692,7 @@ xiaomiinc.cn
 xiaomiinc.com
 xiaomiinc.com.cn
 xiaomiinc.net
+xiaomimimo.com
 xiaomimobile.com
 xiaomingtaiji.com
 xiaominr.com
