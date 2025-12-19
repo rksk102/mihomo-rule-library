@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2025-12-18 19:12:54
+# Date:     2025-12-19 08:29:29
 # Mode:     DOMAIN
-# Count:    26333 (Raw: 26333)
+# Count:    26334 (Raw: 26334)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -2681,6 +2681,7 @@ awflapp.top
 awjq.cc
 aws-iot-hackathon.com
 aws.com
+aws.dev
 awsapprunner.com
 awsapps.com
 awsautopilot.com

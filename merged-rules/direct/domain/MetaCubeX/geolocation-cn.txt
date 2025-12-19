@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2025-12-18 19:12:54
+# Date:     2025-12-19 08:29:29
 # Mode:     DOMAIN
-# Count:    6186 (Raw: 6186)
+# Count:    6188 (Raw: 6188)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 00cdn.com
@@ -3849,6 +3849,8 @@ mooc.cn
 moocollege.com
 moocs.unipus.cn
 moonshot.cn
+moonvy.com
+moonvy.cool
 mop.com
 morefreegame.com
 morganstanleyhuaxin.com

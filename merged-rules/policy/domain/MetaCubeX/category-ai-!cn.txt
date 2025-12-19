@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2025-12-18 19:12:54
+# Date:     2025-12-19 08:29:29
 # Mode:     DOMAIN
-# Count:    95 (Raw: 95)
+# Count:    97 (Raw: 97)
 # Desc:     Auto-detected from policy/domain/MetaCubeX/category-ai-!cn.txt
 # ----------------------------------------
 ai.google.dev
@@ -78,6 +78,8 @@ notebooklm.google.com
 o33249.ingest.sentry.io
 oaistatic.com
 oaiusercontent.com
+opal.google
+opal.google.com
 openai.com
 openai.com.cdn.cloudflare.net
 openaiapi-site.azureedge.net
