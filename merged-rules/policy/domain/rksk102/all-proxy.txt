@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2025-12-19 19:10:36
+# Date:     2025-12-20 08:26:15
 # Mode:     DOMAIN
-# Count:    26334 (Raw: 26334)
+# Count:    26341 (Raw: 26341)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -16930,8 +16930,14 @@ ntc.party
 ntd.com
 ntd.tv
 ntdca.com
+ntdfreemobile-tgc.cdn.hinet.net
+ntdfreepc-tgc.cdn.hinet.net
+ntdfreetv-tgc.cdn.hinet.net
+ntdfreevcpc-tgc.cdn.hinet.net
 ntdimg.com
+ntdofifreemobile-tgc.cdn.hinet.net
 ntdofifreepc-tgc.cdn.hinet.net
+ntdofifreetv-tgc.cdn.hinet.net
 ntdofifreevcpc-tgc.cdn.hinet.net
 ntdtv-dc.com
 ntdtv.ca
@@ -17702,6 +17708,7 @@ parstream.com
 parstream.net
 parstream.org
 partmaker.com
+partnerstack.xyz
 partycasino.com
 partylikeits1986.org
 partypoker.com

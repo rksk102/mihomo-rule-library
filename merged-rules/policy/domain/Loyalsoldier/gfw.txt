@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2025-12-19 19:10:36
+# Date:     2025-12-20 08:26:15
 # Mode:     DOMAIN
-# Count:    5964 (Raw: 5964)
+# Count:    5965 (Raw: 5965)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -3843,6 +3843,7 @@ parkansky.com
 parler.com
 parse.com
 parsevideo.com
+partnerstack.xyz
 partycasino.com
 partypoker.com
 passion.com
