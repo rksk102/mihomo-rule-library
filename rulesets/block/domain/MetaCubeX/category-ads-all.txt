@@ -246,6 +246,10 @@ da.hunantv.com
 da.mgtv.com
 das-rpt-log.ucloud.cn
 data.flurry.com
+data.mistat.india.xiaomi.com
+data.mistat.intl.xiaomi.com
+data.mistat.rus.xiaomi.com
+data.mistat.xiaomi.com
 dc.letv.com
 decide.mixpanel.com
 demdex.net
@@ -390,6 +394,7 @@ log3-applog.fqnovel.com
 log5-applog-hl.fqnovel.com
 log5-applog.fqnovel.com
 logs.amap.com
+logupdate.avlyun.sec.miui.com
 lqc006.com
 lstat.youku.com
 lu.sogou.com
@@ -413,7 +418,6 @@ microad.jp
 microsoftads.com
 mipcache.bdstatic.com
 misc.in.duokanbox.com
-mistat.xiaomi.com
 mixer.sina.cn
 mlog.hiido.com
 moat.com
