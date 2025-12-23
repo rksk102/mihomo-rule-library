@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2025-12-22 19:11:58
+# Date:     2025-12-23 08:30:08
 # Mode:     DOMAIN
-# Count:    26349 (Raw: 26349)
+# Count:    26354 (Raw: 26354)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -24224,7 +24224,12 @@ vpsxb.net
 vraiesagesse.net
 vrbgay.com
 vrcams.io
+vrcdn.cloud
+vrcdn.live
+vrcdn.video
+vrchat.cloud
 vrchat.com
+vrchat.net
 vred-essentials.com
 vredessentials.com
 vredprofessional.com
