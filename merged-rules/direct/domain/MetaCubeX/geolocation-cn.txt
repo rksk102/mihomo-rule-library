@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2025-12-23 19:12:04
+# Date:     2025-12-24 08:29:46
 # Mode:     DOMAIN
-# Count:    6199 (Raw: 6199)
+# Count:    6203 (Raw: 6203)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 00cdn.com
@@ -2405,6 +2405,7 @@ gjgbdszt.cn
 gjgbdszt.com.cn
 gjgbdszt.net.cn
 gjzq.com.cn
+gk100.com
 gkzq.com.cn
 globalcdn.cn
 globalrdp.cn
@@ -3110,6 +3111,7 @@ jdx.com
 jet-ego.com
 jet-logistics.com
 jetlogistic.com
+jfdaily.com
 jhgtgb.com
 jhscm.com
 jhwan.com.cn
@@ -3225,6 +3227,7 @@ jrjimg.cn
 jrzk.net.cn
 jsbc.com
 jsctyiptv.cn
+jsdmirror.com
 jsehealth.com
 jsfund.cn
 jslife.net
@@ -4599,6 +4602,7 @@ shixiseng.com
 shizhuang-inc.com
 shizhuang-inc.net
 shmetro.com
+shobserver.com
 shopoppo.cn
 shopoppo.com.cn
 shopss.com

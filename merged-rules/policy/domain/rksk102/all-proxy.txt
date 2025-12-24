@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2025-12-23 19:12:04
+# Date:     2025-12-24 08:29:46
 # Mode:     DOMAIN
-# Count:    26354 (Raw: 26354)
+# Count:    26355 (Raw: 26355)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -5741,6 +5741,7 @@ collegesexgames.com
 colliderporn.com
 collins.co.uk
 collins.in
+collinsdictionary.com
 colombianas.webcam
 colorfulstage.com
 colorprotechnology.com
@@ -9580,21 +9581,18 @@ fusker.xxx
 futanarihq.com
 futhead.com
 futpromos.com
-futuesop.com
 futufin.com
 futuhk.com
+futuhkapp.com
 futuhn.com
 futuholdings.com
 futunited.com
-futuniuniu.com
-futunn.com
 futurechinaforum.org
 futuremessage.org
 futureofbritishmanufacturing.com
 futureofbusinesssurvey.org
 futureofmaktingthings.com
 futureshop.ca
-futustatic.com
 fux.com
 fuxporn.com
 fuyindiantai.org
@@ -13903,6 +13901,7 @@ lbtube.com
 lcgirls.com
 lcsmerch.com
 ld.hao123img.com
+ldoceonline.com
 ldplayer.net
 ldplayer.tw
 ldstatic.com
@@ -16462,6 +16461,7 @@ newmitbbs.com
 newmonst1erbeatsto1re.com
 newmonsterbeatsheadphones.com
 newnews.ca
+newpipe.net
 newpppp.com
 news.co.uk
 news.com.au
@@ -24432,6 +24432,7 @@ webjb.org
 webkit.org
 webkitgtk.org
 weblagu.com
+weblate.org
 weblive-hamivideo.cdn.hinet.net
 webmoneyinfo.com
 webmproject.org
