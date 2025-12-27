@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2025-12-26 19:09:40
+# Date:     2025-12-27 08:27:16
 # Mode:     DOMAIN
-# Count:    115725 (Raw: 115725)
+# Count:    115728 (Raw: 115728)
 # Desc:     Auto-detected from direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -21614,6 +21614,7 @@ chinaorff.com
 chinaorff.org
 chinaorganicchem.com
 chinaorientgroup.com
+chinaott.com
 chinaott.net
 chinapag.com
 chinapandi.com
@@ -46250,6 +46251,7 @@ hijiaoshi.com
 hijin.vip
 hijoys.com
 hik-cloud.com
+hik-express.com
 hik-park.com
 hikailink.com
 hikari-ch.com
@@ -46259,6 +46261,7 @@ hikemobile.com
 hikerfans.com
 hikihj.com
 hikinginternational.com
+hikiot.com
 hiklife.com
 hikmall.com
 hikoon.com
