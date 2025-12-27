@@ -1316,6 +1316,7 @@ chinanature.com.cn
 chinanetcenter.com
 chinanews.com
 chinanews.com.cn
+chinaott.com
 chinapay.com
 chinapp.net
 chinapubmed.net
@@ -1389,6 +1390,7 @@ cjsc.com
 ckd.im
 ckxx.net
 cleargrass.com
+clink.cn
 clk1.cn
 clk1.top
 cloud-beijing.com
@@ -1509,6 +1511,7 @@ cmfchina.com
 cmfunds.cn
 cmicrwx.cn
 cmpassport.com
+cmread.com
 cmvideo.cn
 cn.pool.ntp.org
 cnanzhi.com
@@ -1921,6 +1924,7 @@ dpma.cc
 draftstatic.com
 dratio.com
 drcnet.com.cn
+dreame.tech
 dreams-travel.com
 drivergenius.com
 drp321.com
@@ -2043,6 +2047,7 @@ emr-volces.com
 emumax.com
 enterdesk.com
 eoeandroid.com
+eoffcn.com
 eolink.com
 er07.com
 erji.net
@@ -2069,7 +2074,9 @@ excelhome.net
 exmailgz.com
 expreview.com
 extfans.com
+eziot.com
 ezpro.pro
+ezviz.com
 f.cx
 fa-part.com
 faasapp.cn
@@ -2608,10 +2615,15 @@ hihonor.com
 hihonorcdn.com
 hihonorcloud.com
 hiido.com
+hik-cloud.com
+hik-express.com
+hikiot.com
+hikmall.com
 hikunpeng.cn
 hikunpeng.com
 hikunpeng.com.cn
 hikunpeng.net
+hikvision.com
 hisensehitachi.com
 hisilicon.com
 hisilicon.com.cn
@@ -2822,6 +2834,7 @@ icbcstandardsecurities.com
 iccvlog.com
 ichangtou.com
 iciba.com
+icntvcdn.com
 iconfont.cn
 icourse163.org
 icourses.cn
@@ -2924,6 +2937,7 @@ inkuai.com
 inkwai.com
 inspirecloud.cn
 inspirecloud.com
+insta360.com
 intsig.com
 intsig.net
 ioppo.com.cn
@@ -3191,6 +3205,7 @@ jlcgroup.cn
 jlcops.com
 jlcsj.com
 jlcsmt.com
+jmgo.com
 jmlk.co
 jmstatic.com
 jnt-express.com.cn
@@ -3733,6 +3748,7 @@ mechina.org
 mechrevo.com
 medalink.cn
 media.paperclipclub.net
+mediastory.cc
 medicexam.net
 meegobeta.com
 mei.com
@@ -3787,6 +3803,7 @@ mifile.cn
 migames.com
 migu.cn
 migucloud.com
+migufun.com
 miguvideo.com
 mihayo.com
 mihayou.com
@@ -4702,6 +4719,7 @@ sou.cn
 sou.com
 soufunimg.com
 souqian.com
+southcn.com
 southmoney.com
 sparenode.com
 sparkletour.com
@@ -4795,6 +4813,7 @@ sxcxldjy.com
 sxgou.cn
 sxl.cn
 sxlcdn.cn
+sydw8.com
 sys321.com
 syxlgame.com
 sz-jlc.com
@@ -5921,6 +5940,8 @@ yoyou.com
 ypppt.com
 yqb.com
 yrz.name
+ys7.com
+ysjf.com
 yslyhr.com
 ystbds.com
 ysten.com
@@ -6047,9 +6068,11 @@ zgcbank.com
 zggbdszt.cn
 zggbdszt.com.cn
 zggbdszt.net.cn
+zggqzp.com
 zgjm.org
 zgjsks.com
 zglxw.com
+zgsydw.com
 zgxytc.com
 zgzcw.com
 zgzsa.com
