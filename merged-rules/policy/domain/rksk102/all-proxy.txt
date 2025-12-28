@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2025-12-27 19:09:13
+# Date:     2025-12-28 08:27:24
 # Mode:     DOMAIN
-# Count:    26357 (Raw: 26357)
+# Count:    26358 (Raw: 26358)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -6540,7 +6540,6 @@ dengeamerika.com
 dengekionline.com
 dengiamerika.com
 deno.com
-deno.dev
 deno.land
 dentalhypotheses.com
 dependabot.com
@@ -9922,6 +9921,7 @@ gfsale.com
 gfw.press
 gfw.report
 gfwatch.org
+gfwbao.com
 gfx.ms
 gfycat.com
 gfysex.com
@@ -21401,6 +21401,7 @@ steamcontent.com
 steamdb.info
 steamdeck.com
 steamgames.com
+steamladder.com
 steammobile.akamaized.net
 steamofporn.com
 steampipe-kr.akamaized.net
