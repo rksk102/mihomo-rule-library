@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2025-12-30 19:11:36
+# Date:     2025-12-31 08:29:25
 # Mode:     DOMAIN
-# Count:    26360 (Raw: 26360)
+# Count:    26361 (Raw: 26361)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -11023,6 +11023,7 @@ herokucharge.com
 herokussl.com
 herominers.com
 herringnetwork.com
+hetzner-cloud.de
 hetzner.cloud
 hetzner.com
 hetzner.company
