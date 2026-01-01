@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2025-12-31 19:10:22
+# Date:     2026-01-01 08:29:23
 # Mode:     DOMAIN
-# Count:    26361 (Raw: 26361)
+# Count:    26364 (Raw: 26364)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -2763,6 +2763,7 @@ azureserviceprofiler.com
 azuresmartspaces.net
 azurestackvalidation.com
 azurewebsites.net
+b-cdn.net
 b-eroland.net
 b-ok.africa
 b-ok.asia
@@ -4577,6 +4578,8 @@ bumptop.org
 bumptunes.com
 bunbunhk.com
 bunka.go.jp
+bunny.net
+bunnycdn.com
 bunnylust.com
 burningcamel.com
 burstly.net
