@@ -126,6 +126,7 @@ adsview.qq.com
 adsview2.qq.com
 adtechus.com
 adtrack.quark.cn
+adtrafficquality.google
 adtrue.com
 adukwai.com
 adv-sv-show.focus.cn
@@ -156,6 +157,7 @@ alog.umengcloud.com
 alogs.umeng.com
 alogus.umeng.com
 amazon-adsystem.com
+analytics-alv.google.com
 analytics-data.io
 analytics.163.com
 analytics.facebook.com
@@ -286,6 +288,7 @@ extlog.snssdk.com
 facebookads.com
 fclick.baidu.com
 fclog.baidu.com
+fcmatch.google.com
 fenxi.360.cn
 fenxi.com
 fourier.taobao.com
