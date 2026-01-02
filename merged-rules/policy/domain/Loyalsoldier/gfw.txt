@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-01-01 19:11:00
+# Date:     2026-01-02 08:29:16
 # Mode:     DOMAIN
-# Count:    5969 (Raw: 5969)
+# Count:    5971 (Raw: 5971)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -3874,6 +3874,7 @@ pct.org.tw
 pdetails.com
 pdproxy.com
 pds.nasa.gov
+pdst.fm
 peace.ca
 peacefire.org
 peeasian.com
@@ -5267,6 +5268,7 @@ unseen.is
 unstable.icu
 unwire.hk
 uocn.org
+up.audio
 upbit.com
 updates.tdesktop.com
 upghsbc.com
