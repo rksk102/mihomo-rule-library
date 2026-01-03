@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-01-02 19:08:24
+# Date:     2026-01-03 08:27:22
 # Mode:     DOMAIN
-# Count:    5971 (Raw: 5971)
+# Count:    5988 (Raw: 5988)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -3924,6 +3924,23 @@ ping.fm
 pinimg.com
 pinkrod.com
 pinoy-n.com
+pinterest.at
+pinterest.ca
+pinterest.cl
+pinterest.co.uk
+pinterest.com
+pinterest.com.au
+pinterest.com.mx
+pinterest.de
+pinterest.es
+pinterest.fr
+pinterest.ie
+pinterest.it
+pinterest.jp
+pinterest.nz
+pinterest.ph
+pinterest.pt
+pinterest.se
 pioneer-worker.forums-free.com
 pipii.tv
 piraattilahti.org
