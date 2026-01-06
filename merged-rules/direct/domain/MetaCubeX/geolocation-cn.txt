@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-01-05 19:14:45
+# Date:     2026-01-06 08:31:10
 # Mode:     DOMAIN
-# Count:    6229 (Raw: 6229)
+# Count:    6230 (Raw: 6230)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 00cdn.com
@@ -1253,6 +1253,7 @@ cf-ns.com
 cf-ns.net
 cf-ns.site
 cf-ns.tech
+cfc108.com
 cfsc.com.cn
 cftest5.cn
 cftest6.cn

@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-01-05 19:14:45
+# Date:     2026-01-06 08:31:10
 # Mode:     DOMAIN
-# Count:    26508 (Raw: 26508)
+# Count:    26511 (Raw: 26511)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -1103,6 +1103,7 @@ ai-sdk.dev
 ai.binwang.me
 ai.dev
 ai.google.dev
+ai.studio
 ai7995.site
 ai91porn.cc
 aiaa.org
@@ -17554,6 +17555,7 @@ onxxxtube.com
 onxxxvideo.com
 ood.opsource.net
 oojj.de
+ooni.io
 ooni.org
 ootbstudio.co.kr
 op.gg
@@ -19904,13 +19906,13 @@ rustdesk.com
 rustup.rs
 rusvpn.com
 ruten.com.tw
+rutor.info
 rutracker.cc
 rutracker.cr
 rutracker.me
 rutracker.net
 rutracker.nl
 rutracker.org
-rutrecker.net
 rutrk.org
 rutube.ru
 rutubelist.ru
@@ -25229,6 +25231,7 @@ xbx.lv
 xcafe.com
 xcafe.in
 xcams.com
+xcancel.com
 xcg123.com
 xchina.co
 xchina.fun

@@ -2,12 +2,13 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-01-05 19:14:45
+# Date:     2026-01-06 08:31:10
 # Mode:     DOMAIN
-# Count:    97 (Raw: 97)
+# Count:    98 (Raw: 98)
 # Desc:     Auto-detected from policy/domain/MetaCubeX/category-ai-!cn.txt
 # ----------------------------------------
 ai.google.dev
+ai.studio
 aida.googleapis.com
 aisandbox-pa.googleapis.com
 aistudio.google.com
