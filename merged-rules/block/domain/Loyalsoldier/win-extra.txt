@@ -2,7 +2,7 @@
 # Strategy: block
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-01-07 08:30:58
+# Date:     2026-01-07 19:14:44
 # Mode:     DOMAIN
 # Count:    399 (Raw: 399)
 # Desc:     Auto-detected from block/domain/Loyalsoldier/win-extra.txt
