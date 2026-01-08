@@ -8118,7 +8118,6 @@ ali-pro-origin-pull.kwai.net.iberostar.com
 ali-pro-pull.kwai.net.iberostar.com
 ali8.alinea.fr
 alia-iso.com
-aliapp.org
 alias.cloud-marketing.dimensiondata.com
 aliasanvil.com
 aliasfoot.com
@@ -16824,6 +16823,7 @@ cdn.wuyou.ca
 cdn.xbcpcn.com
 cdn.xiaoduoai.com
 cdn.yld.is
+cdn.ynuf.aliapp.org
 cdn0.mobmore.com
 cdn1.crispadvertising.com
 cdn1.lbesec.com
@@ -86369,6 +86369,7 @@ tracker.unbxdapi.com
 tracker.wigzopush.com
 tracker.winload.de
 tracker.wpserveur.net
+tracker.xiaomixiaoai.com
 tracker.yhd.com
 trackerapi.truste.com
 trackercloud.net
@@ -89240,6 +89241,7 @@ umbel.com
 umbkhpryixebl.space
 umbrella6.top
 umc.danuoyi.alicdn.com
+umdc.aliapp.org
 umdlbn.globetrotter.de
 umdpva.gakumado.mynavi.jp
 umdwwuasqcdar.online
