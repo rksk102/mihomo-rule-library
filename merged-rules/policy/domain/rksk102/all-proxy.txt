@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-01-07 19:14:44
+# Date:     2026-01-08 08:30:52
 # Mode:     DOMAIN
-# Count:    26522 (Raw: 26522)
+# Count:    26523 (Raw: 26523)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -21968,6 +21968,7 @@ talkcc.com
 talkonly.net
 talksport.com
 tamilsexvideos.cc
+tamtam.chat
 tanc.org
 tandberg-china.com
 tandberg.com
