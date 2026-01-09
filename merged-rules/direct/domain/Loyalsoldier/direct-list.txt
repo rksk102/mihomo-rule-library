@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-01-08 19:13:26
+# Date:     2026-01-09 08:30:40
 # Mode:     DOMAIN
-# Count:    114728 (Raw: 114728)
+# Count:    114730 (Raw: 114730)
 # Desc:     Auto-detected from direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -35055,6 +35055,7 @@ fnkslift.com
 fnkvision.com
 fnmobi.com
 fnnas.com
+fnnas.net
 fnnsh.com
 fnnspa.com
 fnos.net
@@ -89683,6 +89684,7 @@ tapafun.com
 tapai.com
 tapaijiu.com
 tapapis.com
+tapapks.com
 tapas.net
 tapbooster.net
 tapdata.net
