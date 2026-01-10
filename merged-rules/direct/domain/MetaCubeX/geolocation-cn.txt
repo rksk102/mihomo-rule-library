@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-01-09 19:14:21
+# Date:     2026-01-10 08:26:32
 # Mode:     DOMAIN
-# Count:    6238 (Raw: 6238)
+# Count:    6241 (Raw: 6241)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 00cdn.com
@@ -2009,6 +2009,7 @@ eastday.com
 eastmoney.com
 eastmoneyfutures.com
 eastsoo.com
+easytomessage.com
 easytrip.com
 eayyou.com
 eb-ind.com
@@ -4545,6 +4546,7 @@ sccreators.cn
 scctyiptv.cn
 scdng.com
 scescdn.cn
+schoopia.com
 scid.cn
 sciencechina.cn
 scm121.cn
@@ -5118,6 +5120,7 @@ tongdun.net
 tongfangpc.com
 tongtaiamc.com
 tongxianghuicn.com
+tongxuepie.com
 tongyi.com
 tools.team
 toplife.com
