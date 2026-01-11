@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-01-10 19:09:19
+# Date:     2026-01-11 08:27:19
 # Mode:     DOMAIN
-# Count:    114733 (Raw: 114733)
+# Count:    114734 (Raw: 114734)
 # Desc:     Auto-detected from direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -67684,6 +67684,7 @@ moboplayer.com
 mobotap.com
 mobring.co
 mobrtb.com
+mobsdks.com
 mobsurl.com
 mobtou.com
 mobvoi.com

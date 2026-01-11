@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-01-10 19:09:19
+# Date:     2026-01-11 08:27:19
 # Mode:     DOMAIN
-# Count:    6241 (Raw: 6241)
+# Count:    6257 (Raw: 6257)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 00cdn.com
@@ -581,6 +581,7 @@ ancientbooks.cn
 andfx.cn
 andfx.net
 anfensi.com
+anhuinews.com
 animetamashi.cn
 animetamashi.com
 anitama.cn
@@ -1292,6 +1293,7 @@ chdi.com.cn
 che168.com
 checkzeit.com
 chei.com.cn
+chelaile.net.cn
 chememall.com
 cheng.xin
 chesicc.cn
@@ -1517,13 +1519,16 @@ cmbimg.com
 cmbt.cn
 cmbuat.com
 cmburl.cn
+cmcc-cs.cn
 cmcm.com
 cmcmcdn.com
 cmf.biz
 cmf.ltd
 cmfchina.com
 cmfunds.cn
+cmicapm.com
 cmicrwx.cn
+cmicvip.cn
 cmpassport.com
 cmread.com
 cmvideo.cn
@@ -1701,6 +1706,7 @@ cyagen.com
 cybtc.com
 cyol.com
 cyts.com
+cytxl.com.cn
 cyzone.cn
 cza84.cn
 cztv.com
@@ -1964,6 +1970,7 @@ duoshan.com
 duoshuo.com
 duote.com
 duowan.com
+dutenews.com
 dutils.com
 duurl.cn
 duxiaoman-int.com
@@ -2621,6 +2628,7 @@ hftfund.com
 hfzq.com.cn
 hhtravel.com
 hi-butterfly.cn
+hiaiabc.com
 hiascend.cn
 hiascend.com
 hichina.com
@@ -3862,6 +3870,7 @@ mmstat.com
 mndqlib.net
 mob.com
 mobmore.com
+mobsdks.com
 modelarts-infer.cn
 modelarts-infer.com
 modelarts-maas.cn
@@ -3933,6 +3942,7 @@ mychinaunicom.com
 mydown.com
 mydrivers.com
 myelasticsearch.com
+mygolbs.com
 myhuaweicloud-custom.cn
 myhuaweicloud-custom.com
 myhuaweicloud-koodrive.cn
@@ -4109,6 +4119,7 @@ oneplusbbs.com
 oneplusmobile.com
 onexmail.com
 oneyac.com
+online-cmcc.cn
 onlinedown.net
 onlinesjtu.com
 onlylady.com
@@ -4607,6 +4618,7 @@ shanshuihotel.com
 shanxijianzhuzizhi.com
 shareintelli.com
 sharejs.com
+sharesdk.cn
 shebiaotm.com
 shelter-china.com
 shelterdome.net
@@ -4841,6 +4853,8 @@ szfw.org
 szhk.com
 szjlc.cn
 szlcsc.com
+sznews.com
+szpgm.com
 szse.cn
 szzfgjj.com
 t.cn
@@ -5625,6 +5639,7 @@ worldoftank.cn
 worldoftanks.cn
 worldoftanks.com.cn
 woshipm.com
+wosms.cn
 wostatic.cn
 wotgame.cn
 wowsgame.cn
@@ -5915,6 +5930,7 @@ yizhibo.com
 yizhitou.com
 yjbys.com
 ykimg.com
+yksdks.com
 ykzq.com
 yl-scm.com
 ylike.net
