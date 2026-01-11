@@ -181,6 +181,7 @@ atanx.alicdn.com
 atanx2.alicdn.com
 atm.youku.com
 atom-data.io
+atrace.chelaile.net.cn
 audid.umeng.com
 badjs.weixinbridge.com
 baichuan-sdk.alicdn.com
@@ -397,6 +398,7 @@ log3-applog.fqnovel.com
 log5-applog-hl.fqnovel.com
 log5-applog.fqnovel.com
 logs.amap.com
+logs.chelaile.net.cn
 logupdate.avlyun.sec.miui.com
 lqc006.com
 lstat.youku.com
@@ -432,6 +434,7 @@ mobileads.google.com
 mobilemsg.youku.com
 mobwithad.com
 monitor.music.qq.com
+monitor.uu.qq.com
 mopub.com
 mountain.zhidao.baidu.com
 mpush.qq.com
@@ -504,6 +507,7 @@ pingjs.qq.com
 pixel.facebook.com
 pl.youku.com
 plbslog.umeng.com
+pmir.3g.qq.com
 policy.video.iqiyi.com
 pos.baidu.com
 presage.io
@@ -523,6 +527,7 @@ res.hunantv.com
 resolve.umeng.com
 retcode.taobao.com
 reyun.com
+rmonitor.qq.com
 rs.sinajs.cn
 rtlog3-applog-hl.fqnovel.com
 rtlog3-applog.fqnovel.com
@@ -569,6 +574,7 @@ static.hotjar.com
 static.javhd.com
 static.sensorsdata.cn
 statis.api.3g.youku.com
+stats.music.xiaomi.com
 supersonic.com
 supersonicads-a.akamaihd.net
 supersonicads.com
@@ -592,6 +598,7 @@ trace.qq.com
 track.lc.quark.cn
 track.sohu.com
 tracker.ai.xiaomi.com
+tracker.xiaomixiaoai.com
 tracking.miui.com
 trafficfactory.biz
 tsyndicate.com
