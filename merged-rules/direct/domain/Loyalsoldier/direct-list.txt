@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-01-12 19:14:56
+# Date:     2026-01-13 08:31:03
 # Mode:     DOMAIN
-# Count:    114886 (Raw: 114886)
+# Count:    114887 (Raw: 114887)
 # Desc:     Auto-detected from direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -83884,6 +83884,7 @@ shouqiev.com
 shouqu.me
 shoushenlvcheng.com
 shoutai.com
+shoutanjjj.com
 shouxi.com
 shouxieti.com
 shouxihu.net

@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-01-12 19:14:56
+# Date:     2026-01-13 08:31:03
 # Mode:     DOMAIN
-# Count:    6257 (Raw: 6257)
+# Count:    6271 (Raw: 6271)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 00cdn.com
@@ -882,6 +882,7 @@ blogjava.net
 bluepoch.com
 blurdev.com
 blyun.com
+bmac.com.cn
 bobbns.com
 bobo.com
 boc.cn
@@ -2016,6 +2017,7 @@ eastday.com
 eastmoney.com
 eastmoneyfutures.com
 eastsoo.com
+easytier.cn
 easytomessage.com
 easytrip.com
 eayyou.com
@@ -4647,6 +4649,7 @@ shopoppo.com.cn
 shopss.com
 shoujihuifu.com
 shouqianba.com
+shoutanjjj.com
 shouyoubus.com
 shrbank.com
 shssp.org
@@ -4929,6 +4932,16 @@ tcloudscdn.com
 tcloudscdn.net
 tcltech.com
 tcwqqdy.guru
+tdnsdl1.cn
+tdnsdl1.com.cn
+tdnsdl2.cn
+tdnsdl2.com.cn
+tdnsdl3.cn
+tdnsdl3.com.cn
+tdnsdl4.cn
+tdnsdl4.com.cn
+tdnsdl5.cn
+tdnsdl5.com.cn
 tdnsstic1.cn
 tdnsv1.com
 tdnsv1.net
@@ -5968,6 +5981,7 @@ youxihezi.net
 youxila.com
 youxiniao.com
 youxiputao.com
+youxituoluo.com
 youyierp.com
 youyitms.com
 youyiwms.com
