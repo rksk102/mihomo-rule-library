@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-01-14 19:12:53
+# Date:     2026-01-15 08:31:23
 # Mode:     DOMAIN
-# Count:    26584 (Raw: 26584)
+# Count:    26587 (Raw: 26587)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -20837,6 +20837,8 @@ signalr.net
 signalusers.org
 sigops.org
 sigopt.com
+sih-db.com
+sih.app
 sijihuisuo.club
 sijihuisuo.com
 sikiswap.com
@@ -21605,6 +21607,7 @@ steamcontent.com
 steamdb.info
 steamdeck.com
 steamgames.com
+steaminventoryhelper.com
 steamladder.com
 steammobile.akamaized.net
 steamofporn.com
