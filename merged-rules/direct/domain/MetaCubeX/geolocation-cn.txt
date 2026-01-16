@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-01-15 19:17:56
+# Date:     2026-01-16 08:30:24
 # Mode:     DOMAIN
-# Count:    6294 (Raw: 6294)
+# Count:    6295 (Raw: 6295)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 00cdn.com
@@ -5496,6 +5496,7 @@ volcfcdnrd.com
 volcfcdnsc.com
 volcfxgjrtm.com
 volcgroup.com
+volcgslb-mlt.com
 volcgslb.com
 volcgtm.com
 volciad.com

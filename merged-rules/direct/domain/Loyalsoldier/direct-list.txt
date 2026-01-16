@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-01-15 19:17:56
+# Date:     2026-01-16 08:30:24
 # Mode:     DOMAIN
-# Count:    114748 (Raw: 114748)
+# Count:    114749 (Raw: 114749)
 # Desc:     Auto-detected from direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -95287,6 +95287,7 @@ volcfcdnrd.com
 volcfcdnsc.com
 volcfxgjrtm.com
 volcgroup.com
+volcgslb-mlt.com
 volcgslb.com
 volcgtm.com
 volchina.com

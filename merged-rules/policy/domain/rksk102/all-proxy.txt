@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-01-15 19:17:56
+# Date:     2026-01-16 08:30:24
 # Mode:     DOMAIN
-# Count:    26587 (Raw: 26587)
+# Count:    26590 (Raw: 26590)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -25584,6 +25584,7 @@ xuchao.org
 xuehua.us
 xuite.net
 xujan.com
+xv-ru.com
 xv1.monster
 xvbelink.com
 xvds.tv
@@ -25597,8 +25598,10 @@ xvideo.vlog.br
 xvideo1.org
 xvideo2.org
 xvideoporno.tv
+xvideos-ar.com
 xvideos-cdn.com
 xvideos-dl.top
+xvideos-india.com
 xvideos-porn-video.com
 xvideos-xxxx.com
 xvideos.blog
