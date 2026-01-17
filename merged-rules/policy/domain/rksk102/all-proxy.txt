@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-01-16 19:14:18
+# Date:     2026-01-17 08:26:10
 # Mode:     DOMAIN
-# Count:    26590 (Raw: 26590)
+# Count:    26594 (Raw: 26594)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -17135,15 +17135,19 @@ ntdofifreetv-tgc.cdn.hinet.net
 ntdofifreevcpc-tgc.cdn.hinet.net
 ntdtv-dc.com
 ntdtv.ca
+ntdtv.co.il
 ntdtv.co.kr
 ntdtv.com
 ntdtv.com.tw
 ntdtv.cz
+ntdtv.fr
 ntdtv.jp
 ntdtv.kr
 ntdtv.org
 ntdtv.ru
+ntdtv.se
 ntdtvla.com
+ntdvideo.tw
 ntdvn.com
 ntnews.com.au
 ntp-b.nist.gov
