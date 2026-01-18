@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-01-17 19:09:03
+# Date:     2026-01-18 08:27:09
 # Mode:     DOMAIN
-# Count:    26594 (Raw: 26594)
+# Count:    26601 (Raw: 26601)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -1735,7 +1735,10 @@ anistreaming.xyz
 ankarazirvesi2018.com
 anm.co.uk
 annamilk.com
+annas-archive.in
+annas-archive.li
 annas-archive.org
+annas-archive.pm
 annas-archive.se
 annatam.com
 annstores.net
@@ -13920,6 +13923,7 @@ kpinsurances.com
 kpkuang.org
 kpptoto.info
 kqes.net
+kraftonde.com
 kraken.com
 kraken.onl
 krakenjs.com
@@ -18449,6 +18453,7 @@ play4free.com
 playapex.com
 playartifact.com
 playbar.biz
+playbattlegrounds.com
 playboy.com
 playboy.com.uk
 playboyplus.com
@@ -19168,6 +19173,8 @@ ptwxz.com
 ptzwx.com
 pu82.vip
 pub.dev
+pubg.com
+pubg1.battleye.com
 public-sex-porn.com
 public-trust.com
 public-us-pingsx.api.clonoth.com
