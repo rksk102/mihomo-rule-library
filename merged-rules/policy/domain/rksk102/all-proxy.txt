@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-01-19 19:13:41
+# Date:     2026-01-20 08:32:09
 # Mode:     DOMAIN
-# Count:    26601 (Raw: 26601)
+# Count:    26605 (Raw: 26605)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -5063,6 +5063,7 @@ casquesbeatsaudio.com
 castbox.fm
 castingcouch-x.com
 castro.fm
+cataboom.com
 catalina.hk
 catalinacruz.com
 catbox.moe
@@ -5912,6 +5913,7 @@ conoha.jp
 conquerwithcharacter.com
 conscrypt.com
 conscrypt.org
+consentpro.com
 constructware.com
 consul.io
 contactmagazine.net
@@ -17720,6 +17722,7 @@ orsm.net
 orthopaedic-cadcam.com
 orthotics-cadcam.com
 osakamotion.net
+osano.com
 osapublishing.org
 osdn.net
 osfoora.com
@@ -23463,6 +23466,7 @@ uselessjunk.com
 usenix.org
 useplannr.com
 userapi.com
+usercentrics.eu
 usercontent.dev
 userpxt.io
 users.skynet.be
