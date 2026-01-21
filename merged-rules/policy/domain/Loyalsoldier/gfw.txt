@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-01-20 20:07:48
+# Date:     2026-01-21 08:32:18
 # Mode:     DOMAIN
-# Count:    5998 (Raw: 5998)
+# Count:    6000 (Raw: 6000)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -5563,6 +5563,7 @@ wefightcensorship.org
 wefong.com
 wego.here.com
 weiboleak.com
+weights.com
 weihuo.org
 weijingsheng.org
 weiming.info
@@ -5884,6 +5885,7 @@ you.com
 youdontcare.com
 youjizz.com
 youmaker.com
+youmind.com
 youngpornvideos.com
 youngspiration.hk
 youpai.org

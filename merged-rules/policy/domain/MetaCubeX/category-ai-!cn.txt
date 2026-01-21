@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-01-20 20:07:48
+# Date:     2026-01-21 08:32:18
 # Mode:     DOMAIN
-# Count:    108 (Raw: 108)
+# Count:    113 (Raw: 113)
 # Desc:     Auto-detected from policy/domain/MetaCubeX/category-ai-!cn.txt
 # ----------------------------------------
 ai.google.dev
@@ -78,6 +78,8 @@ jules.google.com
 kiro.dev
 labs.google
 labs.google.com
+liveperson.net
+lpsnmedia.net
 makersuite.google.com
 marscode.com
 meta.ai
@@ -115,3 +117,6 @@ trae.ai
 turn.livekit.cloud
 webchannel-alkalimakersuite-pa.clients6.google.com
 x.ai
+youmind.ai
+youmind.com
+youmind.site
