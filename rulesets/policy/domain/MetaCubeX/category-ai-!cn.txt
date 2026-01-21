@@ -69,6 +69,8 @@ jules.google.com
 kiro.dev
 labs.google
 labs.google.com
+liveperson.net
+lpsnmedia.net
 makersuite.google.com
 marscode.com
 meta.ai
@@ -106,3 +108,6 @@ trae.ai
 turn.livekit.cloud
 webchannel-alkalimakersuite-pa.clients6.google.com
 x.ai
+youmind.ai
+youmind.com
+youmind.site
