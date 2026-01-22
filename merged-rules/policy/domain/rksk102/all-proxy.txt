@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-01-21 19:20:20
+# Date:     2026-01-22 08:33:12
 # Mode:     DOMAIN
-# Count:    26363 (Raw: 26363)
+# Count:    26366 (Raw: 26366)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -9829,6 +9829,7 @@ geocities.co.jp
 geocities.com
 geocities.jp
 geodesummit.com
+geogebra.org
 geolytics.com
 geoport.com
 geospatialimaging.com
@@ -24600,6 +24601,7 @@ wiivc.net
 wikaba.com
 wikawika.xyz
 wiki.gamerp.jp
+wiki.gg
 wiki.keso.cn
 wiki.oauth.net
 wiki.phonegap.com
@@ -24737,6 +24739,7 @@ wokar.org
 wolfatbestbuy.com
 wolfatbestbuy.net
 wolfax.com
+wolframalpha.com
 wolfsex-me.sbs
 wolterskluwer.com
 wombo.ai

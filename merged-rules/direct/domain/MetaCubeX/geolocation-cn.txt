@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-01-21 19:20:21
+# Date:     2026-01-22 08:33:13
 # Mode:     DOMAIN
-# Count:    4280 (Raw: 4280)
+# Count:    4285 (Raw: 4285)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 00cdn.com
@@ -473,6 +473,7 @@ applysquare.com
 applysquare.net
 appsimg.com
 appvipshop.com
+arcaea.cn
 arpun.com
 arrow.cn
 asfiovnxocqpcry.com.cn
@@ -528,6 +529,8 @@ baifendian.com
 baifubao.com
 baihe.com
 baijiayun.com
+baimiao.tech
+baimiaoapp.com
 baishinetwork.com
 baixing.com
 baixing.net
@@ -3187,6 +3190,7 @@ shihuo.cn
 shijiexia.com
 shimo.im
 shimonote.com
+shinescan.tech
 shixiseng.com
 shmetro.com
 shobserver.com
@@ -3625,6 +3629,7 @@ uslk.net
 uucl.vip
 uuu9.com
 uyunad.com
+uzero.cn
 uzzf.com
 v5875.com
 value500.com
