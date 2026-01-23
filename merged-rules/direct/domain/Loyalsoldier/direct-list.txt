@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-01-22 19:18:26
+# Date:     2026-01-23 08:30:36
 # Mode:     DOMAIN
-# Count:    114062 (Raw: 114062)
+# Count:    114063 (Raw: 114063)
 # Desc:     Auto-detected from direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -78321,6 +78321,7 @@ redmagic.com
 redmart.com
 redmou.com
 rednetdns.com
+rednotecdn.com
 redocn.com
 redodopower.com
 redoop.com

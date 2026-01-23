@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-01-22 19:18:26
+# Date:     2026-01-23 08:30:36
 # Mode:     DOMAIN
-# Count:    4285 (Raw: 4285)
+# Count:    4287 (Raw: 4287)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 00cdn.com
@@ -728,6 +728,7 @@ cctvpro.cn
 cctvpro.com.cn
 cczq.com
 cczq.net
+cd120.com
 cdn20.com
 cdn30.org
 cdncl.net
@@ -3063,6 +3064,7 @@ rdnsdb.com
 readnovel.com
 realcybertron.com
 redmagic.com
+rednotecdn.com
 renren-inc.com
 renren.com
 resset.com
