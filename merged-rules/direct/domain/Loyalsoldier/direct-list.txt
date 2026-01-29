@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-01-28 19:19:59
+# Date:     2026-01-29 08:39:37
 # Mode:     DOMAIN
-# Count:    115023 (Raw: 115023)
+# Count:    115024 (Raw: 115024)
 # Desc:     Auto-detected from direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -12154,6 +12154,7 @@ aoch.com
 aochengcdn.com
 aocslb.com
 aocter.net
+aod-ssl.itunes.apple.com
 aod.itunes.apple.com
 aodabo.tech
 aodaliyaqianzheng.com

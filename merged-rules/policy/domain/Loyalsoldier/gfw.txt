@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-01-28 19:19:59
+# Date:     2026-01-29 08:39:37
 # Mode:     DOMAIN
-# Count:    6000 (Raw: 6000)
+# Count:    6001 (Raw: 6001)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -436,6 +436,7 @@ b0ne.com
 babylonbee.com
 babynet.com.hk
 backchina.com
+backend-v2.crixet.com
 backpackers.com.tw
 backtotiananmen.com
 bad.news
