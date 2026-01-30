@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-01-29 19:23:53
+# Date:     2026-01-30 08:39:23
 # Mode:     DOMAIN
-# Count:    6001 (Raw: 6001)
+# Count:    6002 (Raw: 6002)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -1850,6 +1850,7 @@ freeoz.org
 freess.org
 freessh.us
 freetcp.com
+freeterabox.com
 freetibet.net
 freetibet.org
 freetibetanheroes.org
