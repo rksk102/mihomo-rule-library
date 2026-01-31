@@ -917,7 +917,6 @@ cntv.cn
 cntv.com.cn
 cntvwb.cn
 cnweblog.com
-cnzz.com
 cocodiy.com
 code666.com
 codechina.net
@@ -2613,7 +2612,6 @@ mmbang.info
 mmstat.com
 mndqlib.net
 mob.com
-mobmore.com
 mobsdks.com
 modelers.cn
 modex.com.cn
@@ -2915,7 +2913,6 @@ programmer.com.cn
 programmer.net.cn
 proximabeta.com
 psbc.com
-puata.info
 pubghelper.com
 pubgno1.cn
 pubgtool.com
@@ -3199,7 +3196,6 @@ shuidichou.com
 shuidihuzhu.com
 shuiyaohuo.cn
 shuiyaohuo.com
-shujupie.com
 shumensy.com
 shuoshuokong.com
 shutcm.com
@@ -3539,6 +3535,7 @@ u.tools
 u17.com
 u17i.com
 u17t.com
+u3d.cn
 ubssdic.com
 ubuntukylin.com
 ucbug.com
@@ -3586,13 +3583,9 @@ uiwow.com
 ultracachenode.com
 umajor.net
 ume-trip.cn
-umeng.com
-umengcloud.com
 umetrip.com
 umetrip.com.cn
 umetrip.net.cn
-umsns.com
-umtrack.com
 unaming.cn
 unaming.info
 unaming.net
@@ -3602,6 +3595,8 @@ unionpay.net
 unionpayintl.cn
 unionpayintl.com
 unionpaysecure.com
+unity.cn
+unitychina.cn
 uoj.ac
 uoko.com
 uonline-sh.com
@@ -3621,7 +3616,6 @@ useso.com
 uslk.net
 uucl.vip
 uuu9.com
-uyunad.com
 uzero.cn
 uzzf.com
 v5875.com
@@ -3724,7 +3718,6 @@ weui.io
 wf.pub
 wfdata.club
 wggames.cn
-whalecloud.com
 whccb.com
 whlovehome.com
 wicresoft.com
@@ -4230,6 +4223,7 @@ ziroomapartment.com
 zixiaomao.com
 zixuntop.com
 zjstv.com
+zjzs.net
 zjzsa.com
 zlfund.cn
 zmengzhu.com
