@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-01-30 19:25:17
+# Date:     2026-01-31 08:30:26
 # Mode:     DOMAIN
-# Count:    6002 (Raw: 6002)
+# Count:    6004 (Raw: 6004)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -4460,6 +4460,7 @@ sijihuisuo.com
 silkbook.com
 silvergatebank.com
 simbolostwitter.com
+simianx.ai
 simplecd.me
 simplecd.org
 simpleproductivityblog.com
@@ -5864,6 +5865,7 @@ yesasia.com
 yesasia.com.hk
 yespornplease.com
 yeyeclub.com
+yfsp.tv
 ygto.com
 yhcw.net
 yibada.com

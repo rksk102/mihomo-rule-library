@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-01-30 19:25:17
+# Date:     2026-01-31 08:30:26
 # Mode:     DOMAIN
-# Count:    26394 (Raw: 26394)
+# Count:    26395 (Raw: 26395)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -20661,6 +20661,7 @@ simcity-buildit.com
 simcity.com
 simg.jp
 simgbb.com
+simianx.ai
 similar-porn.fun
 simility.com
 simonsgirls.com
