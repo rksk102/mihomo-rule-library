@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-01-31 19:15:06
+# Date:     2026-02-01 08:32:43
 # Mode:     DOMAIN
-# Count:    26395 (Raw: 26395)
+# Count:    26397 (Raw: 26397)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -2934,6 +2934,7 @@ bbc.com
 bbc.in
 bbc.mp-pxcdn.com
 bbc.net.uk
+bbc.pdn.tritondigital.com
 bbcchinese.com
 bbchat.tv
 bbci.co.uk
@@ -14273,6 +14274,7 @@ lostbetsgames.com
 lotcrap.com
 lotsawahouse.org
 lotuslight.org.tw
+louisvuitton.com
 lovart.ai
 love-sextoys.co.uk
 love4porn.com
