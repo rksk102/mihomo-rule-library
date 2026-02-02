@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-02-01 19:17:32
+# Date:     2026-02-02 08:42:47
 # Mode:     DOMAIN
-# Count:    6007 (Raw: 6007)
+# Count:    6008 (Raw: 6008)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -4752,6 +4752,7 @@ taedp.org.tw
 tafm.org
 tagwalk.com
 tahr.org.tw
+tails.net
 taipei.gov.tw
 taipeisociety.org
 taipeitimes.com

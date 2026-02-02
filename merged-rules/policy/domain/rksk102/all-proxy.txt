@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-02-01 19:17:31
+# Date:     2026-02-02 08:42:47
 # Mode:     DOMAIN
-# Count:    26397 (Raw: 26397)
+# Count:    26401 (Raw: 26401)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -4541,6 +4541,7 @@ brutalfetish.com
 brutaltgp.com
 bs-adreview.com
 bs-awh.ne.jp
+bsappapi.com
 bsi.ir
 bsky.app
 bsky.network
@@ -17633,6 +17634,7 @@ paaypal.com
 pachosting.com
 pacifickitchenandhome.com
 pacificpoker.com
+packages.microsoft.com
 packaging-cadcam.com
 packagingcadcam.com
 packagist.org
@@ -18236,6 +18238,7 @@ pixtronix.com
 pjbyj.top
 pjful-app.lol
 pjgirls.com
+pjsekai.sega.jp
 pk.com
 pki-post.ch
 pki-posta.ch
@@ -21788,6 +21791,7 @@ tahr.org.tw
 taiav.com
 tail-f.com
 tailf.com
+tails.net
 tailscale.com
 tailscale.io
 tailwindtraders.com
