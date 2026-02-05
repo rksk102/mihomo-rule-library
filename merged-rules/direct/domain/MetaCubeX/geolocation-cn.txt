@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-02-04 19:33:26
+# Date:     2026-02-05 08:42:11
 # Mode:     DOMAIN
-# Count:    4281 (Raw: 4281)
+# Count:    4282 (Raw: 4282)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 00cdn.com
@@ -437,6 +437,7 @@ analog.com
 ancientbooks.cn
 anfensi.com
 anhuinews.com
+anitabi.cn
 anjuke.com
 anjukestatic.com
 anlaiye.com

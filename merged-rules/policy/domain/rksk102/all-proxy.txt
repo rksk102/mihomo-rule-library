@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-02-04 19:33:26
+# Date:     2026-02-05 08:42:11
 # Mode:     DOMAIN
-# Count:    26402 (Raw: 26402)
+# Count:    26404 (Raw: 26404)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -17551,6 +17551,7 @@ osfoora.com
 osiri-suki-club.com
 osl.com
 osm.org
+osmand.net
 osmfoundation.org
 ospray.net
 ospray.org
@@ -20166,6 +20167,7 @@ seesmic.com
 seeurlpcl.com
 seevpn.com
 seezone.net
+sef.org.tw
 sego8.cc
 sego8.co
 sego8.xyz

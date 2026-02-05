@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-02-04 19:33:26
+# Date:     2026-02-05 08:42:11
 # Mode:     DOMAIN
-# Count:    114 (Raw: 114)
+# Count:    115 (Raw: 115)
 # Desc:     Auto-detected from policy/domain/MetaCubeX/category-ai-!cn.txt
 # ----------------------------------------
 ai.google.dev
@@ -66,6 +66,7 @@ gemini.google
 gemini.google.com
 generativeai.google
 generativelanguage.googleapis.com
+githubcopilot.com
 grok.com
 grok.x.com
 groq.com

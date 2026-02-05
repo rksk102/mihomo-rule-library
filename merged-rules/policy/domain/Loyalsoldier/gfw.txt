@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-02-04 19:33:26
+# Date:     2026-02-05 08:42:11
 # Mode:     DOMAIN
-# Count:    6008 (Raw: 6008)
+# Count:    6011 (Raw: 6011)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -3835,6 +3835,7 @@ pacopacomama.com
 padmanet.com
 page.link
 page2rss.com
+pages.dev
 paimon.moe
 palacemoon.com
 paljorpublications.com
@@ -4373,6 +4374,7 @@ seed4.me
 seesmic.com
 seevpn.com
 seezone.net
+sef.org.tw
 sehuatang.net
 sehuatang.org
 sejie.com
@@ -5718,6 +5720,7 @@ www.dwheeler.com
 www.eastturkistan.net
 www.gmiddle.com
 www.gmiddle.net
+www.hoyolab.com
 www.hustlercash.com
 www.idlcoyote.com
 www.imdb.com
