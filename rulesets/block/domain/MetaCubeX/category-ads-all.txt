@@ -185,7 +185,6 @@ applvn.com
 ar.umeng.com
 ark.letv.com
 aspect-upush.umeng.com
-assets.growingio.com
 assp.sohu.com
 atanx.alicdn.com
 atanx2.alicdn.com
@@ -266,6 +265,7 @@ data.mistat.india.xiaomi.com
 data.mistat.intl.xiaomi.com
 data.mistat.rus.xiaomi.com
 data.mistat.xiaomi.com
+datayi.cn
 dc.letv.com
 decide.mixpanel.com
 demdex.net
@@ -316,6 +316,8 @@ g3.letv.com
 gdt.qq.com
 gemini.yahoo.com
 gia.jd.com
+gio.ren
+giocdn.com
 gmossp-sp.jp
 go2.global
 google-analytics-cn.com
@@ -344,6 +346,9 @@ graph-fallback.instagram.com
 graph.instagram.com
 graph.whatsapp.com
 graph.whatsapp.net
+growin.cn
+growingio.cn
+growingio.com
 guanggaoad.youku.com
 gz-data.com
 gzads.com
