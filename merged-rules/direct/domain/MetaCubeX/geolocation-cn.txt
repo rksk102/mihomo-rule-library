@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-02-05 19:32:13
+# Date:     2026-02-06 08:41:19
 # Mode:     DOMAIN
-# Count:    4282 (Raw: 4282)
+# Count:    4292 (Raw: 4292)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 00cdn.com
@@ -1082,6 +1082,7 @@ daojia.com
 daovoice.io
 dataeye.com
 datasea.cn
+datayi.cn
 daton.com.cn
 dayainfo.com
 dayin8.com
@@ -1114,6 +1115,7 @@ deppon.com.cn
 develenv.com
 devui.design
 dfham.com
+dfyun.com.cn
 dfzq.com.cn
 dginfo.com
 dgjy.net
@@ -1142,6 +1144,7 @@ dji.com
 dji.ink
 dji.net
 djicdn.com
+djigate.com
 djiits.com
 djiops.com
 djiservice.org
@@ -1330,6 +1333,7 @@ faasdev.cn
 fadfunds.com
 faloo.com
 famulei.com
+fanfou.com
 fang.com
 fangxiaoer.com
 fanli.com
@@ -1557,6 +1561,7 @@ ghxi.com
 ghzq.com.cn
 gifshow.com
 gijsq.com
+gio.ren
 giocdn.com
 gitbook.cn
 gitchat.cn
@@ -1617,6 +1622,8 @@ gree.com
 gree.com.cn
 greenxiazai.com
 greeyun.com
+growin.cn
+growingio.cn
 growingio.com
 grzq.com
 gsctyiptv.cn
@@ -2864,6 +2871,7 @@ paydxm.com
 pc6.com
 pcbeta.com
 pchome.net
+pchpic.net
 pconline.com.cn
 pcpop.com
 pddcdn.com
@@ -3823,6 +3831,7 @@ xa-bank.com
 xafc.com
 xbext.com
 xbiao.com
+xcc.cn
 xcsc.com
 xdqtech.com
 xdtool.com
@@ -3866,6 +3875,7 @@ xiayx.com
 xiazaiba.com
 xiezuocat.com
 ximalaya.com
+xinchacha.com
 xinchong.com
 xingjiesj.com
 xingtan001.com

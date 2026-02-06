@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-02-05 19:32:13
+# Date:     2026-02-06 08:41:19
 # Mode:     DOMAIN
-# Count:    6011 (Raw: 6011)
+# Count:    6012 (Raw: 6012)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -2341,6 +2341,7 @@ greenvpn.net
 greenvpn.org
 grindr.com
 grok.com
+grokipedia.com
 ground.news
 gs-discuss.com
 gsearch.media
