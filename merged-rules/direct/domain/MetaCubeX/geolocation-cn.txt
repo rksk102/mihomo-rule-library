@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-02-06 19:31:57
+# Date:     2026-02-07 08:31:34
 # Mode:     DOMAIN
-# Count:    4292 (Raw: 4292)
+# Count:    4294 (Raw: 4294)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 00cdn.com
@@ -1283,6 +1283,7 @@ ecns.cn
 ecukwai.com
 eda.cn
 edgecloudx.cn
+edgesrv.com
 edu.cn
 edu4399.com
 educoder.net
@@ -2079,6 +2080,7 @@ jinshujucdn.com
 jintdev.com
 jinti.com
 jiqizhixin.com
+jisilu.cn
 jisuanke.com
 jisuxia.com
 jiuyue919.com

@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-02-06 19:31:57
+# Date:     2026-02-07 08:31:34
 # Mode:     DOMAIN
-# Count:    115 (Raw: 115)
+# Count:    117 (Raw: 117)
 # Desc:     Auto-detected from policy/domain/MetaCubeX/category-ai-!cn.txt
 # ----------------------------------------
 ai.google.dev
@@ -83,6 +83,8 @@ labs.google.com
 liveperson.net
 lpsnmedia.net
 makersuite.google.com
+manus.im
+manuscdn.com
 marscode.com
 meta.ai
 mistral.ai

@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-02-06 19:31:57
+# Date:     2026-02-07 08:31:34
 # Mode:     DOMAIN
-# Count:    6012 (Raw: 6012)
+# Count:    6015 (Raw: 6015)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -583,6 +583,7 @@ bitmex.com
 bitshare.com
 bitsnoop.com
 bitterwinter.org
+bittorrent.com
 bitvise.com
 bitz.ai
 bizhat.com
@@ -2417,6 +2418,7 @@ help.byspotify.com
 helpeachpeople.com
 helpster.de
 helpzhuling.org
+hembed.com
 hentai.to
 hentaitube.tv
 hentaivideoworld.com
@@ -5361,6 +5363,7 @@ uygur.fc2web.com
 uygur.org
 uymaarip.com
 v2.help
+v2.hysteria.network
 v2ex.com
 v2fly.org
 v2ray.com
