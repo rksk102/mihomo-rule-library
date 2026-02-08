@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-02-07 19:16:50
+# Date:     2026-02-08 08:33:15
 # Mode:     DOMAIN
-# Count:    116437 (Raw: 116437)
+# Count:    116435 (Raw: 116435)
 # Desc:     Auto-detected from direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -1795,7 +1795,6 @@
 125yan.com
 126.com
 126.fm
-126.link
 126.net
 126blog.com
 126disk.com
@@ -2073,7 +2072,6 @@
 163hubei.com
 163hunan.com
 163img.com
-163industry.com
 163jiasu.com
 163k.cc
 163k.com

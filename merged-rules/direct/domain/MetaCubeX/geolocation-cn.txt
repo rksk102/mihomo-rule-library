@@ -2,11 +2,12 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-02-07 19:16:50
+# Date:     2026-02-08 08:33:15
 # Mode:     DOMAIN
-# Count:    4294 (Raw: 4294)
+# Count:    4265 (Raw: 4265)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
+0033.cn
 00cdn.com
 0123456789.com
 0379home.com
@@ -53,22 +54,8 @@
 123pan.com
 123panpay.com
 123u.com
-126.com
-126.link
-126.net
-127.com
-127.net
 13a.com
-163.com
 1637.com
-163cn.tv
-163industry.com
-163jiasu.com
-163mail.com
-163qiyukf.com
-163yun.com
-166.com
-166.net
 16888.com
 16q.cn
 16rd.com
@@ -88,7 +75,6 @@
 17zuoye.com
 17zuoye.net
 18183.com
-188.com
 1905.com
 19yxw.com
 1hai.cn
@@ -111,7 +97,6 @@
 310win.com
 315che.com
 315dian.com
-321fenx.com
 3234.com
 32r.com
 3304399.com
@@ -1703,7 +1688,6 @@ haosou.com
 haosou.com.cn
 haosou.net
 haote.com
-haowu.link
 haoyouyinxiang.com
 hapjs.org
 happyhlddz.com
@@ -1735,6 +1719,8 @@ heroesports.com
 herogame.com
 herostart.com
 heweather.net
+hexin.cn
+hexin.com.cn
 hexun.com
 heytea.com
 hf-aw.cn
@@ -2069,6 +2055,7 @@ jikecdn.com
 jikeiot.cloud
 jikexueyuan.com
 jikipedia.com
+jin10.com
 jindidata.com
 jinglingbiaozhu.com
 jinianbi.com
@@ -2416,8 +2403,6 @@ leturich.org
 letv.com
 letvcdn.com
 letvimg.com
-lf126.net
-lf127.net
 lgstatic.com
 lhzq.com
 lianjia.com
@@ -2466,7 +2451,6 @@ llsapp.com
 llscdn.com
 llsserver.com
 lnlib.net
-lofter.com
 longhoo.net
 longone.com.cn
 longre.com
@@ -2715,7 +2699,6 @@ nattest-china.com
 nbd.com.cn
 ncss.cn
 ncss.org.cn
-nease.net
 neea.cn
 neixin.cn
 nellit.cn
@@ -2730,10 +2713,6 @@ neoscholar.com
 neoschool.com
 nesc.cn
 netbian.com
-netease-inc.com
-netease.com
-netease.im
-netstatic.net
 netzz.net
 newasp.net
 newbandeng.com
@@ -3018,9 +2997,6 @@ qiuwen.wiki
 qiuwenbaike.cn
 qixin.com
 qiyou.cn
-qiyukf.com
-qiyukf.net
-qiyukf.net.cn
 qizuang.com
 ql1d.com
 qlisten.cn
@@ -3314,7 +3290,6 @@ stage1st.com
 starbaby.cc
 starbaby.com
 starworldgames.com
-static163.net
 staticfile.net
 staticfile.org
 statickksmg.com
@@ -3634,6 +3609,7 @@ urtc.com.cn
 urumqi-air.com
 useso.com
 uslk.net
+uu.163.com
 uucl.vip
 uuu9.com
 uzero.cn
@@ -3962,9 +3938,7 @@ ycrx360.com
 yctdyy.com
 ydamc.com
 ydsc.com.cn
-ydstatic.com
 ydsys.cn
-yeah.net
 yebaojiasu.com
 yeepay.com
 yeshen.com
@@ -4030,7 +4004,6 @@ yoma.cn
 yoojia.com
 youba.com
 youboy.com
-youdao.com
 youhua.com
 youjiao.com
 youke.co
@@ -4118,7 +4091,6 @@ yunpan.com
 yunqishi.net
 yunshipei.com
 yunxiao.com
-yunxinfw.com
 yunzhijia.com
 yunzhuxue.com
 yupoo.com
@@ -4231,7 +4203,6 @@ zhuanspirit.cn
 zhuanspirit.com
 zhuanstatic.com
 zhuanyewanjia.com
-zhuanzfx.com
 zhuanzhuan.com
 zhuayoukong.com
 zhubajie.com
