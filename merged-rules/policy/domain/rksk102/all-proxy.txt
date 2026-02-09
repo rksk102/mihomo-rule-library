@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-02-08 19:18:49
+# Date:     2026-02-09 08:53:15
 # Mode:     DOMAIN
-# Count:    26311 (Raw: 26311)
+# Count:    26331 (Raw: 26331)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -263,7 +263,10 @@
 2gayboys.com
 2k.com
 2kcoretech.online
+2kct.onl
 2kgames.com
+2ksports.com
+2kweb.online
 2lib.org
 2lipstube.com
 2mdn-cn.net
@@ -730,6 +733,7 @@ acebook.com
 acer-group.com
 acer.com
 aceros-de-hispania.com
+acesofthunder.net
 acevpn.com
 acg.rip
 acg18.me
@@ -775,6 +779,7 @@ activate.wip3.adobe.com
 activate.wip4.adobe.com
 activelearnprimary.co.uk
 activelearnprimary.com.au
+activematter.game
 activeteachonline.com
 activpn.com
 aculo.us
@@ -2253,6 +2258,7 @@ artofpeacefoundation.org
 artstation.com
 artstationmedia.com
 artstor.org
+artstorm.com
 artsy.net
 arvanstorage.ir
 arxiv.org
@@ -5997,6 +6003,7 @@ crossborderexpansion.com
 crossfire.co.kr
 crossfitfirestone.com
 crossmediapanel.com
+crossout.net
 crossvpn.net
 crosswalk-project.com
 crosswalk-project.net
@@ -6005,6 +6012,7 @@ crowdtangle.com
 croxyproxy.com
 crr.com
 crrev.com
+crsed.net
 crtsgfb1.top
 crucial.com
 cruel-furies.com
@@ -6047,6 +6055,7 @@ ctv.com.tw
 ctwant.com
 ctyun.online
 cubicmotion.com
+cubicodyssey.game
 cuckfilmswifefuck.com
 cuckold69.com
 cuckoldfuck.com
@@ -7905,6 +7914,7 @@ englishpen.org
 enjoyasianporn.com
 enjoyfuck.com
 enlighten.org.tw
+enlisted.net
 enpass.io
 enpirion.com
 enspireformula.com
@@ -9640,6 +9650,8 @@ gacebook.com
 gaeproxy.com
 gaforum.org
 gagaoolala.com
+gaijin.net
+gaijinent.com
 gaito.xyz
 galaxyappstore.com
 galaxymacau.com
@@ -15511,6 +15523,7 @@ modeloswebcambogota.com
 modelsfreecams.com
 modeltv.com
 modernchinastudies.org
+modernwarships.com
 modoo.at
 modperl.pl
 modrinth.com
@@ -19566,6 +19579,7 @@ rocksdb.net
 rocksdb.org
 rocksextube.com
 rockstargames.com
+rockstarnorth.com
 rojo.com
 roku.com
 rokutime.com
@@ -21193,6 +21207,7 @@ standupfortibet.org
 standwithhk.org
 stanford.edu
 star-brasil.com
+star-conflict.com
 star-latam.com
 starbucks-stars.com
 starbucks.ad
@@ -24270,6 +24285,7 @@ wariowarediy.com
 warnerbrosgames.com
 warp.plus
 warroom.org
+warthunder.com
 wasdj.com
 waselpro.com
 washa.tv
@@ -24768,6 +24784,7 @@ wsjshop.com
 wsjwine.com
 wtbn.org
 wtfpeople.com
+wtmobile.com
 wto.org
 wuerkaixi.com
 wufafangwen.com
@@ -26303,6 +26320,9 @@ zvereff.com
 zweiporn.com
 zwtvusa.com
 zynamics.com
+zynga.com
+zyngaplayersupport.com
+zyngapoker.com
 zyns.com
 zyxel.com
 zzcartoon.com
