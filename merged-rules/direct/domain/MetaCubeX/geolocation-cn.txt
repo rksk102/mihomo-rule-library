@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-02-09 08:53:15
+# Date:     2026-02-10 08:55:55
 # Mode:     DOMAIN
-# Count:    4265 (Raw: 4265)
+# Count:    4287 (Raw: 4287)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -14,6 +14,7 @@
 055110.com
 05sun.com
 0759job.com
+100.me
 10044.cn
 10099.com.cn
 100bt.com
@@ -644,6 +645,7 @@ boe.com.cn
 bohejiasuqi.com
 bojianger.com
 bokecc.com
+boohee.com
 boosj.com
 bootcdn.cn
 bootcdn.net
@@ -1085,9 +1087,16 @@ dcdkjx.com
 dcloud.io
 dcloud.net.cn
 dd373.com
+ddcorp.net
+ddfresh.net
 ddimg.cn
+ddimg.mobi
+ddmaicai.net
+ddmc.mobi
 ddmogo.com
 ddooo.com
+dduser.mobi
+ddxq.mobi
 dearedu.com
 debugmode.cn
 dedecms.com
@@ -1679,6 +1688,7 @@ hanyi.com.cn
 hao123.com
 hao123img.com
 hao222.com
+haodf.com
 haofenshu.com
 haohaowan.net
 haokan.com
@@ -1697,6 +1707,7 @@ hazq.com
 hbhk.com.cn
 hbooker.com
 hczq.com
+hdfimg.com
 hdyxgame.com
 heavenlywind.cc
 hecdn.net
@@ -1941,6 +1952,7 @@ ileapcloud.com
 im-cc.com
 im2maker.com
 imacos.top
+imaicai.mobi
 imcome.net
 imcoming.com
 imedao.com
@@ -2220,6 +2232,7 @@ kgimg.com
 kglink.cn
 kidsccshow.com
 kimg.cn
+kimi.com
 kimiss.com
 kingdee.com
 kinghomechina.com
@@ -2490,6 +2503,8 @@ lxway.com
 lxzjjt.cn
 lxzjjt.com
 ly.com
+m1905.cn
+m1905.com
 mafengwo.cn
 mafengwo.com
 mafengwo.net
@@ -2634,6 +2649,7 @@ moleecel.com
 mooc.cn
 moocollege.com
 moocs.unipus.cn
+moonshot.ai
 moonshot.cn
 moonvy.com
 moonvy.cool
@@ -2659,6 +2675,8 @@ mszdld.com
 mszdld.net
 mszq.com
 mti100.com
+mtime.cn
+mtime.com
 mtyun.com
 mukewang.com
 mumayi.com
@@ -2879,6 +2897,7 @@ pinduoduo.com
 pinduoduo.net
 pingcap.cn
 pingcap.com
+pingcode.com
 pingplusplus.com
 pingwest.com
 pingxx.com
@@ -3342,6 +3361,7 @@ sxcxldjy.com
 sxgou.cn
 sxl.cn
 sxlcdn.cn
+sxsimg.com
 sydw8.com
 sys321.com
 syxlgame.com
@@ -3847,11 +3867,13 @@ xiaomingtaiji.com
 xiaopeng.com
 xiaoxiongxitong.com
 xiaoyuankousuan.com
+xiaoyuanzhao.com
 xiaoyuxitong.com
 xiaoyuzhoufm.com
 xiayx.com
 xiazaiba.com
 xiezuocat.com
+xilu.com
 ximalaya.com
 xinchacha.com
 xinchong.com

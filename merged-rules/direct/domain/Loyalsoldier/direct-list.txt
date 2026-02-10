@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-02-09 08:53:15
+# Date:     2026-02-10 08:55:55
 # Mode:     DOMAIN
-# Count:    116435 (Raw: 116435)
+# Count:    116440 (Raw: 116440)
 # Desc:     Auto-detected from direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -28379,6 +28379,7 @@ ddbqgtxt.cc
 ddcdn.com
 ddcheshi.com
 ddcits.com
+ddcorp.net
 ddcsjw.com
 ddcwl.com
 ddd-china.com
@@ -28395,6 +28396,7 @@ dde-desktop.org
 ddedush.com
 ddfans.com
 ddfchina.com
+ddfresh.net
 ddfzb.com
 ddgjjj.com
 ddguanhuai.com
@@ -28418,7 +28420,9 @@ ddkt365.com
 ddky.com
 ddle.cc
 ddlequ.com
+ddmaicai.net
 ddmap.com
+ddmc.mobi
 ddmer.com
 ddmogo.com
 ddnddn.com
@@ -52224,6 +52228,7 @@ imagineadtech.com
 imags-google.com
 imahui.com
 imaibo.net
+imaicai.mobi
 imaijia.com
 imaitu.com
 imalljoy.com
