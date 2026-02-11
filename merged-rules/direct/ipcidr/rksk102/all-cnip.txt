@@ -2,7 +2,7 @@
 # Strategy: direct
 # Type:     ipcidr
 # Owner:    rksk102
-# Date:     2026-02-10 19:55:44
+# Date:     2026-02-11 08:50:24
 # Mode:     IP-CIDR
 # Count:    8992 (Raw: 8992)
 # Desc:     所有直连cnipcidr

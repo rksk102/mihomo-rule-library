@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-02-10 19:55:44
+# Date:     2026-02-11 08:50:25
 # Mode:     DOMAIN
-# Count:    116440 (Raw: 116440)
+# Count:    116442 (Raw: 116442)
 # Desc:     Auto-detected from direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -102364,6 +102364,7 @@ xhsf.com
 xhslink.com
 xhslw.com
 xhsmlt.com
+xhsrcdn.com
 xhsrmyy.com
 xhsxmt.com
 xhsyqx.com
@@ -113077,6 +113078,7 @@ zhipianbang.com
 zhipianbang.vip
 zhipin.com
 zhipingke.com
+zhipucn.com
 zhipuzi.com
 zhiqi.info
 zhiqiang.org
