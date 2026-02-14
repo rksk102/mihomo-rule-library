@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-02-13 19:36:32
+# Date:     2026-02-14 08:32:51
 # Mode:     DOMAIN
-# Count:    24861 (Raw: 24861)
+# Count:    24902 (Raw: 24902)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -1718,6 +1718,7 @@ apkmonk.com
 apkplz.com
 apkpure.com
 apkpure.net
+apkpures.xyz
 apl-hamivideo.cdn.hinet.net
 aple.com
 aplestore.com
@@ -2293,6 +2294,7 @@ attcenter.com
 attcollaborate.com
 attdns.com
 attdns.net
+attestation.app
 attexperts.com
 attglobal.net
 attic.io
@@ -9993,6 +9995,19 @@ grannylovesyoungcock.com
 grannytube.net
 granulate.io
 graph.org
+grapheneos.app
+grapheneos.ca
+grapheneos.com
+grapheneos.dev
+grapheneos.foundation
+grapheneos.info
+grapheneos.net
+grapheneos.network
+grapheneos.online
+grapheneos.org
+grapheneos.ovh
+grapheneos.page
+grapheneos.social
 graphengine.io
 graphis.ne.jp
 graphql.org
@@ -19021,6 +19036,7 @@ sdcountybmw.com
 sdnice.one
 sdnitube.buzz
 seagroup.com
+seamlessupdate.app
 seamonkey-project.org
 seancody.com
 seaofsolitude.com
@@ -21727,8 +21743,32 @@ ubi.com
 ubisoft-orbit-savegames.s3.amazonaws.com
 ubisoft-uplay-savegames.s3.amazonaws.com
 ubisoft.com
+ubisoft.siteintercept.qualtrics.com
 ubisoftconnect.com
+ubistatic1-a.akamaihd.net
+ubistatic10-a.akamaihd.net
+ubistatic11-a.akamaihd.net
+ubistatic12-a.akamaihd.net
+ubistatic13-a.akamaihd.net
+ubistatic14-a.akamaihd.net
+ubistatic15-a.akamaihd.net
+ubistatic16-a.akamaihd.net
+ubistatic17-a.akamaihd.net
+ubistatic18-a.akamaihd.net
+ubistatic19-a.akamaihd.net
+ubistatic2-a.akamaihd.net
+ubistatic20-a.akamaihd.net
+ubistatic21-a.akamaihd.net
+ubistatic22-a.akamaihd.net
+ubistatic23-a.akamaihd.net
+ubistatic24-a.akamaihd.net
 ubistatic3-a.akamaihd.net
+ubistatic4-a.akamaihd.net
+ubistatic5-a.akamaihd.net
+ubistatic6-a.akamaihd.net
+ubistatic7-a.akamaihd.net
+ubistatic8-a.akamaihd.net
+ubistatic9-a.akamaihd.net
 ubncloud.com
 ubnw.net
 ubuntu-touch.io
@@ -21960,6 +22000,7 @@ valeursactuelles.com
 valoryirene.com
 valuegb.com
 valvesoftware.com
+vanadium.app
 vancouverbmwretailers.ca
 vanish.at
 vanish.be
