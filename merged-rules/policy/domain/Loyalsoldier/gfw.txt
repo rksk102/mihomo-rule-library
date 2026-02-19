@@ -2,7 +2,7 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-02-19 08:43:15
+# Date:     2026-02-19 19:34:29
 # Mode:     DOMAIN
 # Count:    4181 (Raw: 4181)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
