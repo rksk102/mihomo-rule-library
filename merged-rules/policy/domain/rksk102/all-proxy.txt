@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-02-18 19:41:14
+# Date:     2026-02-19 08:43:15
 # Mode:     DOMAIN
-# Count:    24997 (Raw: 24997)
+# Count:    24998 (Raw: 24998)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -15025,6 +15025,7 @@ mortein.com.ng
 mortein.com.pk
 morteincam.com
 mos.ru
+mosavi.io
 mostly.jp
 mostpopularpornsites.com
 motherless.com

@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-02-18 19:41:15
+# Date:     2026-02-19 08:43:15
 # Mode:     DOMAIN
-# Count:    4180 (Raw: 4180)
+# Count:    4181 (Raw: 4181)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -2410,6 +2410,7 @@ moptt.tw
 moresci.sale
 morningsun.org
 mos.ru
+mosavi.io
 motherless.com
 movements.org
 moviefap.com
