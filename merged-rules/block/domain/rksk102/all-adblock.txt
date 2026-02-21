@@ -2,7 +2,7 @@
 # Strategy: block
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-02-21 08:31:01
+# Date:     2026-02-21 19:17:07
 # Mode:     DOMAIN
 # Count:    186454 (Raw: 186454)
 # Desc:     合并多个广告拦截列表
