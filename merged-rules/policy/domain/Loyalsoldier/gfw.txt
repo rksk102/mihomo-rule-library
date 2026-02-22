@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-02-21 19:17:08
+# Date:     2026-02-22 08:32:08
 # Mode:     DOMAIN
-# Count:    4181 (Raw: 4181)
+# Count:    4186 (Raw: 4186)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -142,6 +142,7 @@ akamai.tvb.com
 akamaihd.net
 akiba-online.com
 akiba-web.com
+akile.io
 akinator.com
 akow.org
 alabout.com
@@ -276,6 +277,7 @@ aspi.org.au
 aspistrategist.org.au
 assembla.com
 assets.bwbx.io
+assets.nxtrace.org
 assimp.org
 astrill.com
 atc.org.au
@@ -2301,6 +2303,7 @@ mediachinese.com
 mediafreakcity.com
 mediawiki.org
 medium.com
+meee.com.tw
 meetup.com
 mega.co.nz
 mega.io
@@ -2635,6 +2638,7 @@ ooni.io
 ooni.org
 open.firstory.me
 openai.com
+opencritic.com
 opendemocracy.net
 openid.net
 openleaks.org
@@ -3970,6 +3974,7 @@ www.ajsands.com
 www.antd.org
 www.aolnews.com
 www.bing.com
+www.clashverge.dev
 www.cmoinc.org
 www.dmm.com
 www.eastturkistan.net

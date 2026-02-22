@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-02-21 19:17:07
+# Date:     2026-02-22 08:32:08
 # Mode:     DOMAIN
-# Count:    25045 (Raw: 25045)
+# Count:    25050 (Raw: 25050)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -1288,6 +1288,7 @@ akatns.net
 akiba-online.com
 akiba-souken.com
 akiba-web.com
+akile.io
 akinator.com
 akita-bank.co.jp
 akow.org
@@ -2341,6 +2342,7 @@ ass4all.com
 assembla.com
 assemblesystems.com
 assesphoto.com
+assets.nxtrace.org
 assets.ppy.sh
 assetsadobe.com
 assimp.org
@@ -14213,6 +14215,7 @@ medium.systems
 medone-education.thieme.com
 medow.ru
 medrxiv.org
+meee.com.tw
 meendo.com
 meet.new
 meetandfuck.games
@@ -16606,6 +16609,7 @@ openbook.org.tw
 opencas.io
 opencollective.com
 opencreate.org
+opencritic.com
 opendemocracy.net
 opendns.com
 opendroneid.org
@@ -23675,6 +23679,7 @@ www-sms-apple.com
 www.ajsands.com
 www.antd.org
 www.aolnews.com
+www.clashverge.dev
 www.cmoinc.org
 www.destinationurl.com
 www.eastturkistan.net
