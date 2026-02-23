@@ -2,9 +2,9 @@
 # Strategy: block
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-02-23 08:51:15
+# Date:     2026-02-23 19:52:03
 # Mode:     DOMAIN
-# Count:    186941 (Raw: 186941)
+# Count:    186940 (Raw: 186940)
 # Desc:     合并多个广告拦截列表
 # ----------------------------------------
 0.avmarket.rs
@@ -38975,7 +38975,6 @@ d3ff60r8himt67.cloudfront.net
 d3flai6f7brtcx.cloudfront.net
 d3fqhkmofpujs3.cloudfront.net
 d3frqqoat98cng.cloudfront.net
-d3g.qq.com
 d3g4s1p0bmuj5f.cloudfront.net
 d3g5ovfngjw9bw.cloudfront.net
 d3gaegctu6cvoa.cloudfront.net
