@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-02-24 19:44:00
+# Date:     2026-02-25 08:50:02
 # Mode:     DOMAIN
-# Count:    4188 (Raw: 4188)
+# Count:    4189 (Raw: 4189)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -1270,6 +1270,7 @@ free.com.tw
 freebeacon.com
 freebrowser.org
 freechinaweibo.com
+freedom.gov
 freedomhouse.org
 freedominfonetweb.wordpress.com
 freedomsherald.org
