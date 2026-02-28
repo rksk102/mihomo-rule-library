@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-02-27 19:26:47
+# Date:     2026-02-28 08:29:20
 # Mode:     DOMAIN
-# Count:    25068 (Raw: 25068)
+# Count:    25070 (Raw: 25070)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -17904,6 +17904,7 @@ pp6.info
 ppaypal.com
 ppb-mod.buzz
 ppe.lawyer
+ppl-ai-file-upload.s3.amazonaws.com
 pplah.com
 pplusstatic.com
 pplx-res.cloudinary.com
@@ -24482,6 +24483,7 @@ yandexadexchange.net
 yandexcloud.net
 yandexcom.net
 yandexmetrica.com
+yandexwebcache.net
 yandexwebcache.org
 yangzhi.app
 yangzhi.org

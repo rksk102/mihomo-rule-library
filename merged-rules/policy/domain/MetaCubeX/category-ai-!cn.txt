@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-02-27 19:26:47
+# Date:     2026-02-28 08:29:21
 # Mode:     DOMAIN
-# Count:    121 (Raw: 121)
+# Count:    122 (Raw: 122)
 # Desc:     Auto-detected from policy/domain/MetaCubeX/category-ai-!cn.txt
 # ----------------------------------------
 ai.google.dev
@@ -112,6 +112,7 @@ perplexity.ai
 perplexity.com
 poe.com
 poecdn.net
+ppl-ai-file-upload.s3.amazonaws.com
 pplx-res.cloudinary.com
 pplx.ai
 proactivebackend-pa.googleapis.com
