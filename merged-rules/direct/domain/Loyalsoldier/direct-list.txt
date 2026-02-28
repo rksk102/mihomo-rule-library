@@ -2,7 +2,7 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-02-28 08:29:21
+# Date:     2026-02-28 19:14:19
 # Mode:     DOMAIN
 # Count:    117431 (Raw: 117431)
 # Desc:     Auto-detected from direct/domain/Loyalsoldier/direct-list.txt
