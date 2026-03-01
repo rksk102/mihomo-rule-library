@@ -2,7 +2,7 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    DustinWin
-# Date:     2026-03-01 08:31:13
+# Date:     2026-03-01 19:15:42
 # Mode:     DOMAIN
 # Count:    168 (Raw: 168)
 # Desc:     Auto-detected from direct/domain/DustinWin/microsoft-cn.txt
