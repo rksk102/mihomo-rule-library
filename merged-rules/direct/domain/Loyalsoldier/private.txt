@@ -2,13 +2,11 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-03-02 19:30:43
+# Date:     2026-03-03 08:40:38
 # Mode:     DOMAIN
-# Count:    123 (Raw: 123)
+# Count:    121 (Raw: 121)
 # Desc:     Auto-detected from direct/domain/Loyalsoldier/private.txt
 # ----------------------------------------
-0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
-0.in-addr.arpa
 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
 10.in-addr.arpa
 100.100.in-addr.arpa

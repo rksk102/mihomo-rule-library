@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-03-02 19:30:43
+# Date:     2026-03-03 08:40:38
 # Mode:     DOMAIN
-# Count:    117331 (Raw: 117331)
+# Count:    117332 (Raw: 117332)
 # Desc:     Auto-detected from direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -69549,6 +69549,7 @@ monfetch.com
 mongac.com
 monhun.fun
 monidata.com
+monika.love
 monitoring.qpdp1.net
 monkeylsp.com
 monknow.com

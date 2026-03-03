@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-03-02 19:30:43
+# Date:     2026-03-03 08:40:38
 # Mode:     DOMAIN
-# Count:    4189 (Raw: 4189)
+# Count:    4190 (Raw: 4190)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -766,6 +766,7 @@ cixiaoya.club
 ck101.com
 classicalguitarblog.net
 claude.ai
+claude.com
 cldr.unicode.org
 clearsurance.com
 clementine-player.org
@@ -2270,6 +2271,7 @@ mangafox.com
 mangafox.me
 mangmang.run
 manta.com
+manus.im
 manyvoices.news
 marc.info
 martau.com
@@ -3986,7 +3988,6 @@ www.gmiddle.net
 www.hoyolab.com
 www.hustlercash.com
 www.idlcoyote.com
-www.imdb.com
 www.kindleren.com
 www.lorenzetti.com.br
 www.m-sport.co.uk

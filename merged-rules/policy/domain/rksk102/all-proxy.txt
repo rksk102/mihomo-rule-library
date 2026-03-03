@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-03-02 19:30:43
+# Date:     2026-03-03 08:40:38
 # Mode:     DOMAIN
-# Count:    25070 (Raw: 25070)
+# Count:    25073 (Raw: 25073)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -12483,6 +12483,7 @@ jav.guru
 jav.la
 jav.land
 jav.place
+jav.sb
 jav.si
 jav.wine
 jav01.cc
@@ -12555,6 +12556,7 @@ javhdporn.net
 javher.com
 javheroine.com
 javhihi.com
+javhub.com
 javhub.me
 javhub.net
 javhuge.com
@@ -12590,6 +12592,7 @@ javprime.net
 javpub.me
 javpush.com
 javqd.com
+javquick.com
 javrank.com
 javrate.com
 javrave.club
