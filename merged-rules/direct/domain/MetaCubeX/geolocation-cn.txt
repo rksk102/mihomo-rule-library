@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-03-03 19:34:35
+# Date:     2026-03-04 08:39:09
 # Mode:     DOMAIN
-# Count:    4276 (Raw: 4276)
+# Count:    4280 (Raw: 4280)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -61,6 +61,7 @@
 16q.cn
 16rd.com
 17173.com
+172mix.com
 178.com
 178linux.com
 17989.com
@@ -1160,6 +1161,7 @@ donews.com
 dongao.com
 dongchedi.com
 dongchediapp.com
+dongdianqiu.com
 dongguantoday.com
 dongjiao.cc
 dongjiaoapp.com
@@ -2183,6 +2185,7 @@ jutongbao.top
 juwan.com
 juxia.com
 juxieyun.com
+juziwulian.com
 jvcsmart.cn
 jvcsmart.com.cn
 jvoice.cn
@@ -2195,6 +2198,7 @@ jzfz.net
 jzsec.com
 jztvnews.com
 k366.com
+kaadas.com
 kafan.cn
 kaifayun.com
 kaifubiao.com

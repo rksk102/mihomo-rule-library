@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-03-03 19:34:35
+# Date:     2026-03-04 08:39:09
 # Mode:     DOMAIN
-# Count:    117332 (Raw: 117332)
+# Count:    117334 (Raw: 117334)
 # Desc:     Auto-detected from direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -2259,6 +2259,7 @@
 17293879b10261.beer
 172haoka.vip
 172l.com
+172mix.com
 172tt.com
 172xiaoyuan.com
 173.com
@@ -58939,6 +58940,7 @@ juziseo.com
 juziss.com
 juzistore.com
 juzisy.com
+juziwulian.com
 juzix.io
 juzizhoutou.net
 juzone.cc
