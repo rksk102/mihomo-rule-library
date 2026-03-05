@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-03-04 19:31:50
+# Date:     2026-03-05 08:41:02
 # Mode:     DOMAIN
-# Count:    25079 (Raw: 25079)
+# Count:    25080 (Raw: 25080)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -12662,6 +12662,7 @@ jerkofftocelebs.com
 jessicaturner.co.uk
 jessicaturner.com
 jetbrains.ai
+jetbrains.cloud
 jetbrains.com
 jetbrains.net
 jetbrains.space
