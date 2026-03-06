@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-03-05 19:49:28
+# Date:     2026-03-06 08:38:10
 # Mode:     DOMAIN
-# Count:    25080 (Raw: 25080)
+# Count:    25085 (Raw: 25085)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -6905,6 +6905,7 @@ dowjones.io
 dowjoneson.com
 download.aircrack-ng.org
 download.com
+download.dappcdn.com
 download.qatp1.net
 download.visualstudio.microsoft.com
 downloadpass.com
@@ -17435,6 +17436,10 @@ pleasefuck.org
 pleasurebabe.com
 pleasuregirl.net
 pleasuremore.com
+plex.com
+plex.services
+plex.tv
+plexapp.com
 plexvpn.pro
 plos.org
 plug-into.com
