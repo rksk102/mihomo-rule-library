@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-03-06 19:28:04
+# Date:     2026-03-07 08:31:18
 # Mode:     DOMAIN
-# Count:    4194 (Raw: 4194)
+# Count:    4197 (Raw: 4197)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -984,6 +984,7 @@ dmc.nico
 dmcdn.net
 dmhy.org
 dmm.co.jp
+dns.cloudflare.com
 dns2go.com
 dnscrypt.org
 dnssec.net
@@ -1571,6 +1572,7 @@ google.com.vn
 google.cv
 google.cz
 google.de
+google.dev
 google.dj
 google.dk
 google.dm
@@ -1986,6 +1988,7 @@ internetpopculture.com
 interseclab.org
 inthenameofconfuciusmovie.com
 investigating.wordpress.com
+investing.com
 invidio.us
 inxian.com
 ipdefenseforum.com
