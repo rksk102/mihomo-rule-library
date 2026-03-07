@@ -2,7 +2,7 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-03-07 08:31:17
+# Date:     2026-03-07 19:14:57
 # Mode:     DOMAIN
 # Count:    25096 (Raw: 25096)
 # Desc:     代理域名规则
