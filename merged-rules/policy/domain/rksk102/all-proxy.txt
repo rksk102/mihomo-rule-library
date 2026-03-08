@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-03-07 19:14:57
+# Date:     2026-03-08 08:31:56
 # Mode:     DOMAIN
-# Count:    25096 (Raw: 25096)
+# Count:    25099 (Raw: 25099)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -1845,6 +1845,7 @@ app-analytics-services.com
 app-dynamics.com
 app-measurement-cn.com
 app-measurement.com
+app-pay.jp
 app-store.wang
 app.box.com
 app.smartmailcloud.com
@@ -18932,6 +18933,7 @@ samsungdm.com
 samsunggalaxyfriends.com
 samsunghealth.com
 samsungiotcloud.com
+samsungiots.com
 samsungknox.com
 samsungosp.com
 samsungqbe.com
@@ -19854,6 +19856,7 @@ smartonerobotics.com
 smartonesolutions.com.hk
 smartonesolutions.hk
 smartstream.ne.jp
+smartthings.com
 smashed.xxx
 smbc.co.jp
 smbctb.co.jp
