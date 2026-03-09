@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-03-08 19:17:15
+# Date:     2026-03-09 08:43:41
 # Mode:     DOMAIN
-# Count:    25099 (Raw: 25099)
+# Count:    25101 (Raw: 25101)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -5002,7 +5002,6 @@ cdn-tinkoff.ru
 cdn-vk.ru
 cdn.arstechnica.net
 cdn.js7k.com
-cdn.jsdelivr.net
 cdn.printfriendly.com
 cdn.seatguru.com
 cdn.softlayer.net
@@ -7189,6 +7188,7 @@ dynamics.com
 dynamobuilds.com
 dynamopackages.com
 dynamoreach.com
+dynatrace.com
 dynawebinc.com
 dyncdn.me
 dynu.com
@@ -8255,6 +8255,7 @@ familymart.com.ph
 familypies.net
 familyporn.tv
 familypornhd.com
+familysearch.org
 familysexsimulator.com
 familysimulator.com
 familysimulator.io
@@ -19569,6 +19570,7 @@ shishijump001.com
 shit-porn.net
 shithd.com
 shitjav.com
+shitjournal.org
 shittytube.com
 shixiao.org
 shizhao.org
