@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-03-09 19:34:03
+# Date:     2026-03-10 08:41:55
 # Mode:     DOMAIN
-# Count:    4288 (Raw: 4288)
+# Count:    4294 (Raw: 4294)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -694,6 +694,7 @@ caixin.com
 caiyun.com
 caiyunai.com
 caiyunapp.com
+calorietech.com
 camcard.com
 camscanner.com
 cang.com
@@ -1187,6 +1188,7 @@ douyinact.net
 douyincdn.com
 douyinfe.com
 douyinliving.com
+douyinpay.com
 douyinpic.com
 douyinstatic.com
 douyinvod.com
@@ -1724,6 +1726,7 @@ heisha.net
 heiyan.com
 heiyanimg.com
 heiyu.space
+helipay.com
 hello-inc.com
 hellobike.com
 hellofont.cn
@@ -2229,6 +2232,8 @@ kdslife.com
 ke.com
 keboyunxiao.com
 kechuang.org
+keep.com
+keep.com.cn
 keepcdn.com
 kejet.net
 kekeniu.com
@@ -3194,6 +3199,7 @@ shengyi.ai
 shengyizhuanjia.com
 shenmayouxi.com
 sheui.com
+shfft.com
 shgsec.com
 shhxzq.com
 shidianbaike.com

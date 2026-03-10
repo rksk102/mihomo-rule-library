@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-03-09 19:34:03
+# Date:     2026-03-10 08:41:55
 # Mode:     DOMAIN
-# Count:    25101 (Raw: 25101)
+# Count:    25102 (Raw: 25102)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -5951,6 +5951,7 @@ customnikeshoes.com
 cutout.pro
 cutscenes.net
 cutt.ly
+cve.org
 cw.com.tw
 cwcams.com
 cxacg.com
