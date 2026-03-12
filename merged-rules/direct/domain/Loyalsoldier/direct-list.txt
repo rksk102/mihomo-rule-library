@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-03-11 19:36:32
+# Date:     2026-03-12 08:41:55
 # Mode:     DOMAIN
-# Count:    118433 (Raw: 118433)
+# Count:    118432 (Raw: 118432)
 # Desc:     Auto-detected from direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -116062,7 +116062,6 @@ zimufy.com
 zimuism.com
 zimujiang.com
 zimuzu.com
-zimuzu.io
 zindall.com
 zine.la
 zinffer.com

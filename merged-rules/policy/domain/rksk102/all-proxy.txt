@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-03-11 19:36:32
+# Date:     2026-03-12 08:41:55
 # Mode:     DOMAIN
-# Count:    25102 (Raw: 25102)
+# Count:    25103 (Raw: 25103)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -19735,6 +19735,7 @@ sinoants.com
 sinoca.com
 sinocast.com
 sinoinsider.com
+sinyalee.com
 sipml5.org
 siport.com
 sipriyearbook.org
