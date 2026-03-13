@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-03-12 19:36:29
+# Date:     2026-03-13 08:39:15
 # Mode:     DOMAIN
-# Count:    25103 (Raw: 25103)
+# Count:    25107 (Raw: 25107)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -5397,10 +5397,12 @@ clasporno.org
 classicalguitarblog.net
 classicnike.com
 classymomsex.com
+clau.de
 claude.ai
 claude.com
 claudemcpclient.com
 claudeusercontent.com
+clawhub.ai
 clco.cc
 cldr.unicode.org
 clearasil.us
@@ -10244,6 +10246,7 @@ h-top.supertop-100.com
 h-webtoon.com
 h0930.com
 h18ani1.vip
+h2o.ai
 h2porn.com
 h528.com
 habr.com
@@ -16639,6 +16642,7 @@ openapiservice.com
 openart.ai
 openbook.org.tw
 opencas.io
+openclaw.ai
 opencollective.com
 opencreate.org
 opencritic.com

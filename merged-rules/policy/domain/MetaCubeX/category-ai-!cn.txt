@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-03-12 19:36:29
+# Date:     2026-03-13 08:39:15
 # Mode:     DOMAIN
-# Count:    124 (Raw: 124)
+# Count:    128 (Raw: 128)
 # Desc:     Auto-detected from policy/domain/MetaCubeX/category-ai-!cn.txt
 # ----------------------------------------
 ai.google.dev
@@ -29,10 +29,12 @@ chutes.ai
 cici.com
 ciciai.com
 ciciaicdn.com
+clau.de
 claude.ai
 claude.com
 claudemcpclient.com
 claudeusercontent.com
+clawhub.ai
 clipdrop.co
 cloudaicompanion.googleapis.com
 cloudcode-pa.googleapis.com
@@ -73,6 +75,7 @@ githubcopilot.com
 grok.com
 grok.x.com
 groq.com
+h2o.ai
 hf.co
 hf.space
 host.livekit.cloud
@@ -108,6 +111,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 openaicom.imgix.net
 openaicomproductionae4b.blob.core.windows.net
 openart.ai
+openclaw.ai
 openrouter.ai
 oystermercury.top
 perplexity.ai
