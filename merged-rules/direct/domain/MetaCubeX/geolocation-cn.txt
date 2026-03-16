@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-03-15 19:21:44
+# Date:     2026-03-16 08:56:40
 # Mode:     DOMAIN
-# Count:    4302 (Raw: 4302)
+# Count:    4308 (Raw: 4308)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -583,6 +583,7 @@ beisen.com
 beisenapp.com
 beisencloud.com
 beisenpaas.com
+bemanicn.com
 bendibao.com
 benfuip.com
 bengbeng.com
@@ -725,6 +726,7 @@ cctvpro.com.cn
 cczq.com
 cczq.net
 cd120.com
+cdkeynogap.com
 cdn20.com
 cdn30.org
 cdncl.net
@@ -3632,6 +3634,7 @@ unionpay.net
 unionpayintl.cn
 unionpayintl.com
 unionpaysecure.com
+unipus.cn
 unity.cn
 unitychina.cn
 uoj.ac
@@ -3855,6 +3858,7 @@ xbiao.com
 xcc.cn
 xcsc.com
 xdqtech.com
+xdrtc.com
 xdtool.com
 xdwan.com
 xedge.cc
@@ -4182,6 +4186,7 @@ zdnscloud.org.cn
 zdzq.com.cn
 zealer.com
 zeekrlife.com
+zgbk.com
 zgcbank.com
 zggbdszt.cn
 zggbdszt.com.cn
@@ -4253,6 +4258,7 @@ ziroom.com
 ziroomapartment.com
 zixiaomao.com
 zixuntop.com
+zjlib.cn
 zjstv.com
 zjzs.net
 zjzsa.com
