@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-03-16 19:47:09
+# Date:     2026-03-17 08:53:44
 # Mode:     DOMAIN
-# Count:    25111 (Raw: 25111)
+# Count:    25112 (Raw: 25112)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -23556,6 +23556,7 @@ woolyss.com
 woopie.jp
 woopie.tv
 wordpress.com
+wordpress.net
 wordpress.org
 wordpress.tv
 work2icu.org
