@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-03-18 19:42:18
+# Date:     2026-03-19 08:41:52
 # Mode:     DOMAIN
-# Count:    4199 (Raw: 4199)
+# Count:    4200 (Raw: 4200)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -84,6 +84,7 @@
 a-normal-day.com
 a248.e.akamai.net
 aamacau.com
+aave.com
 abc.net.au
 abc.xyz
 abebooks.co.uk

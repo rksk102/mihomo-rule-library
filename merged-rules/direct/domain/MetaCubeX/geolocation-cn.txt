@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-03-18 19:42:18
+# Date:     2026-03-19 08:41:52
 # Mode:     DOMAIN
-# Count:    4308 (Raw: 4308)
+# Count:    4309 (Raw: 4309)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -1678,6 +1678,7 @@ gzcqs.com
 gzctyiptv.cn
 gzurl.cn
 gzwanju.com
+gzyowin.com
 h5uc.com
 hack520.com
 hackhome.com

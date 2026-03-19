@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-03-18 19:42:18
+# Date:     2026-03-19 08:41:52
 # Mode:     DOMAIN
-# Count:    25112 (Raw: 25112)
+# Count:    25117 (Raw: 25117)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -21315,6 +21315,11 @@ tiktokv.eu
 tiktokv.us
 tiktokw.eu
 tiktokw.us
+tilda.cc
+tilda.ru
+tilda.ws
+tildaapi.com
+tildacdn.com
 tiltbrush.com
 timdir.com
 time-a-b.nist.gov
