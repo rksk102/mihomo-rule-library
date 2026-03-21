@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-03-20 19:31:38
+# Date:     2026-03-21 08:33:27
 # Mode:     DOMAIN
-# Count:    25120 (Raw: 25120)
+# Count:    25123 (Raw: 25123)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -3351,6 +3351,7 @@ bestbuytradein.com
 bestbuyus.com
 bestcamsites.net
 bestclouddrive.com
+bestdori.com
 besterpornos.com
 bestescortgirls.nl
 bestfreecams.club
@@ -5305,6 +5306,7 @@ chwr7s8u.com
 chyoa.com
 ci-en.jp
 ci-en.net
+cia.gov
 ciattackers.com
 cici.com
 ciciai.com
@@ -25015,6 +25017,7 @@ zhuichaguoji.org
 zhuzhushipin-app.com
 zi.media
 zibacity.com
+ziglang.org
 zigzag.kr
 zillionk.com
 zim.vn

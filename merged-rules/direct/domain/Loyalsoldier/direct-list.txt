@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-03-20 19:31:38
+# Date:     2026-03-21 08:33:28
 # Mode:     DOMAIN
-# Count:    118432 (Raw: 118432)
+# Count:    118430 (Raw: 118430)
 # Desc:     Auto-detected from direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -34806,13 +34806,11 @@ esou.biz
 esoua.com
 esound.vip
 esouou.com
-esp8266.com
 espeedpost.com
 esplus.club
 espnlol.com
 esports-console.com
 esportsreg.com
-espressif.com
 esr.com
 essaystar.com
 essca.com

@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-03-20 19:31:38
+# Date:     2026-03-21 08:33:28
 # Mode:     DOMAIN
-# Count:    4309 (Raw: 4309)
+# Count:    4307 (Raw: 4307)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -1318,10 +1318,8 @@ erp321.com
 erp321.net
 ersjk.com
 esp8266.cn
-esp8266.com
 esp8266.com.cn
 espressif.cn
-espressif.com
 espressif.com.cn
 essence.com.cn
 et-api.com
