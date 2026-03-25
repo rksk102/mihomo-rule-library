@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-03-24 19:47:38
+# Date:     2026-03-25 08:52:07
 # Mode:     DOMAIN
-# Count:    118430 (Raw: 118430)
+# Count:    118429 (Raw: 118429)
 # Desc:     Auto-detected from direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -104845,7 +104845,6 @@ xiaomicp.com
 xiaomidns.com
 xiaomidns.net
 xiaomiev.com
-xiaomiflash.com
 xiaomiinc.net
 xiaomimimo.com
 xiaomimobile.com

@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-03-24 19:47:38
+# Date:     2026-03-25 08:52:06
 # Mode:     DOMAIN
-# Count:    25126 (Raw: 25126)
+# Count:    25135 (Raw: 25135)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -16812,8 +16812,15 @@ oystermercury.top
 ozeex.com
 ozodi.org
 ozodlik.org
+ozon.by
+ozon.com
+ozon.com.by
+ozon.com.kz
+ozon.kz
 ozon.ru
+ozon.tm
 ozone.ru
+ozonru.me
 ozonusercontent.com
 ozvoice.org
 p-events-delivery.akamaized.net
@@ -23928,6 +23935,7 @@ xiaohexie.com
 xiaolan.me
 xiaoma.org
 xiaomi.eu
+xiaomiflash.com
 xiaoou.io
 xiaoou.tv
 xiaoshuobb.life
@@ -23975,6 +23983,7 @@ xml-training-guide.com
 xmoviesforyou.com
 xn--096-4g6em5t.com
 xn--11xs86f.icu
+xn--1jqvh729avzfcy2d8ummib.com
 xn--201-4g6em5t.com
 xn--202-4g6em5t.com
 xn--203-4g6em5t.com
