@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-03-25 19:39:19
+# Date:     2026-03-26 08:56:32
 # Mode:     DOMAIN
-# Count:    118429 (Raw: 118429)
+# Count:    118431 (Raw: 118431)
 # Desc:     Auto-detected from direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -12866,6 +12866,7 @@ anhuiry.com
 anhuisjx.com
 anhuisuya.com
 anhuiwine.com
+anhuiyun.com
 anhuizk.com
 ani-sh.com
 aniccw.net
@@ -27868,6 +27869,7 @@ ctdcdn.com
 ctdcn.com
 ctdisk.com
 ctdns.net
+ctdsb.clouddiffuse.xyz
 ctdsb.com
 ctdsb.net
 ctdzsk.com

@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-03-25 19:39:19
+# Date:     2026-03-26 08:56:32
 # Mode:     DOMAIN
-# Count:    4314 (Raw: 4314)
+# Count:    4331 (Raw: 4331)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -214,6 +214,7 @@
 51cdn.com
 51credit.com
 51cto.com
+51ctocdn.cn
 51dzt.com
 51eshop.com
 51gaifang.com
@@ -307,6 +308,7 @@
 885.com
 88cdn.com
 8btc.com
+8uri.cn
 900.la
 900cha.com
 91.com
@@ -390,6 +392,7 @@ airguilin.com
 airitilibrary.cn
 aisee.tv
 aiskycn.com
+aispeech.com
 aitcfw.com
 aixcoder.com
 aixifan.com
@@ -429,6 +432,7 @@ analog.com
 ancientbooks.cn
 anfensi.com
 anhuinews.com
+anhuiyun.com
 anitabi.cn
 anjuke.com
 anjukestatic.com
@@ -998,6 +1002,8 @@ ctdcdn.com
 ctdns.cn
 ctdns.com.cn
 ctdns.net
+ctdsb.clouddiffuse.xyz
+ctdsb.net
 ctecdn.cn
 ctecx.cn
 ctfile.com
@@ -1647,6 +1653,7 @@ guabu.com
 guaiguai.com
 guaiku.com
 guanaitong.com
+guancha.cn
 guanggaotongapp.cn
 guanhaobio.com
 guanyierp.com
@@ -1914,6 +1921,7 @@ icourse163.org
 icourses.cn
 icpcw.com
 icplishi.com
+icswb.com
 ictbda.cn
 ictbda.com
 icve.com.cn
@@ -1963,6 +1971,7 @@ ihykb.com
 ijiandao.com
 ijinshan.com
 ikafan.com
+ikanchai.com
 ilanzou.com
 ileapcloud.com
 im-cc.com
@@ -2084,6 +2093,7 @@ jikeiot.cloud
 jikexueyuan.com
 jikipedia.com
 jin10.com
+jinantimes.com.cn
 jindidata.com
 jinglingbiaozhu.com
 jinianbi.com
@@ -2205,6 +2215,7 @@ jvcsmart.com.cn
 jvoice.cn
 jxedt.com
 jxksw.net
+jxnews.com.cn
 jxpp.com
 jyeoo.com
 jyeoo.net
@@ -2269,6 +2280,7 @@ kksmg.com
 kkzj.com
 klpbbs.com
 knet.cn
+knewsmart.com
 kolbuyer.cn
 kongfz.com
 koocdn.com
@@ -2896,8 +2908,10 @@ paopaoche.net
 papocket.com
 paydxm.com
 pc6.com
+pcauto.com.cn
 pcbeta.com
 pchome.net
+pchouse.com.cn
 pchpic.net
 pconline.com.cn
 pcpop.com
@@ -3301,6 +3315,7 @@ sojump.com
 soku.com
 solidot.org
 somode.com
+sootoo.com
 soso.com
 soso.com.cn
 sososnap.com
@@ -3439,6 +3454,7 @@ teachblog.net
 tebiefuza.cloud
 tebiefuza.cn
 tebon.com.cn
+techwalker.com
 techweb.com.cn
 teemo.cn
 teleows.com
@@ -3722,7 +3738,6 @@ wasumedia.cn
 wcbygame.com
 wch-ic.com
 wch.cn
-wdjimg.com
 wdzj.com
 we4399.com
 weand.com
@@ -3983,6 +3998,7 @@ yccdn.com
 ycgame.com
 ycrx360.com
 yctdyy.com
+ycwb.com
 ydamc.com
 ydsc.com.cn
 ydsys.cn
@@ -4225,6 +4241,7 @@ zhfund.com
 zhibo8.cc
 zhichanli.com
 zhidemai.com
+zhiding.cn
 zhiding.com.cn
 zhidx.com
 zhifang.com
