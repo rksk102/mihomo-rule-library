@@ -2,7 +2,7 @@
 # Strategy: block
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-03-26 08:56:32
+# Date:     2026-03-26 19:50:06
 # Mode:     DOMAIN
 # Count:    170205 (Raw: 170205)
 # Desc:     Auto-detected from block/domain/Loyalsoldier/reject.txt
