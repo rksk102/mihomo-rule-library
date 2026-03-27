@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-03-26 19:50:06
+# Date:     2026-03-27 08:53:29
 # Mode:     DOMAIN
-# Count:    4205 (Raw: 4205)
+# Count:    4206 (Raw: 4206)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -4062,6 +4062,7 @@ xn--9iqy04a7fi01l.com
 xn--9pr62r24a.com
 xn--czq75pvv1aj5c.org
 xn--i2ru8q2qg.com
+xn--kcrv3utim32hx9f6qe.com
 xn--ngstr-lra8j.com
 xn--noss43i.com
 xn--oiq.cc

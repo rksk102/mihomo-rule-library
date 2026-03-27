@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-03-26 19:50:06
+# Date:     2026-03-27 08:53:29
 # Mode:     DOMAIN
-# Count:    4331 (Raw: 4331)
+# Count:    4333 (Raw: 4333)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -2044,6 +2044,7 @@ ivwen.com
 iyiou.com
 iyunmu.com
 iyunxiao.com
+izattime.qcomgeo2.com
 izto.com
 izto.com.cn
 iztzq.com
@@ -3960,6 +3961,7 @@ xqfunds.com
 xsa239.com
 xsbapp.cn
 xsdzq.cn
+xtratime.qcomgeo2.com
 xuanchuanyi.com
 xue51.com
 xueersi.com

@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-03-26 19:50:06
+# Date:     2026-03-27 08:53:29
 # Mode:     DOMAIN
-# Count:    118431 (Raw: 118431)
+# Count:    118432 (Raw: 118432)
 # Desc:     Auto-detected from direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -55434,6 +55434,7 @@ iyz168.com
 izacholsm.com
 izaodao.com
 izatcloud.net
+izattime.qcomgeo2.com
 izazamall.com
 izb.pub
 izdatatech.com
@@ -66132,7 +66133,6 @@ loushi.com
 lousj.com
 lousw.com
 louyue.com
-lovart.ai
 lovcuty.com
 love-freedom.com
 love-math-edu.com
@@ -107071,6 +107071,7 @@ xtongs.com
 xtoobmo.xyz
 xtransfer.com
 xtrapowercn.com
+xtratime.qcomgeo2.com
 xtrc.net
 xtrunc.com
 xtsfuke.com
