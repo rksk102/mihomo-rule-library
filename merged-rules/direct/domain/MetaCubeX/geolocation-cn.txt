@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-03-30 19:48:42
+# Date:     2026-03-31 08:59:31
 # Mode:     DOMAIN
-# Count:    4333 (Raw: 4333)
+# Count:    4335 (Raw: 4335)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -3104,6 +3104,7 @@ qznovelpic.com
 qznovelstatic.com
 qznovelvod.com
 rainclassroom.com
+rainyun.com
 rdfybk.com
 rdnsdb.com
 realcybertron.com
@@ -3413,6 +3414,7 @@ syxlgame.com
 sz-jlc.com
 szbdyd.com
 szfw.org
+szhdy.com
 szhk.com
 szjlc.cn
 szlcsc.com
