@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-04-03 19:32:28
+# Date:     2026-04-04 08:40:17
 # Mode:     DOMAIN
-# Count:    4205 (Raw: 4205)
+# Count:    4206 (Raw: 4206)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -2669,6 +2669,7 @@ orient-doll.com
 orientaldaily.com.my
 orn.jp
 osfoora.com
+osmand.net
 otcbtc.com
 otto.de
 ourdearamy.com
