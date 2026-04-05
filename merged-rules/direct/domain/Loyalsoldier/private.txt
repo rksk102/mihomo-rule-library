@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-04-04 19:24:21
+# Date:     2026-04-05 08:43:01
 # Mode:     DOMAIN
-# Count:    121 (Raw: 121)
+# Count:    120 (Raw: 120)
 # Desc:     Auto-detected from direct/domain/Loyalsoldier/private.txt
 # ----------------------------------------
 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
@@ -120,7 +120,6 @@ router.ctc
 routerlogin.com
 setmeup.arubanetworks.com
 tendawifi.com
-test.steampowered.com
 tplinkwifi.net
 tplogin.cn
 ts.net

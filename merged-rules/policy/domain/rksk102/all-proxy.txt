@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-04-04 19:24:21
+# Date:     2026-04-05 08:43:01
 # Mode:     DOMAIN
-# Count:    25323 (Raw: 25323)
+# Count:    25326 (Raw: 25326)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -7855,6 +7855,7 @@ esg.t91y.com
 eskimotube.com
 eslite.com
 esm.run
+esm.sh
 esmarthealth.com
 esmatube.com
 esopworld.com
@@ -17529,6 +17530,7 @@ pjbyj.top
 pjful-app.lol
 pjgirls.com
 pjsekai.sega.jp
+pkgbuild.com
 pki-post.ch
 pki-posta.ch
 pki-poste.ch
@@ -23806,6 +23808,7 @@ wrenchead.com
 writesonic.com
 ws-blau.com
 ws-tcg.com
+ws.audioscrobbler.com
 wsj.com
 wsj.jobs
 wsj.net
