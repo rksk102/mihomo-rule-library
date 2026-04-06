@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-04-05 19:27:45
+# Date:     2026-04-06 09:08:47
 # Mode:     DOMAIN
-# Count:    4206 (Raw: 4206)
+# Count:    4210 (Raw: 4210)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -245,6 +245,7 @@ appsocks.net
 appspot.com
 appsto.re
 aptoide.com
+archive-it.org
 archive.fo
 archive.is
 archive.li
@@ -987,6 +988,7 @@ dmcdn.net
 dmhy.org
 dmm.co.jp
 dns.cloudflare.com
+dns.sb
 dns2go.com
 dnscrypt.org
 dnssec.net
@@ -997,6 +999,7 @@ docker.io
 dockerstatus.com
 docs.new
 documentingreality.com
+doh.sb
 dolc.de
 dolf.org.hk
 dongtaiwang.com
@@ -1004,6 +1007,7 @@ dongtaiwang.net
 doom9.org
 doosho.com
 doourbest.org
+dot.sb
 dotplane.com
 dotsub.com
 dotvpn.com
