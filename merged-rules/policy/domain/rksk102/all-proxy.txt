@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-04-07 19:50:48
+# Date:     2026-04-08 09:00:46
 # Mode:     DOMAIN
-# Count:    25389 (Raw: 25389)
+# Count:    25388 (Raw: 25388)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -5824,6 +5824,7 @@ crabporn.com
 crackle.com
 craigslist.org
 crankplayer.com
+crashlytics.com
 crates.io
 crazy-amateurs.com
 crazyav.xyz
@@ -8658,7 +8659,6 @@ finlitsummit.org
 fiotolia.com
 fire-emblem-heroes.com
 firearmsworld.net
-firebase-settings.crashlytics.com
 firebase.com
 firebase.google.com
 firebase.googleapis.com
@@ -22296,7 +22296,6 @@ uoherald.com
 up.audio
 up01.cc
 upbit.com
-update.crashlytics.com
 updatetube.com
 upfrontcfd.com
 upfrontfea.com

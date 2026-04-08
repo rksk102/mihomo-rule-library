@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-04-07 19:50:48
+# Date:     2026-04-08 09:00:46
 # Mode:     DOMAIN
-# Count:    4210 (Raw: 4210)
+# Count:    4211 (Raw: 4211)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -853,6 +853,7 @@ cpj.org
 cpu-monkey.com
 cq99.us
 crackle.com
+crashlytics.com
 crazypool.org
 crazyshit.com
 crbug.com
