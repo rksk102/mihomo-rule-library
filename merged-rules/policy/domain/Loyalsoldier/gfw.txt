@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-04-08 19:53:36
+# Date:     2026-04-09 09:07:44
 # Mode:     DOMAIN
-# Count:    4211 (Raw: 4211)
+# Count:    4210 (Raw: 4210)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -2321,7 +2321,6 @@ mediafreakcity.com
 mediawiki.org
 medium.com
 meee.com.tw
-meetup.com
 mega.co.nz
 mega.io
 mega.nz
@@ -2389,6 +2388,7 @@ mirrorbooks.com
 mirrormedia.mg
 missav.com
 missav.ws
+mistral.ai
 mitbbs.com
 miuipolska.pl
 mixero.com
@@ -2895,7 +2895,6 @@ pursuestar.com
 putty.org
 pximg.net
 python.com.tw
-pytorch.org
 qbittorrent.org
 qgirl.com.tw
 qi-gong.me
