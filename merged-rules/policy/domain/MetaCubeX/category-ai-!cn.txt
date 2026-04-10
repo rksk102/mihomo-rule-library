@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-04-09 19:58:12
+# Date:     2026-04-10 09:09:17
 # Mode:     DOMAIN
-# Count:    129 (Raw: 129)
+# Count:    133 (Raw: 133)
 # Desc:     Auto-detected from policy/domain/MetaCubeX/category-ai-!cn.txt
 # ----------------------------------------
 ai.google.dev
@@ -65,6 +65,9 @@ dola.com
 duck.ai
 elevenlabs.com
 elevenlabs.io
+envato-static.com
+envato.com
+envatousercontent.com
 gateway.ai.cloudflare.com
 geller-pa.googleapis.com
 gemini.google
@@ -127,6 +130,7 @@ robinfrontend-pa.googleapis.com
 servd-anthropic-website.b-cdn.net
 sora.com
 spicywriter.com
+themeforest.net
 trae.ai
 turn.livekit.cloud
 webchannel-alkalimakersuite-pa.clients6.google.com
