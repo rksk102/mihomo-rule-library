@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-04-11 08:42:07
+# Date:     2026-04-12 08:47:42
 # Mode:     DOMAIN
-# Count:    120 (Raw: 120)
+# Count:    122 (Raw: 122)
 # Desc:     Auto-detected from direct/domain/Loyalsoldier/private.txt
 # ----------------------------------------
 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
@@ -106,7 +106,9 @@ d.f.ip6.arpa
 hiwifi.com
 home.arpa
 instant.arubanetworks.com
+kis.v2.scr.kaspersky-labs.com
 leike.cc
+local.adguard.org
 localhost.ptlogin2.qq.com
 localhost.sec.qq.com
 miwifi.com

@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-04-11 08:42:07
+# Date:     2026-04-12 08:47:42
 # Mode:     DOMAIN
-# Count:    118458 (Raw: 118458)
+# Count:    118463 (Raw: 118463)
 # Desc:     Auto-detected from direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -32407,6 +32407,7 @@ duba.net
 dubairen.com
 dubao123.com
 dubbing.tech
+dubbingx.com
 dubbo.io
 duble.live
 dubola.com
@@ -69286,6 +69287,7 @@ miaoche.com
 miaocode.com
 miaodiyun.com
 miaodongbar.com
+miaodongshenghuo.com
 miaogongzi.cc
 miaogongzi.net
 miaohuiyanyi.com
@@ -80368,6 +80370,7 @@ quasarchs.com
 quaspa.com
 quazero.com
 quba360.com
+qubang.cc
 qubaobei.com
 qubiankeji.com
 qucai.com
@@ -95861,6 +95864,7 @@ tsfqw.com
 tsg-online.net
 tsggx.com
 tsgks.com
+tsgyun.com
 tshaisen.com
 tshe.com
 tshe.me
@@ -110944,6 +110948,7 @@ yoodb.com
 yooek.com
 yoofh.com
 yoogene.com
+yoohe.net
 yoohouse.com
 yoojia.com
 yoojing.com
