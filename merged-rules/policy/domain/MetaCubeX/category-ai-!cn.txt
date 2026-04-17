@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-04-16 19:55:38
+# Date:     2026-04-17 09:17:39
 # Mode:     DOMAIN
-# Count:    133 (Raw: 133)
+# Count:    134 (Raw: 134)
 # Desc:     Auto-detected from policy/domain/MetaCubeX/category-ai-!cn.txt
 # ----------------------------------------
 ai.google.dev
@@ -130,6 +130,7 @@ robinfrontend-pa.googleapis.com
 servd-anthropic-website.b-cdn.net
 sora.com
 spicywriter.com
+stitch.withgoogle.com
 themeforest.net
 trae.ai
 turn.livekit.cloud

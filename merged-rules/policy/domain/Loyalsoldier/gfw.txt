@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-04-16 19:55:38
+# Date:     2026-04-17 09:17:39
 # Mode:     DOMAIN
-# Count:    4195 (Raw: 4195)
+# Count:    4196 (Raw: 4196)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -299,6 +299,7 @@ avdb.tv
 avg.com
 avgle.com
 avidemux.org
+avistaz.to
 avmo.pw
 avmoo.pw
 avoision.com
