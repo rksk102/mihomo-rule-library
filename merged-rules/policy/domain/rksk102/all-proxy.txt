@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-04-19 19:34:55
+# Date:     2026-04-20 09:58:13
 # Mode:     DOMAIN
-# Count:    25925 (Raw: 25925)
+# Count:    25926 (Raw: 25926)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -778,6 +778,7 @@ adguard.info
 adguard.io
 adguard.org
 adguardaccount.com
+adguardcdn.com
 adguardvpn.com
 adhelpnews.com
 adidas-archive.org
