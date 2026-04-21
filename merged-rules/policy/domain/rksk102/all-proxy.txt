@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-04-20 19:54:39
+# Date:     2026-04-21 09:26:04
 # Mode:     DOMAIN
-# Count:    25926 (Raw: 25926)
+# Count:    25928 (Raw: 25928)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -15047,6 +15047,7 @@ minilondon.ca
 minilondon.co
 minimarkham.ca
 minimarkham.com
+minimax.io
 minimoncton.ca
 minimoncton.com
 minimontrealcentre.ca
@@ -19662,6 +19663,7 @@ scnsrc.me
 scolle.net
 scoop.sh
 scopus.com
+scorecardresearch.com
 scoreclassics.com
 scorediscounts.club
 scoregroup.com
