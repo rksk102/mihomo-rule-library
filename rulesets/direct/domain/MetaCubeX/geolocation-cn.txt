@@ -67,6 +67,7 @@
 17u.net
 17usoft.com
 17usoft.net
+17van.com
 17zuoye.cn
 17zuoye.com
 17zuoye.net
@@ -343,6 +344,7 @@ acadn.cn
 acadn.com
 accuratead.cn
 accxiaoheihe.com
+acepanel.net
 acetaffy.club
 acfun.cn
 acfun.net
@@ -370,8 +372,10 @@ ai.zhaomi.cn
 aicdn.com
 aichaoxing.com
 aichongzoo.cn
+aidream.website
 aiemy.com
 aiganggu.com
+aigodlike.com
 aihst8.com
 aihuishou.com
 aiketour.com
@@ -538,6 +542,7 @@ baltamatica.org.cn
 bambulab.com
 bamenzhushou.com
 bangongziyuan.com
+bankcomm.cn
 bankcomm.com
 bankofbeijing.com.cn
 banmaaike.com
@@ -545,6 +550,7 @@ baofeng.com
 baofeng.net
 baomitu.com
 baoxianshichang.com
+batchat.com
 battlecare.net
 baydn.com
 bbbcdns.com
@@ -793,6 +799,7 @@ chesicc.com.cn
 chesicc.net
 chesicc.net.cn
 chesicc.org.cn
+chessease.net
 cheyisou.com
 china-chair.com
 china-nengyuan.com
@@ -857,6 +864,7 @@ chuapp.com
 chugou360.com
 chuimg.com
 chujingapp.com
+chushi.cool
 chushou.tv
 chuyu.me
 cib-fund.com.cn
@@ -941,6 +949,7 @@ cofeed.com
 cofool.com
 coindog.com
 conac.cn
+cone-x.com
 contentchina.com
 cookicut.com
 coolab.top
@@ -1153,6 +1162,7 @@ dingdachuxing.com
 dingdatech.com
 dingxiang-inc.com
 diopic.net
+divoiotcloud.com
 diyiyou.com
 dj99.com
 djdjapp.com
@@ -1275,6 +1285,7 @@ dzsc.com
 dzw3.com
 dzwww.com
 e0n.cn
+eagsen.com
 easec.com.cn
 easesale.com
 easiu.com
@@ -1335,10 +1346,13 @@ espressif.com.cn
 essence.com.cn
 et-api.com
 et001.com
+et0731.com
 ets100.com
 everbright.com
 ewww.com.cn
+excelbbx.net
 excelhome.net
+exiliumgf.com
 expreview.com
 extfans.com
 eziot.com
@@ -1660,6 +1674,7 @@ guaiku.com
 guanaitong.com
 guancha.cn
 guanggaotongapp.cn
+guangyapan.com
 guanhaobio.com
 guanyierp.com
 guazi.com
@@ -1680,6 +1695,7 @@ guoxuemi.com
 gupzs.com
 gushiwen.org
 guzhangting.com
+gvgoo.com
 gw.com.cn
 gwdang.com
 gwm.com.cn
@@ -1905,6 +1921,7 @@ hxb.com.cn
 hxfy888.com
 hxsd.com
 hxzq.cn
+hybiome.com
 hytung.cn
 hzdtv.tv
 hzman.net
@@ -1975,6 +1992,7 @@ ihuoshanstatic.com
 ihuoshanvod.com
 ihykb.com
 ijiandao.com
+ijingyi.com
 ijinshan.com
 ikafan.com
 ikanchai.com
@@ -2065,6 +2083,7 @@ jb51.net
 jbcz.tv
 jchat.io
 jdair.net
+jduoduo.com
 jet-ego.com
 jet-logistics.com
 jetlogistic.com
@@ -2074,6 +2093,7 @@ jhzq.com.cn
 jia.com
 jiameng.com
 jianbihua.com
+jiangningwater.com
 jianguoyun.com
 jianshu.com
 jianshu.io
@@ -2102,6 +2122,7 @@ jikipedia.com
 jin10.com
 jinantimes.com.cn
 jindidata.com
+jingheiot.com
 jinglingbiaozhu.com
 jinianbi.com
 jinrishici.com
@@ -2176,6 +2197,7 @@ jsctyiptv.cn
 jsdmirror.com
 jsehealth.com
 jsfund.cn
+jsj.top
 jslife.net
 jsrdgg.com
 jsterp.cn
@@ -2237,6 +2259,8 @@ kaadas.com
 kafan.cn
 kaifayun.com
 kaifubiao.com
+kaihong.com
+kaipanhong.com
 kaipuyun.cn
 kaipuyun.com
 kaipuyun.com.cn
@@ -2478,6 +2502,7 @@ liepin.com
 lietou-static.com
 lietou.com
 lieyunwang.com
+lightmake.site
 lightonus.com
 likuso.com
 limestart.cn
@@ -2592,6 +2617,7 @@ maxonesoft.com
 mayi.com
 mayihr.com
 mbalib.com
+mblyun.com
 mcadn.cn
 mcbaas.work
 mcbang.com
@@ -2629,6 +2655,7 @@ meitustat.com
 meiwulist.com
 meizu.cn
 meizu.com
+meloong.com
 mengtuoshi.wang
 merach.com
 meta.law
@@ -2652,6 +2679,7 @@ midea.com
 midea.com.cn
 mideaepayuat.com
 miercn.com
+mifon.com
 mihayo.com
 mihayou.com
 mihoyo.com
@@ -2949,6 +2977,7 @@ phpcomposer.com
 phpweblog.net
 piaoliang.com
 picpic-ai.cn
+piedaochuan.top
 pigai.org
 pinduoduo.com
 pinduoduo.net
@@ -3229,6 +3258,7 @@ shanbay.com
 shang360.com
 shangc.net
 shanghairc.com
+shanghongbei.com
 shangshi360.com
 shangyexinzhi.com
 shangzhibo.tv
@@ -3458,7 +3488,9 @@ taikang.com
 taikanglife.com
 taikangzhijia.com
 taipingfund.com.cn
+tajiduo.com
 takungpao.com
+talk-cloud.net
 talkingdata.com
 talkinggame.com
 tangeche.com
@@ -3507,6 +3539,7 @@ thinkpad.com
 thinkprinter.cn
 thinkprinter.com.cn
 thinkprinter.net
+thmnet.com
 ths123.com
 thsi.cn
 thtf.com.cn
@@ -3519,6 +3552,7 @@ tiangong.cn
 tianjimedia.com
 tianjin-air.com
 tianlailive.com
+tianlala.com
 tianpeng.com
 tianqi.com
 tianqistatic.com
@@ -3565,6 +3599,7 @@ tokyotrial.cn
 tom.com
 tongdun.net
 tongfangpc.com
+tongkask.com
 tongtaiamc.com
 tongxianghuicn.com
 tongxuepie.com
@@ -3711,6 +3746,7 @@ vamaker.com
 vancl.com
 vanclimg.com
 vanho.cn
+vanjee.net
 vaptcha.com
 vaptcha.net
 variflight.com
@@ -3903,6 +3939,7 @@ xa-bank.com
 xafc.com
 xbext.com
 xbiao.com
+xboxfan.com
 xcc.cn
 xcsc.com
 xdqtech.com
@@ -4117,6 +4154,7 @@ youyitms.com
 youyiwms.com
 youzan.com
 youzanyun.com
+youzhiyouxing.com
 youzu.com
 yoyojie.com
 yoyou.com
@@ -4211,6 +4249,7 @@ yzcdn.cn
 yzwb.net
 yzyxgame.com
 z-bank.com
+z-tek.com
 z.ai
 z28j.com
 zaifan.com
@@ -4279,6 +4318,7 @@ zhidemai.com
 zhiding.cn
 zhiding.com.cn
 zhidx.com
+zhiexa.com
 zhifang.com
 zhihang100.com
 zhihu.com
@@ -4371,5 +4411,6 @@ zybang.com
 zygbdszt.net.cn
 zyh365.com
 zyhe.com.cn
+zysou.com
 zzdtec.com
 zztfly.com
