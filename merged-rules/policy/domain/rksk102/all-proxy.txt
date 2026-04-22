@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-04-21 19:59:14
+# Date:     2026-04-22 09:20:23
 # Mode:     DOMAIN
-# Count:    25928 (Raw: 25928)
+# Count:    25929 (Raw: 25929)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -12017,6 +12017,7 @@ impermium.com
 improd.works
 imstagram.com
 imtagram.com
+imtintl.com
 imzog.com
 inaporn.com
 inasian.club
