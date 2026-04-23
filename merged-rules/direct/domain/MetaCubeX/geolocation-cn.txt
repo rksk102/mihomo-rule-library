@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-04-22 20:00:01
+# Date:     2026-04-23 09:28:19
 # Mode:     DOMAIN
-# Count:    4416 (Raw: 4416)
+# Count:    4418 (Raw: 4418)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -680,7 +680,6 @@ bosc.cn
 boscam.com.cn
 bosera.com
 bosszhipin.com
-botvip.cn
 bouffalolab.com
 boxdouyin.com
 brawlstars.cn
@@ -2505,6 +2504,8 @@ liaoxuefeng.com
 liba.com
 libaclub.com
 liblib.art
+liblib.cloud
+liblib.tv
 libvideo.com
 liebao.cn
 liepin.com
@@ -3507,6 +3508,7 @@ tao123.com
 taoche.com
 taomee.com
 taou.com
+tapnow.top
 tcfmglobal.com
 tcl.com
 tcl.com.cn
