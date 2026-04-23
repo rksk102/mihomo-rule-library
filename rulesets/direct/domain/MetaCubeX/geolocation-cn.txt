@@ -671,7 +671,6 @@ bosc.cn
 boscam.com.cn
 bosera.com
 bosszhipin.com
-botvip.cn
 bouffalolab.com
 boxdouyin.com
 brawlstars.cn
@@ -2496,6 +2495,8 @@ liaoxuefeng.com
 liba.com
 libaclub.com
 liblib.art
+liblib.cloud
+liblib.tv
 libvideo.com
 liebao.cn
 liepin.com
@@ -3498,6 +3499,7 @@ tao123.com
 taoche.com
 taomee.com
 taou.com
+tapnow.top
 tcfmglobal.com
 tcl.com
 tcl.com.cn
