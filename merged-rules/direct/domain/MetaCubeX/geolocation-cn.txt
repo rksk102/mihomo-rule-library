@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-04-28 20:09:21
+# Date:     2026-04-29 10:05:12
 # Mode:     DOMAIN
-# Count:    4418 (Raw: 4418)
+# Count:    4450 (Raw: 4450)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -320,6 +320,7 @@
 91danji.com
 91shenfan.com
 91yunxiao.com
+95015.com
 95306.cn
 95311.com
 95504test.com
@@ -462,6 +463,7 @@ ao-x.ac.cn
 aotrip.net
 aoyou.com
 apabi.com
+api-building.fun
 apifox.cn
 apifox.com
 apimkt.net
@@ -555,6 +557,8 @@ bankcomm.cn
 bankcomm.com
 bankofbeijing.com.cn
 banmaaike.com
+banxiaoer.com
+banxiaoer.net
 baofeng.com
 baofeng.net
 baomitu.com
@@ -692,6 +696,7 @@ btgtravel.com
 bthhotels.com
 btime.com
 bubei.com.cn
+building.fun
 buke999.com
 burningvocabulary.cn
 burningvocabulary.com
@@ -750,6 +755,7 @@ cdncl.net
 cdndo.com
 cdnmg.com
 ceair.com
+ceati.org.cn
 cebbank.com
 ceblease.com
 cecdc.com
@@ -969,11 +975,21 @@ cooldock.com
 cowcs.com
 cowlevel.net
 cowtransfer.com
+coze-dns-01.com
 coze.cn
+coze.email
 coze.site
+cozeapp.net
 cozebaas.cn
+cozebuild.com
+cozecdn.com
+cozedeploy.com
 cozefn.cn
 cozeide.cn
+cozesdk.com
+cozetest.cn
+cozetest2.cn
+cozetest3.cn
 cpatrk.net
 cppblog.com
 cpppf.org
@@ -1106,6 +1122,7 @@ daocloud.io
 daocloud.vip
 daojia.com
 daovoice.io
+datacon.org.cn
 dataeye.com
 datasea.cn
 datayi.cn
@@ -1115,6 +1132,7 @@ dayin8.com
 daytx.cn
 dayukaoshi.com
 dazijia.com
+dbbuilding.fun
 dbfund.com.cn
 dcarapi.com
 dcarimg.com
@@ -1209,6 +1227,7 @@ dopa.com
 douban.com
 douban.fm
 doubanio.com
+doubao-dev.com
 doubao.com
 doubaocdn.com
 doucang.cn
@@ -1682,6 +1701,7 @@ guaiku.com
 guanaitong.com
 guancha.cn
 guanggaotongapp.cn
+guangyacdn.com
 guangyapan.com
 guanhaobio.com
 guanyierp.com
@@ -2031,6 +2051,7 @@ inftab.com
 inkuai.com
 inkwai.com
 insta360.com
+instreet.com
 intsig.com
 intsig.net
 iotronic.tech
@@ -2895,6 +2916,9 @@ nzbdw.com
 nzsiteres.com
 nzwgs.com
 oadz.com
+obriccloud.com
+obricclouddw.com
+oceancloudapi.com
 ocfund.cn
 oeeee.com
 offcn.com
@@ -3071,6 +3095,8 @@ qianjia.com
 qianlima.com
 qianwen.aliyun.com
 qianwen.com
+qianxin.com
+qianxincdn.com
 qianyierp.com
 qianzhan.com
 qiaobutang.com
@@ -3201,6 +3227,7 @@ s0n.cn
 saasops.tech
 saayaa.com
 saduck.top
+safeskill.cn
 sagemaker.com.cn
 saibo.com
 sandai.net
@@ -3235,6 +3262,7 @@ sdo.com
 seasungames.com
 sec-wiki.com
 secec.com
+seclab.online
 secrss.com
 seeed.cc
 seeed.cn
@@ -3278,6 +3306,7 @@ shareintelli.com
 sharejs.com
 sharesdk.cn
 shebiaotm.com
+shellpub.com
 shelter-china.com
 shelterdome.net
 shengdaosoft.com
@@ -3551,6 +3580,8 @@ thinkprinter.cn
 thinkprinter.com.cn
 thinkprinter.net
 thmnet.com
+threatbook.cn
+threatbook.com
 ths123.com
 thsi.cn
 thtf.com.cn
@@ -3567,6 +3598,7 @@ tianlala.com
 tianpeng.com
 tianqi.com
 tianqistatic.com
+tianshucup.com
 tianxiajiameng.cn
 tianxiajiameng.com
 tianyancha.com

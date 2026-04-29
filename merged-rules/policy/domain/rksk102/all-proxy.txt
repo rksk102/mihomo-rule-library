@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-04-28 20:09:21
+# Date:     2026-04-29 10:05:12
 # Mode:     DOMAIN
-# Count:    25941 (Raw: 25941)
+# Count:    25942 (Raw: 25942)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -22726,6 +22726,7 @@ upmedia.mg
 upornia.com
 uporno.xxx
 uproxy.org
+upsangel.com
 uptodown.com
 ura-akiba.jp
 uraban.me

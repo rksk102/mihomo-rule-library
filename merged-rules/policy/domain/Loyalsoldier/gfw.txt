@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-04-28 20:09:21
+# Date:     2026-04-29 10:05:12
 # Mode:     DOMAIN
-# Count:    4204 (Raw: 4204)
+# Count:    4205 (Raw: 4205)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -3699,6 +3699,7 @@ upghsbc.com
 upmedia.mg
 upornia.com
 uproxy.org
+upsangel.com
 uptodown.com
 uraban.me
 urbandictionary.com
