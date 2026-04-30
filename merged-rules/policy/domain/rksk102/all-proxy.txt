@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-04-29 20:06:33
+# Date:     2026-04-30 10:06:20
 # Mode:     DOMAIN
-# Count:    25942 (Raw: 25942)
+# Count:    25943 (Raw: 25943)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -22015,6 +22015,7 @@ tl.gd
 tma.co.jp
 tmagazine.com
 tmdb-image-prod.b-cdn.net
+tmdb-web-image-prod.b-cdn.net
 tmdb.org
 tmei-taoyuan.com
 tmi.me
