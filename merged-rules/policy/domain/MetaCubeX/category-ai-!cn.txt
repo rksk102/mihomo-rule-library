@@ -2,7 +2,7 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-05-01 20:00:41
+# Date:     2026-05-02 09:05:56
 # Mode:     DOMAIN
 # Count:    142 (Raw: 142)
 # Desc:     Auto-detected from policy/domain/MetaCubeX/category-ai-!cn.txt
