@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-05-02 19:46:38
+# Date:     2026-05-03 09:21:55
 # Mode:     DOMAIN
-# Count:    4205 (Raw: 4205)
+# Count:    4206 (Raw: 4206)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -3176,6 +3176,7 @@ socks-proxy.net
 sockslist.net
 socrec.org
 softether-download.com
+softether.co.jp
 softether.org
 softfamous.com
 softwarebychuck.com

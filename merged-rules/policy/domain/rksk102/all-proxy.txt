@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-05-02 19:46:38
+# Date:     2026-05-03 09:21:55
 # Mode:     DOMAIN
-# Count:    25943 (Raw: 25943)
+# Count:    25944 (Raw: 25944)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -20492,6 +20492,7 @@ softbankusa.net
 softbankventuresasia.com
 softbankworld.com
 softether-download.com
+softether.co.jp
 softether.org
 softfamous.com
 softmodels.net
