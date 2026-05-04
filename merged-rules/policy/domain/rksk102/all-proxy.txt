@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-05-03 19:45:59
+# Date:     2026-05-04 10:13:10
 # Mode:     DOMAIN
-# Count:    25944 (Raw: 25944)
+# Count:    25945 (Raw: 25945)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -6636,6 +6636,7 @@ digitalcertvalidation.com
 digitaldesire.com
 digitalhub.com
 digitalid.ch
+digitalocean-ui.com
 digitalocean.com
 digitaloceanspaces.com
 digitalpack.com

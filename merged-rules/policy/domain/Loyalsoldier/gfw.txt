@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-05-03 19:45:59
+# Date:     2026-05-04 10:13:10
 # Mode:     DOMAIN
-# Count:    4206 (Raw: 4206)
+# Count:    4202 (Raw: 4202)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -3052,9 +3052,6 @@ savetibetstore.org
 saveuighur.org
 sbme.me
 sbti.unun.dev
-scache.vzw.com
-scache1.vzw.com
-scache2.vzw.com
 schema.org
 scmp.com
 scramble.io
@@ -3235,7 +3232,6 @@ springwood.me
 sproutcore.com
 squirrelvpn.com
 ss-link.com
-ss7.vzw.com
 ssglobal.co
 ssl.webpack.de
 sspanel.net
