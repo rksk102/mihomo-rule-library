@@ -9,6 +9,7 @@
 a.adtng.com
 a.alimama.cn
 a.market.xiaomi.com
+a.mts.ru
 a.youdao.com
 aaid.umeng.com
 aaxads.com
@@ -599,6 +600,7 @@ nsclick.baidu.com
 nsclickvideo.baidu.com
 o33249.ingest.sentry.io
 o4504926511693824.ingest.sentry.io
+obs.mts.ru
 oc.umeng.com
 oct.pocoiq.cn
 ogury.co
@@ -719,6 +721,7 @@ sentry.d.xiaomi.net
 sentry.dev-my.com
 sentry.dev-my.games
 sentry.hetzner.company
+sentry.iptv.rt.ru
 sentry.kontur.host
 sentry.mindbox.ru
 sentry.music.163.com
