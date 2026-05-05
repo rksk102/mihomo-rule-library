@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-05-04 20:10:21
+# Date:     2026-05-05 10:02:28
 # Mode:     DOMAIN
-# Count:    4450 (Raw: 4450)
+# Count:    4463 (Raw: 4463)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -356,6 +356,7 @@ accuratead.cn
 accxiaoheihe.com
 acepanel.net
 acetaffy.club
+acftu.org
 acfun.cn
 acfun.net
 acfunchina.cn
@@ -998,6 +999,7 @@ cqccn.com
 cqctyiptv.cn
 cqhlw.cn
 cqliving.com
+cqn.com.cn
 cqnews.net
 cqsjb.com
 cqvip.com
@@ -2306,6 +2308,7 @@ kaopu001.com
 kata.com.cn
 kc9.cn
 kcbebank.com
+kcdnvip.com
 kd100.com
 kdocs.cn
 kdslife.com
@@ -2846,6 +2849,7 @@ netzz.net
 newasp.net
 newbandeng.com
 newcoder.com
+neweekly.com.cn
 newniu.com
 news.cn
 news.yxrb.net
@@ -2874,6 +2878,7 @@ nnthink.com
 noi.cn
 noknok.cn
 nomuraoi-sec.com
+nongfuspring.com
 novelfm.com
 novelfmpic.com
 novelfmstatic.com
@@ -3188,6 +3193,7 @@ rainyun.com
 rdfybk.com
 rdnsdb.com
 realcybertron.com
+redcross.org.cn
 redmagic.com
 renren-inc.com
 renren.com
@@ -3809,6 +3815,7 @@ vijos.org
 vip.com
 vipexam.org
 vipstatic.com
+viviv.com
 vobao.com
 vpgame.com
 vrzwk.cn
@@ -3817,6 +3824,7 @@ vrzwk.net
 vrzwk.top
 vsread.com
 vzuu.com
+wahaha.com.cn
 waifushangcheng.com
 wallstcn.com
 wallstreetcn.com
@@ -3886,6 +3894,7 @@ wf.pub
 wfdata.club
 wggames.cn
 whccb.com
+whhhealth.com
 whlovehome.com
 wicresoft.com
 wildfirechat.net
@@ -3903,6 +3912,7 @@ winwin7.com
 winyoungreading.com
 wishdown.com
 wiwide.com
+wjwai.com
 wjx.cn
 wjx.com
 wjx.top
@@ -4048,6 +4058,7 @@ xiu8.com
 xiucai.com
 xiumi.us
 xiumius.com
+xiyouyingyu.com
 xiziwang.net
 xjietiao.com
 xkb.com.cn
@@ -4206,6 +4217,7 @@ yrz.name
 ys7.com
 ysjf.com
 yslyhr.com
+yst.com.cn
 ystbds.com
 ysten.com
 yt0.cc
@@ -4454,6 +4466,7 @@ zybang.com
 zygbdszt.net.cn
 zyh365.com
 zyhe.com.cn
+zysn.net
 zysou.com
 zzdtec.com
 zztfly.com
