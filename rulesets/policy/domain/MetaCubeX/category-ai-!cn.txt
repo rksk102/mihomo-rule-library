@@ -12,6 +12,7 @@ antigravity-pa.googleapis.com
 antigravity-unleash.goog
 antigravity.google
 antigravity.googleapis.com
+anythingllm.com
 bard.google.com
 browser-intake-datadoghq.com
 cerebras.ai
@@ -40,7 +41,12 @@ cohere.com
 comfy.org
 comfyci.org
 comfyregistry.org
+copilot-proxy.githubusercontent.com
+copilot-telemetry-service.githubusercontent.com
+copilot-telemetry.githubusercontent.com
+copilot-workspace.githubnext.com
 copilot.microsoft.com
+copilotprodattachments.blob.core.windows.net
 coze.com
 crewai.com
 crixet.com
@@ -114,6 +120,7 @@ openaicomproductionae4b.blob.core.windows.net
 openart.ai
 openclaw.ai
 openrouter.ai
+openspec.dev
 oystermercury.top
 perplexity.ai
 perplexity.com
