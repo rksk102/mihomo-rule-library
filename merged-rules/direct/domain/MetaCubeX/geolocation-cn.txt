@@ -2,7 +2,7 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-05-06 20:16:23
+# Date:     2026-05-07 10:23:58
 # Mode:     DOMAIN
 # Count:    4463 (Raw: 4463)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
@@ -510,6 +510,7 @@ awsapps.cn
 awsapps.com.cn
 awsstatic.cn
 awstme.top
+azz.net
 b3log.org
 b3logfile.com
 babytree.com
@@ -1357,6 +1358,8 @@ elongstatic.com
 emarbox.com
 emoriko.com
 emumax.com
+end-api.shallow.ink
+end.shallow.ink
 enterdesk.com
 eoeandroid.com
 eoffcn.com
@@ -1459,7 +1462,6 @@ flyme.cn
 flyme.com
 flymeauto.com
 fm365.com
-fm3838.com
 fnjiasu.com
 fnnas.com
 fnnas.net
@@ -1938,6 +1940,7 @@ huoshanxiaoshipin.net
 huoshanzhibo.cn
 huoshanzhibo.com
 huoshanzhibo.net
+huotan.net
 hupu.com
 hupucdn.com
 hupun.com
@@ -2452,7 +2455,6 @@ laoban100.com
 laomaotao.net
 laomaotao.org
 lapin365.com
-larsonlimited.com
 las.ac.cn
 lascn.net
 latepost.com
@@ -4422,8 +4424,6 @@ zofund.com
 zol-img.com.cn
 zol.com.cn
 zongheng.com
-zoom3g.com
-zoomyou.cn
 zpb365.com
 zqrb.cn
 zs-jlc.com
