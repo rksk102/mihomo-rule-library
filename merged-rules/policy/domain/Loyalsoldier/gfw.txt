@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-05-07 20:08:12
+# Date:     2026-05-08 09:21:09
 # Mode:     DOMAIN
-# Count:    4230 (Raw: 4230)
+# Count:    4231 (Raw: 4231)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -3699,6 +3699,7 @@ ulop.net
 ultrasurf.us
 ultravpn.com
 ultravpn.fr
+umap.openstreetmap.fr
 unblock-us.com
 unblock.cn.com
 unblockdmm.com
