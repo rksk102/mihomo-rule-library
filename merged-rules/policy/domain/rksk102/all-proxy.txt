@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-05-09 19:50:35
+# Date:     2026-05-10 09:27:41
 # Mode:     DOMAIN
-# Count:    26100 (Raw: 26100)
+# Count:    26103 (Raw: 26103)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -5624,7 +5624,6 @@ cn.fmnnow.com
 cn.sandscotaicentral.com
 cn.shafaqna.com
 cna.com.tw
-cnappinstall.googleadapis.com
 cnbc.com
 cnbcfm.com
 cnbeta.com
@@ -5802,7 +5801,6 @@ consul.io
 contactossexoecuador.com
 containersonaws.com
 contechacademy.com
-content.googleadapis.com
 contentful.com
 contest.com
 convrgencegame.com
@@ -7047,7 +7045,6 @@ dowjones.io
 dowjoneson.com
 download.com
 download.dappcdn.com
-download.qatp1.net
 download.visualstudio.microsoft.com
 downloadpass.com
 downloadsforipod.com
@@ -13249,6 +13246,7 @@ justporno.sex
 justporno.tv
 justswallows.com
 justusboys.com
+justveryok.com
 juyangbee.xyz
 juyangto.info
 juzi-js.shop
@@ -13406,6 +13404,7 @@ kernel.org
 kex.com
 keybase.io
 keybaseapi.com
+keyboardmen.com
 keycdn.com
 keyhole.com
 keyporntube.com
@@ -15416,7 +15415,6 @@ mongodb.com
 mongodb.org
 monica.im
 monitorchina.org
-monitoring.qpdp1.net
 monitrix.net
 mono-project.com
 monocloud.me
@@ -16912,7 +16910,15 @@ oculusforbusiness.com
 oculusrift.com
 oculusvr.com
 odkl.ru
+odnoklasniki.by
+odnoklasniki.ua
+odnoklassniki.am
+odnoklassniki.by
+odnoklassniki.co.ee
+odnoklassniki.eu
+odnoklassniki.lv
 odnoklassniki.ru
+odnoklassniki.tj
 odysee.com
 oecd-ilibrary.org
 oed.com
@@ -18764,7 +18770,6 @@ pzhanfor.today
 q10.jp
 q13.com
 q13fox.com
-qagpublic.qatp1.net
 qatarescortsvip.com
 qattdh.cc
 qattdh.top
@@ -18777,7 +18782,6 @@ qcmod.xyz
 qcomgeo2.com
 qctconnect.com
 qdiehzz7.me
-qgadmin.qcpp1.net
 qgirl.com.tw
 qi-gong.me
 qianbai.tw
@@ -18838,8 +18842,6 @@ qualcommretail.com
 qualcommventures.cn
 qualcommventures.com
 qualphone.com
-qualysapi.qatp1.net
-qualysguard.qpdp1.net
 quanben-xiaoshuo.com
 quanben.io
 quantil.com
@@ -18909,6 +18911,7 @@ r18lu-avi.shop
 r18lu.com
 r2.dev
 r34porn.net
+rabbitcounter.com
 rabbitscams.com
 rabbitscams.sex
 rabbitsreviews.com
@@ -19627,6 +19630,7 @@ savitabhabhi.vip
 savitahd.net
 savoycomputing.com
 savvyshopper.net.au
+sayeasy.eu
 saynow.com
 sb-cd.com
 sb-mobile.jp
@@ -19677,7 +19681,6 @@ scaleflex.com
 scaleform.com
 scandalplanet.com
 scanlover.com
-scanservice1.qcpp1.net
 scartel.ru
 scat-enema.com
 scat-japan.com

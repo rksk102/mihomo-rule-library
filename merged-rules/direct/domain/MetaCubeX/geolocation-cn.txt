@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-05-09 19:50:35
+# Date:     2026-05-10 09:27:41
 # Mode:     DOMAIN
-# Count:    4463 (Raw: 4463)
+# Count:    4482 (Raw: 4482)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -180,6 +180,7 @@
 3type.cn
 3yx.com
 40017.cn
+4008-517-517.cn
 40407.com
 423down.com
 42r.cn
@@ -663,6 +664,7 @@ bjcathay.com
 bjctyiptv.cn
 bjinfobank.com
 bjyouth.net
+bkchina.cn
 blogjava.net
 bluepoch.com
 blurdev.com
@@ -1185,6 +1187,7 @@ diandianqi.com
 dianping.com
 dianwannan.com
 dianzhenkeji.com
+dicos.com.cn
 dida365.com
 diiing.cn
 dingdachuxing.com
@@ -1784,6 +1787,7 @@ hbhk.com.cn
 hbooker.com
 hczq.com
 hdfimg.com
+hdlcdns.com
 hdyxgame.com
 heavenlywind.cc
 hecdn.net
@@ -1874,6 +1878,8 @@ honor.com
 honor.com.cn
 honorfile.com
 hoopchina.com.cn
+hophing.cn
+hophing.com.cn
 hospital.pku.edu.cn
 hotread.com
 houdao.com
@@ -1949,6 +1955,7 @@ huxiu.com
 huxiucdn.com
 huya.com
 hwshu.com
+hwwt8.com
 hx168.com.cn
 hxb.com.cn
 hxfy888.com
@@ -2327,6 +2334,7 @@ kesong.co
 ketangpai.com
 kexinshe.com
 kf5.com
+kfc.com.cn
 kfzimg.com
 kgimg.com
 kglink.cn
@@ -2338,6 +2346,7 @@ kingdee.com
 kinghomechina.com
 kingsoft-office-service.com
 kingsoft.com
+kiwa-tech.com
 kiyuu.club
 kjcdn.com
 kjwugx.com
@@ -2658,7 +2667,10 @@ mcadn.cn
 mcbaas.work
 mcbang.com
 mcbbs.net
+mcd.cn
+mcdchina.net
 mcdemo.show
+mcdonalds.com.cn
 mchost.guru
 mcmod.cn
 mcprev.cn
@@ -2802,6 +2814,8 @@ muyewx.com
 muzhiwan.com
 mwcdns.com
 mwcloudcdn.com
+mxbc.com
+mxbc.net
 my4399.com
 my7v.com
 mybank.cn
@@ -3149,6 +3163,9 @@ qizuang.com
 ql1d.com
 qlisten.cn
 qm989.com
+qmai.cn
+qmai.com
+qmimg.cn
 qmniu.com
 qnsdk.com
 qnssl.com
@@ -3351,6 +3368,7 @@ shuiyaohuo.com
 shumensy.com
 shuoshuokong.com
 shutcm.com
+shuxinyc.com
 shyxhy.com
 shzq.com
 sichuanair.com
@@ -4260,6 +4278,7 @@ yuanzhiyijiantong.com
 yudou.cn
 yuelun.com
 yuketang.cn
+yumchina.com
 yun.139.com
 yunaq.com
 yunba.io
