@@ -524,6 +524,7 @@ log3-applog-hl.fqnovel.com
 log3-applog.fqnovel.com
 log5-applog-hl.fqnovel.com
 log5-applog.fqnovel.com
+logger.qmai.cn
 logs.amap.com
 logs.chelaile.net.cn
 logupdate.avlyun.sec.miui.com
@@ -801,7 +802,10 @@ tracker-api.my.com
 tracker.ai.xiaomi.com
 tracker.my.com
 tracker.xiaomixiaoai.com
+tracking.mcdonalds.com.cn
 tracking.miui.com
+trackingprd.hwwt8.com
+trackserver.shuxinyc.com
 trafficfactory.biz
 tsyndicate.com
 tubemogul.com
