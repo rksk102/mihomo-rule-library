@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-05-10 19:52:21
+# Date:     2026-05-11 11:19:21
 # Mode:     DOMAIN
-# Count:    26103 (Raw: 26103)
+# Count:    26107 (Raw: 26107)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -6224,6 +6224,7 @@ dat.foundation
 data-tscbank.ru
 data-vocabulary.org
 data.com
+data18.com
 databank.worldbank.org
 database.asahi.com
 datacloudmy.com
@@ -7181,6 +7182,7 @@ dssott.com
 dstk.dk
 dswz88.xyz
 dsyiren.com
+dt18.com
 dtci.co
 dtci.technology
 dtiblog.com
@@ -9738,6 +9740,7 @@ gettyimages.se
 gettyimages.us
 getuploader.com
 getws1.com
+getwsj.com
 getwsone.com
 getzola.org
 gfacecbook.com
@@ -12887,6 +12890,7 @@ javdoe.to
 javdove.com
 javdove8.xyz
 javextreme.net
+javfc2.xyz
 javfilms.com
 javfinder.ai
 javfor.me

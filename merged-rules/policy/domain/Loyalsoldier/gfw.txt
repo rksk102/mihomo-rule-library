@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-05-10 19:52:21
+# Date:     2026-05-11 11:19:21
 # Mode:     DOMAIN
-# Count:    4231 (Raw: 4231)
+# Count:    4233 (Raw: 4233)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -927,6 +927,7 @@ darpa.mil
 darrenliuwei.com
 dashlane.com
 data-vocabulary.org
+data18.com
 daum.net
 david-kilgour.com
 dawangidc.com
@@ -1038,6 +1039,7 @@ dropboxapi.com
 dropboxusercontent.com
 dscn.info
 dstk.dk
+dt18.com
 dtiblog.com
 dtic.mil
 dubox.com
