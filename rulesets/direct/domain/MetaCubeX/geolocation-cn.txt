@@ -11,6 +11,8 @@
 100bt.com
 100offer.com
 10jqka.com.cn
+11183.com.cn
+11185.cn
 11467.com
 114blog.com
 114chn.com
@@ -327,6 +329,7 @@
 999d.com
 99danji.com
 99fund.com
+99jiasu.net
 9game.cn
 9ht.com
 9xgame.com
@@ -483,6 +486,7 @@ asklib.com
 asklink.com
 asktug.com
 astral-vector.com
+atianqi.com
 aurorapush.cn
 autohome.com
 autohome.com.cn
@@ -557,6 +561,8 @@ baofeng.com
 baofeng.net
 baomitu.com
 baoxianshichang.com
+baozou.com
+baozoumanhua.com
 batchat.com
 battlecare.net
 baydn.com
@@ -817,6 +823,7 @@ china-tower.com
 china.com
 chinaaet.com
 chinabooktrading.com
+chinabyte.com
 chinacache.com
 chinacache.net
 chinachugui.com
@@ -836,6 +843,12 @@ chinanews.com
 chinanews.com.cn
 chinaott.com
 chinapay.com
+chinapost-life.com
+chinapost.cn
+chinapost.com.cn
+chinapostdaily.com.cn
+chinapostnews.cn
+chinapostnews.com.cn
 chinapp.net
 chinapubmed.net
 chinaso.com
@@ -857,6 +870,7 @@ chinesemooc.org
 chiphell.com
 chn.cn
 chndoi.org
+chnppmuseum.com
 chongbuluo.com
 chongdiantou.com
 chouti.com
@@ -878,6 +892,7 @@ chushou.tv
 chuyu.me
 cib-fund.com.cn
 cib.com.cn
+cibn.cc
 cibntv.net
 cicc.com
 ciccwm.com
@@ -936,6 +951,7 @@ cnlaw.net
 cnmooc.org
 cnms.net.cn
 cnmstl.net
+cnpsec.com
 cnr.cn
 cns.com.cn
 cnsciedu.com
@@ -988,6 +1004,8 @@ cozetest3.cn
 cpatrk.net
 cppblog.com
 cpppf.org
+cptu.cn
+cptu.org.cn
 cqcb.com
 cqccn.com
 cqctyiptv.cn
@@ -1051,6 +1069,7 @@ ctovcdn.com
 ctrender.com
 ctsbw.com
 ctsec.com
+ctvpost.com
 ctwcdn.cn
 ctxcdn.cn
 ctxcdn.com
@@ -1351,6 +1370,7 @@ elong.com
 elongstatic.com
 emarbox.com
 emoriko.com
+ems.com.cn
 emumax.com
 end-api.shallow.ink
 end.shallow.ink
@@ -1396,6 +1416,7 @@ fang.com
 fangxiaoer.com
 fanli.com
 fanmingming.com
+fanqiecopyright.com
 fanqienovel.com
 fanqieopen.com
 fanqieopenpic.com
@@ -1478,6 +1499,7 @@ fqnovelop.com
 fqnovelpic.com
 fqnovelstatic.com
 fqnovelvod.com
+fqopenplatform.com
 freebuf.com
 frontjs.com
 frontwize.com
@@ -1898,6 +1920,7 @@ huaban.com
 huabanimg.com
 huafeng-accuweather.cn
 huafengaw.com
+huajiao.com
 huajingsec.com
 huajinsc.cn
 huangyuhui.net
@@ -2027,6 +2050,7 @@ ijingyi.com
 ijinshan.com
 ikafan.com
 ikanchai.com
+ikstatic.cn
 ilanzou.com
 ileapcloud.com
 im-cc.com
@@ -2051,6 +2075,7 @@ infinitynewtab.com
 infoq.com
 infoqstatic.com
 inftab.com
+inke.cn
 inkuai.com
 inkwai.com
 insta360.com
@@ -2298,6 +2323,7 @@ kaipuyun.com
 kaipuyun.com.cn
 kaipuyun.net
 kaixin001.com
+kajicam.com
 kameng98.com
 kanimg.com
 kankanews.com
@@ -3008,10 +3034,12 @@ pddcdn.com
 pddim.com
 pddpic.com
 pddugc.com
+pdnews.cn
 pearvideo.com
 peccn.com
 people.cn
 people.com.cn
+peopleapp.com
 pg0.cn
 pgyer.com
 pgzs.com
@@ -3053,6 +3081,8 @@ portal201.cn
 portal301.cn
 pospal.cn
 postfund.com.cn
+postmail.cn
+postoa.com.cn
 ppkankan01.com
 pplive.cn
 pplive.com
@@ -3760,6 +3790,8 @@ ugslb.top
 ugslb2.net
 uhasadmin.com
 uiwow.com
+ule.com
+ulecdn.com
 ultracachenode.com
 umajor.net
 ume-trip.cn
@@ -4015,6 +4047,7 @@ xesimg.com
 xf-fund.com
 xfdown.com
 xfyun.cn
+xgo-img.com.cn
 xgzb.top
 xhby.net
 xhlsgs.com
