@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-05-13 20:26:40
+# Date:     2026-05-14 10:13:53
 # Mode:     DOMAIN
-# Count:    4233 (Raw: 4233)
+# Count:    4234 (Raw: 4234)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -748,6 +748,7 @@ chineseupress.com
 chingcheong.com
 chinman.net
 chobit.cc
+chonglangtv.org
 chrdnet.com
 christianfreedom.org
 christianstudy.com
