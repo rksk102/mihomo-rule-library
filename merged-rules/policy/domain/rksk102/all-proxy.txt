@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-05-15 20:10:22
+# Date:     2026-05-16 09:39:53
 # Mode:     DOMAIN
-# Count:    26196 (Raw: 26196)
+# Count:    26197 (Raw: 26197)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -24023,6 +24023,7 @@ vulgarx.com
 vultr.com
 vultryhw.com
 vuvuzela.io
+vv1865.com
 vzw.com
 w-mt.co
 w-pool.com

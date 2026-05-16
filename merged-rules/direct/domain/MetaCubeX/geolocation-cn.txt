@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-05-15 20:10:23
+# Date:     2026-05-16 09:39:53
 # Mode:     DOMAIN
-# Count:    4515 (Raw: 4515)
+# Count:    4529 (Raw: 4529)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -755,6 +755,7 @@ cctvlibrary.com.cn
 cctvpic.com
 cctvpro.cn
 cctvpro.com.cn
+ccw.site
 cczq.com
 cczq.net
 cd120.com
@@ -1691,6 +1692,8 @@ golinkcn.com
 golue.com
 gongqingyun.cn
 gongxiangcj.com
+gongxiangjizhang.com
+goofish.pro
 goosail.com
 goproxy.cn
 goproxy.io
@@ -1978,6 +1981,7 @@ huxiu.com
 huxiucdn.com
 huya.com
 hwshu.com
+hwwlyz.com
 hwwt8.com
 hx168.com.cn
 hxb.com.cn
@@ -2080,6 +2084,7 @@ incopat.com
 indienova.com
 inewsweek.cn
 infineon.cn
+infini-fantasy.com
 infinitynewtab.com
 infoq.com
 infoqstatic.com
@@ -2582,6 +2587,7 @@ linakesi.com
 lingkou.cn
 lingkou.com
 lingkou.xyz
+linka2a.net
 linkvans.com
 linliyz.com
 linsn.com
@@ -2745,6 +2751,7 @@ miaobolive.com
 miaomiaoz.com
 miaomiaozhe.com
 miaopai.com
+miaotixing.com
 miaoyanai.com
 miaozhen.com
 midasbuy.com
@@ -3365,6 +3372,7 @@ shellpub.com
 shelter-china.com
 shelterdome.net
 shengdaosoft.com
+shengqugames.com
 shengyi.ai
 shengyizhuanjia.com
 shenmayouxi.com
@@ -3543,6 +3551,8 @@ surerp.cn
 surerp.com
 sursung.cn
 sursung.com
+suu-fun.com
+suufun.com
 suzuki-china.com
 swhysc.com
 swsc.com.cn
@@ -3730,6 +3740,7 @@ trunktech.com
 trustexporter.com
 trustie.net
 trustutn.org
+ttshitu.com
 ttxsapp.com.cn
 tudou.com
 tudouui.com
@@ -4156,6 +4167,7 @@ xxtmail.com
 xycdn.com
 xycloud.com
 xywy.com
+xyys.com
 xyzcdn.net
 xyzfm.link
 xyzfm.space
@@ -4168,6 +4180,7 @@ yangshipin.cn
 yaolan.com
 yaoyl.com
 yaozh.com
+yayi360.com
 ybccode.com
 yccdn.com
 ycgame.com
@@ -4466,6 +4479,7 @@ ziroomapartment.com
 zixiaomao.com
 zixuntop.com
 zjlib.cn
+zjshulong.com
 zjstv.com
 zjzs.net
 zjzsa.com
