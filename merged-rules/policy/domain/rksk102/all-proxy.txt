@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-05-16 19:56:40
+# Date:     2026-05-17 09:46:32
 # Mode:     DOMAIN
-# Count:    26197 (Raw: 26197)
+# Count:    26198 (Raw: 26198)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -2264,6 +2264,7 @@ archives.gov
 archivx.to
 archlinux.de
 archlinux.org
+archlinux.page
 archlinuxarm.org
 archlinuxcn.org
 arcraiders.com
