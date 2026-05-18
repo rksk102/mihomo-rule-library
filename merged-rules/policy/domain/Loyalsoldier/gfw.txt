@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-05-17 20:00:25
+# Date:     2026-05-18 11:43:48
 # Mode:     DOMAIN
-# Count:    4234 (Raw: 4234)
+# Count:    4236 (Raw: 4236)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -3144,6 +3144,7 @@ shutterstock.com
 shwchurch.org
 shwchurch3.com
 sidelinesnews.com
+sider.ai
 signal.org
 silvergatebank.com
 simbolostwitter.com
@@ -4205,6 +4206,7 @@ zh.ecdm.wikia.com
 zh.pokerstrategy.com
 zh.wikiquote.org
 zhangtianliang.com
+zhangzhehan.net
 zhanlve.org
 zhao.1984.city
 zhengjian.org

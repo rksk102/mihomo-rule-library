@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-05-17 20:00:25
+# Date:     2026-05-18 11:43:48
 # Mode:     DOMAIN
-# Count:    26198 (Raw: 26198)
+# Count:    26200 (Raw: 26200)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -20403,6 +20403,7 @@ shywifeswap.com
 siam.org
 sibreal.org
 sidelinesnews.com
+sider.ai
 siege-amazon.com
 sifangclub.com
 sigcomm.org
@@ -26072,6 +26073,7 @@ zhainanjidi.xyz
 zhainanjidid.top
 zhangboz1.xyz
 zhangtianliang.com
+zhangzhehan.net
 zhanlve.org
 zhao.1984.city
 zhengjian.org
