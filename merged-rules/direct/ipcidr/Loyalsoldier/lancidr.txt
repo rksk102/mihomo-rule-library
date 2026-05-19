@@ -2,7 +2,7 @@
 # Strategy: direct
 # Type:     ipcidr
 # Owner:    Loyalsoldier
-# Date:     2026-05-18 20:21:31
+# Date:     2026-05-19 11:17:13
 # Mode:     IP-CIDR
 # Count:    18 (Raw: 18)
 # Desc:     Auto-detected from direct/ipcidr/Loyalsoldier/lancidr.txt
