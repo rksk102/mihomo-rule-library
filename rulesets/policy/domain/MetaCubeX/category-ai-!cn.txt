@@ -101,6 +101,7 @@ marscode.com
 meta.ai
 minimax.io
 mistral.ai
+mozilla.ai
 notebooklm-pa.googleapis.com
 notebooklm.google
 notebooklm.google.com
@@ -137,6 +138,7 @@ servd-anthropic-website.b-cdn.net
 sora.com
 spicywriter.com
 stitch.withgoogle.com
+tapnow.ai
 themeforest.net
 trae.ai
 turn.livekit.cloud
