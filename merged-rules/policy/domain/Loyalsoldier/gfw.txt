@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-05-20 20:56:52
+# Date:     2026-05-21 11:24:10
 # Mode:     DOMAIN
-# Count:    4236 (Raw: 4236)
+# Count:    4242 (Raw: 4242)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -1161,6 +1161,7 @@ eyny.com
 f-droid.org
 f2pool.com
 f8.com
+f95zone.to
 facebook.com
 facebook.de
 facebook.design
@@ -1348,6 +1349,7 @@ fxcm-chinese.com
 fxnetworks.com
 g-area.org
 g-queen.com
+g.ai
 g.co
 g0v.social
 g6hentai.com
@@ -2199,6 +2201,7 @@ leisurepro.com
 lematin.ch
 lemonde.fr
 lenwhite.com
+leonardo.ai
 lesoir.be
 letscorp.net
 lexica.art
@@ -2963,6 +2966,7 @@ raindrop.io
 raizoji.or.jp
 rakuten.co.jp
 ramcity.com.au
+raphael.app
 rapidmoviez.com
 rapidvpn.com
 rarbgprx.org
@@ -3042,6 +3046,7 @@ rti.org.tw
 rti.tw
 rtm.tnt-ea.com
 rts.ch
+rule34.us
 rule34.xxx
 rule34video.com
 rumble.com
@@ -3220,6 +3225,7 @@ sorting-algorithms.com
 sos.org
 sosad.fun
 sosreader.com
+sotwe.com
 soubory.com
 soulcaliburhentai.net
 soundcloud.com

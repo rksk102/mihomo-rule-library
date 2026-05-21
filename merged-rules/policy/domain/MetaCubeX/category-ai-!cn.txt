@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-05-20 20:56:52
+# Date:     2026-05-21 11:24:10
 # Mode:     DOMAIN
-# Count:    149 (Raw: 149)
+# Count:    151 (Raw: 151)
 # Desc:     Auto-detected from policy/domain/MetaCubeX/category-ai-!cn.txt
 # ----------------------------------------
 agentclientprotocol.com
@@ -110,6 +110,7 @@ marscode.com
 meta.ai
 minimax.io
 mistral.ai
+mozilla.ai
 notebooklm-pa.googleapis.com
 notebooklm.google
 notebooklm.google.com
@@ -146,6 +147,7 @@ servd-anthropic-website.b-cdn.net
 sora.com
 spicywriter.com
 stitch.withgoogle.com
+tapnow.ai
 themeforest.net
 trae.ai
 turn.livekit.cloud
