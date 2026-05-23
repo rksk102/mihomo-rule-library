@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-05-22 20:27:52
+# Date:     2026-05-23 20:01:29
 # Mode:     DOMAIN
-# Count:    4242 (Raw: 4242)
+# Count:    4245 (Raw: 4245)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -34,6 +34,7 @@
 2047.one
 2049bbs.xyz
 233abc.com
+24hbook.com
 24hrs.ca
 32red.com
 36rain.com
@@ -2309,6 +2310,7 @@ martau.com
 martsangkagyuofficial.org
 marxist.net
 marxists.org
+mas.to
 mash.to
 mastodon.cloud
 mastodon.host
@@ -2516,6 +2518,7 @@ ncn.org
 ndi.org
 nekoslovakia.net
 neo-miracle.com
+neodb.social
 neowin.net
 nephobox.com
 netalert.me

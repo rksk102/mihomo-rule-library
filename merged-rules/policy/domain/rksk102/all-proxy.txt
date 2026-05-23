@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-05-22 20:27:52
+# Date:     2026-05-23 20:01:29
 # Mode:     DOMAIN
-# Count:    26237 (Raw: 26237)
+# Count:    26240 (Raw: 26240)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -228,6 +228,7 @@
 233abc.com
 2371tom.com
 24h.tv
+24hbook.com
 24hjav.com
 24hrs.ca
 24porn.com
@@ -14435,6 +14436,7 @@ marvelsuperheroseptember.com
 marvelsuperwar.com
 marxist.net
 marxists.org
+mas.to
 masalabin.com
 masaladesi.com
 masalaseen.net
@@ -16131,6 +16133,7 @@ nenastran.com
 nenitas.club
 nentindo.net
 neo-miracle.com
+neodb.social
 neoforged.net
 neotokyo.supertop-100.com
 neovim.io
