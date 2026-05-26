@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-05-25 20:18:52
+# Date:     2026-05-26 20:50:20
 # Mode:     DOMAIN
-# Count:    4541 (Raw: 4541)
+# Count:    4542 (Raw: 4542)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -988,6 +988,7 @@ codm.com
 cofeed.com
 cofool.com
 coindog.com
+comfylink.com
 conac.cn
 cone-x.com
 contentchina.com

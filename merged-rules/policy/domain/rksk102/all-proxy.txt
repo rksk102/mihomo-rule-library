@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-05-25 20:18:52
+# Date:     2026-05-26 20:50:20
 # Mode:     DOMAIN
-# Count:    26240 (Raw: 26240)
+# Count:    26241 (Raw: 26241)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -14957,6 +14957,7 @@ microvpn.com
 micstl.com
 midatlanticbmwmotorcycles.com
 midentsolutions.com
+midjourney.com
 midoushe.com
 mie.co.jp
 miexnoviadesnuda.com

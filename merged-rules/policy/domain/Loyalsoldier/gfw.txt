@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-05-25 20:18:52
+# Date:     2026-05-26 20:50:20
 # Mode:     DOMAIN
-# Count:    4245 (Raw: 4245)
+# Count:    4246 (Raw: 4246)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -2455,6 +2455,7 @@ mosavi.io
 motherless.com
 movements.org
 moviefap.com
+mozilla.ai
 mpettis.com
 mpfinance.com
 mpinews.com

@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-05-25 20:18:52
+# Date:     2026-05-26 20:50:20
 # Mode:     DOMAIN
-# Count:    151 (Raw: 151)
+# Count:    152 (Raw: 152)
 # Desc:     Auto-detected from policy/domain/MetaCubeX/category-ai-!cn.txt
 # ----------------------------------------
 agentclientprotocol.com
@@ -108,6 +108,7 @@ manus.im
 manuscdn.com
 marscode.com
 meta.ai
+midjourney.com
 minimax.io
 mistral.ai
 mozilla.ai
