@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-05-26 20:50:20
+# Date:     2026-05-27 20:57:27
 # Mode:     DOMAIN
-# Count:    152 (Raw: 152)
+# Count:    153 (Raw: 153)
 # Desc:     Auto-detected from policy/domain/MetaCubeX/category-ai-!cn.txt
 # ----------------------------------------
 agentclientprotocol.com
@@ -81,6 +81,7 @@ gateway.ai.cloudflare.com
 geller-pa.googleapis.com
 gemini.google
 gemini.google.com
+gemini.gstatic.com
 generativeai.google
 generativelanguage.googleapis.com
 githubcopilot.com
