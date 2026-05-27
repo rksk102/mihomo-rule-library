@@ -72,6 +72,7 @@ gateway.ai.cloudflare.com
 geller-pa.googleapis.com
 gemini.google
 gemini.google.com
+gemini.gstatic.com
 generativeai.google
 generativelanguage.googleapis.com
 githubcopilot.com
