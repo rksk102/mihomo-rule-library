@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-05-27 20:57:27
+# Date:     2026-05-28 11:38:06
 # Mode:     DOMAIN
-# Count:    4246 (Raw: 4246)
+# Count:    4247 (Raw: 4247)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -1028,6 +1028,7 @@ doublethinklab.org
 douchi.space
 dougscripts.com
 doujincafe.com
+dowjones.io
 download.dappcdn.com
 dpool.top
 dpp.org.tw
