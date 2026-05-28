@@ -10,6 +10,7 @@
 10099.com.cn
 100bt.com
 100offer.com
+100tal.com
 10jqka.com.cn
 11183.com.cn
 11185.cn
@@ -85,6 +86,7 @@
 1xhh.cn
 1zhe.com
 21cn.com
+21cnjy.com
 21jingji.com
 2265.com
 2288.org
@@ -454,6 +456,7 @@ antafu.com
 antaq.com
 anticheatexpert.com
 antpcdn.com
+antpedia.com
 antutu.com
 antutu.net
 anxia.com
@@ -461,6 +464,7 @@ anytocopy.com
 anywlan.com
 anzhuo.cn
 ao-x.ac.cn
+aoshu.com
 aotrip.net
 aoyou.com
 apabi.com
@@ -574,6 +578,7 @@ baydn.com
 bbbcdns.com
 bbdc.cn
 bblmw.com
+bbtnews.com.cn
 bbtv.cn
 bce-cdn.cn
 bce-cdn.com
@@ -777,6 +782,7 @@ cf-ns.com
 cf-ns.net
 cf-ns.site
 cf-ns.tech
+cfgw.net.cn
 cfsc.com.cn
 cftest5.cn
 cftest6.cn
@@ -833,10 +839,12 @@ chinabyte.com
 chinacache.com
 chinacache.net
 chinachugui.com
+chinadevelopment.com.cn
 chinadongchu.com
 chinadsl.net
 chinaepg.cn
 chinaexpressair.com
+chinafix.com
 chinafph.com
 chinahr.com
 chinakaoyan.com
@@ -1116,6 +1124,7 @@ cxmt.com
 cyagen.com
 cybtc.com
 cyol.com
+cyol.net
 cyts.com
 cyzone.cn
 cztv.com
@@ -1214,6 +1223,7 @@ dingxiang-inc.com
 diopic.net
 divoiotcloud.com
 diyiyou.com
+diyring.cc
 dj99.com
 djdjapp.com
 dji.com
@@ -1369,6 +1379,9 @@ edu.cn
 edu4399.com
 educoder.net
 eduei.com
+eduu.com
+eduuu.com
+eeo.com.cn
 eeyy.com
 eflycloud.com
 efunds.com.cn
@@ -1403,6 +1416,7 @@ et001.com
 et0731.com
 ets100.com
 everbright.com
+ewdcloud.com
 ewww.com.cn
 excelbbx.net
 excelhome.net
@@ -1606,6 +1620,7 @@ ganji.com
 ganjiangvpn.com
 ganjistatic1.com
 gaodun.com
+gaokao.com
 gaoshouyou.com
 gaoxiaojob.com
 gatzs.com.cn
@@ -2361,6 +2376,8 @@ keep.com.cn
 keepcdn.com
 kejet.net
 kekeniu.com
+kemen.cn
+kepuchina.cn
 kesong.co
 ketangpai.com
 kexinshe.com
@@ -2450,6 +2467,9 @@ kumiao.com
 kuqin.com
 kurogames.com
 kuwo.cn
+kuyin123.com
+kuyinxiu.com
+kuyinyun.com
 kuyiso.com
 kwaicdn.com
 kwaizt.com
@@ -3312,6 +3332,7 @@ scescdn.cn
 schoopia.com
 scid.cn
 sciencechina.cn
+sckg.com
 scm121.cn
 scm121.com
 scoregg.com
@@ -3596,6 +3617,7 @@ taikangzhijia.com
 taipingfund.com.cn
 tajiduo.com
 takungpao.com
+tal.com
 talk-cloud.net
 talkingdata.com
 talkinggame.com
@@ -4102,6 +4124,7 @@ xiaoyuzhoufm.com
 xiayx.com
 xiazaiba.com
 xiezuocat.com
+xiguacity.cn
 xilu.com
 ximalaya.com
 xinchacha.com
@@ -4262,6 +4285,7 @@ youhua.com
 youjiao.com
 youke.co
 youku.com
+youlai.cn
 youlian.fun
 youshang.com
 youxiake.com
@@ -4525,6 +4549,8 @@ zuk.com
 zuk.com.cn
 zuowen.com
 zuowen8.com
+zuowenjun.com
+zuowenku.net
 zuowenwang.net
 zuoyebang.cc
 zuoyebang.com
