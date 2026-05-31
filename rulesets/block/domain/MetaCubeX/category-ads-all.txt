@@ -96,6 +96,7 @@ adpm.app.qq.com
 adq.chinaso.com
 ads-api.duolingo.com
 ads-gate.wildberries.ru
+ads-img.mozilla.org
 ads-integration.rustore.ru
 ads-media.wildberries.ru
 ads-pixiv.net
@@ -108,6 +109,7 @@ ads.dahlmessenger.com
 ads.huan.tv
 ads.huantest.com
 ads.icq.com
+ads.mozilla.org
 ads.music.126.net
 ads.rustore.ru
 ads.sber.ru
@@ -484,6 +486,8 @@ imglnkd.com
 imgstat.baidu.com
 imp.go.sohu.com
 impact-ad.jp
+incoming-telemetry.thunderbird.net
+incoming.telemetry.mozilla.org
 informer.yandex.ru
 inner-active.mobi
 innovid.com
