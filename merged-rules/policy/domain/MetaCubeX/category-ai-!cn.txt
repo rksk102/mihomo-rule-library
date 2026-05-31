@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-05-28 21:03:13
+# Date:     2026-05-31 10:15:34
 # Mode:     DOMAIN
-# Count:    153 (Raw: 153)
+# Count:    154 (Raw: 154)
 # Desc:     Auto-detected from policy/domain/MetaCubeX/category-ai-!cn.txt
 # ----------------------------------------
 agentclientprotocol.com
@@ -22,6 +22,7 @@ antigravity-unleash.goog
 antigravity.google
 antigravity.googleapis.com
 anythingllm.com
+arena.ai
 bard.google.com
 browser-intake-datadoghq.com
 cerebras.ai
