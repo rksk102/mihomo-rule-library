@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-05-31 20:00:00
+# Date:     2026-06-01 13:35:41
 # Mode:     DOMAIN
-# Count:    26278 (Raw: 26278)
+# Count:    26284 (Raw: 26284)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -6890,6 +6890,7 @@ disneyturkiye.com.tr
 disneytvajobs.com
 disneyworld-go.com
 disp.cc
+disq.us
 disqus.com
 disquscdn.com
 disqusservice.com
@@ -15652,6 +15653,7 @@ moxing.mobi
 moxing.news
 moystoys.com
 mozgcp.net
+mozilla-ohttp.fastly-edge.com
 mozilla.ai
 mozilla.com
 mozilla.community
@@ -25002,11 +25004,15 @@ xhamster.xxx
 xhamster18.com
 xhamster18.desi
 xhamster19.com
+xhamster2.com
 xhamster3.com
 xhamsterlive.com
 xhcdn.com
+xhnews.live
 xhot.pro
+xhpingcdn.com
 xhpjc6-cdn-settings.appsflyersdk.com
+xhreal5.com
 xhub.tv
 xiangrikui-app.com
 xianir.xyz
