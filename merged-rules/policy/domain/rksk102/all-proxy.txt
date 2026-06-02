@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-06-01 21:56:48
+# Date:     2026-06-02 12:03:36
 # Mode:     DOMAIN
-# Count:    26284 (Raw: 26284)
+# Count:    26286 (Raw: 26286)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -9743,6 +9743,7 @@ getmalus.com
 getmdl.io
 getnews.jp
 getoutline.org
+getpaint.net
 getpocket.com
 getporn.tv
 getprintersupports.com
@@ -17484,6 +17485,7 @@ paily.org
 paimon.moe
 painfulpussytortures.com
 painnovel.com
+paint.net
 paipal.com
 paipancon.com
 paisapay.cc
