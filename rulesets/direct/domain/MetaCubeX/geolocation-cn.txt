@@ -14,6 +14,7 @@
 10jqka.com.cn
 11183.com.cn
 11185.cn
+11222.cn
 11467.com
 114blog.com
 114chn.com
@@ -248,6 +249,7 @@
 56.com
 56img.com
 56laile.com
+56xiniao.com
 58.com
 58.com.cn
 5858.com
@@ -337,6 +339,7 @@
 9game.cn
 9ht.com
 9xgame.com
+9xsecndns.cn
 9xu.com
 a2z.org.cn
 a9vg.com
@@ -415,8 +418,11 @@ akspeedy.com
 aldwx.com
 ali213.net
 alicloudccp.com
+aligames.com
 alipan.com
 alittle-tea.com
+aliwx.com.cn
+aliwx.net
 aliyundrive.cloud
 aliyundrive.com
 aliyundrive.net
@@ -703,6 +709,7 @@ bsbsb.top
 bsclink.cn
 bsurl.cc
 bsurl.cn
+btghotels.com
 btgtravel.com
 bthhotels.com
 btime.com
@@ -1151,6 +1158,7 @@ dangdang.com
 danji100.com
 danji6.com
 danjuanfunds.com
+danniao.com
 daocloud.io
 daocloud.vip
 daodoc.com
@@ -1197,6 +1205,7 @@ deepseek.com
 dengguobi.com
 deppon.com
 deppon.com.cn
+designkit.cn
 develenv.com
 devui.design
 dfham.com
@@ -1215,6 +1224,8 @@ diandianlife.top
 diandianqi.com
 dianping.com
 dianwannan.com
+dianwoda.cn
+dianwoda.com
 dianzhenkeji.com
 dicos.com.cn
 dida365.com
@@ -1388,6 +1399,7 @@ eeyy.com
 eflycloud.com
 efunds.com.cn
 ehaier.com
+ejoy.com
 elecfans.com
 elong.com
 elongstatic.com
@@ -1959,6 +1971,8 @@ huashengdaili.com
 huatu.com
 huaweiapaas.com
 huayingsc.com
+huazhu.com
+huazhucorp.com
 hugecore.net
 huijistatic.com
 huijiwiki.com
@@ -1996,6 +2010,7 @@ hupun.com.cn
 huxiu.com
 huxiucdn.com
 huya.com
+hworld.com
 hwshu.com
 hwwlyz.com
 hwwt8.com
@@ -2137,6 +2152,7 @@ is-cool.cn
 is-cool.com.cn
 iscas.ac.cn
 ishumei.com
+ishuqi.com
 istoreos.com
 isxtv.com
 it165.net
@@ -2188,6 +2204,7 @@ jianshuapi.com
 jianyuweb.com
 jianzhi8.com
 jiaodong.net
+jiaoyimao.cn
 jiaoyimao.com
 jiashule.com
 jiasu.bohe.com
@@ -2213,6 +2230,9 @@ jindidata.com
 jingheiot.com
 jinglingbiaozhu.com
 jinianbi.com
+jinjiang.com
+jinjianghotels.com.cn
+jinjiangonline.net
 jinrishici.com
 jinrongren.net
 jinse.com
@@ -2227,6 +2247,7 @@ jisuxia.com
 jiuyue919.com
 jiuzhilan.com
 jj20.com
+jjtravel.com
 jjwxc.net
 jkbl.com
 jlc-3dp.cn
@@ -2349,6 +2370,7 @@ kafan.cn
 kaifayun.com
 kaifubiao.com
 kaihong.com
+kaipai.com
 kaipanhong.com
 kaipuyun.cn
 kaipuyun.com
@@ -2430,6 +2452,7 @@ kskwai.com
 ksmobile.com
 ksord.com
 ksosoft.com
+kspkg.com
 ksyun.com
 ksyuncdn.com
 ksyungslb.com
@@ -2610,6 +2633,7 @@ linakesi.com
 lingkou.cn
 lingkou.com
 lingkou.xyz
+lingxigames.com
 linka2a.net
 linkvans.com
 linliyz.com
@@ -2745,6 +2769,7 @@ meifang.com
 meika360.com
 meilishuo.com
 meimingteng.com
+meipai.com
 meipian.cn
 meipian.me
 meiqia.com
@@ -2755,7 +2780,9 @@ meituan.com
 meituan.net
 meitudata.com
 meitustat.com
+meituxiuxiu.com
 meiwulist.com
+meiyan.com
 meizu.cn
 meizu.com
 meloong.com
@@ -2800,6 +2827,7 @@ mingyuanyun.com
 minhangshi.com
 minimaxi.com
 mipcdn.com
+miraclevision.com
 mirrorcast.cn
 mirrors.yun-idc.com
 miusi.co
@@ -3057,6 +3085,7 @@ p6-novel.byteimg.com
 p7-juejin.byteimg.com
 p8-juejin.byteimg.com
 p9-juejin.byteimg.com
+paidui.com
 paipaibang.com
 pan.quark.cn
 paopaoche.net
@@ -3286,6 +3315,7 @@ roblox.cn
 roblox.qq.com
 robloxdev.cn
 robomaster.com
+roboneo.com
 roborock.com
 rock-chips.com
 rockyenglish.com
@@ -3431,6 +3461,10 @@ shuiyaohuo.cn
 shuiyaohuo.com
 shumensy.com
 shuoshuokong.com
+shuqi.com
+shuqiapi.com
+shuqiread.com
+shuqireader.com
 shutcm.com
 shuxinyc.com
 shyxhy.com
@@ -3515,6 +3549,7 @@ springtour.com
 sq.cc
 sqqnh.cn
 sqqnh.org
+sqreader.com
 ss.bjmu.edu.cn
 ssajax.cn
 sse.com.cn
@@ -3760,7 +3795,7 @@ tracup.com
 trae.cn
 trae.com.cn
 trae.guru
-travelsky.com
+travelsky.com.cn
 travelskymobile.cn
 tritoninfo.net
 trjcn.com
@@ -3772,7 +3807,6 @@ trustutn.org
 ttshitu.com
 ttxsapp.com.cn
 tudou.com
-tudouui.com
 tuer123.com
 tuicool.com
 tuiwen.net
@@ -3987,6 +4021,7 @@ wf.pub
 wfdata.club
 wggames.cn
 whccb.com
+whee.com
 whhhealth.com
 whlovehome.com
 wicresoft.com
@@ -4000,6 +4035,7 @@ windows10zj.com
 windows7en.com
 windowszj.com
 winegame.net
+wink.cn
 winos.me
 winwin7.com
 winyoungreading.com
@@ -4139,6 +4175,7 @@ xingtan001.com
 xingyeai.com
 xinhuanet.com
 xinhuaxmt.com
+xinlishumeng.com
 xinmeng.info
 xinrenxinshi.com
 xinshipu.com
@@ -4205,6 +4242,7 @@ xyzfm.link
 xyzfm.space
 xyzq.com.cn
 xzking.com
+yaduo.com
 yahui.cc
 yamibo.com
 yangkeduo.com
@@ -4418,6 +4456,7 @@ zbjdev.com
 zbjimg.com
 zcjbgame.com
 zcmbc.com.cn
+zcool.com.cn
 zctnet.top
 zczj.com
 zdfans.com
@@ -4509,6 +4548,7 @@ zhulang.com
 zhuoyou.com
 zhuoyuegame.com
 zhuye.kim
+zimgs.cn
 ziroom.com
 ziroomapartment.com
 zixiaomao.com
