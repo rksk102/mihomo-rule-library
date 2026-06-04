@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-06-03 21:41:45
+# Date:     2026-06-04 11:15:06
 # Mode:     DOMAIN
-# Count:    113138 (Raw: 113138)
+# Count:    113141 (Raw: 113141)
 # Desc:     Auto-detected from direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -17870,6 +17870,7 @@ bright21cn.com
 brightdairy.com
 brightdecolighting.com
 brightfood.com
+brighticecream.com
 brightliao.com
 brightmeat.com
 brilliance-auto.com
@@ -21840,6 +21841,7 @@ chinaconveyor.com
 chinacordblood.org
 chinacosco.com
 chinacourt.org
+chinacow.com
 chinacpda.com
 chinacpda.org
 chinacqme.com
@@ -101025,6 +101027,7 @@ xinlinghuayuan.com
 xinlingletu.com
 xinlip.com
 xinlischool.com
+xinlishumeng.com
 xinliwanju.com
 xinlixinli.net
 xinlong-holding.com
