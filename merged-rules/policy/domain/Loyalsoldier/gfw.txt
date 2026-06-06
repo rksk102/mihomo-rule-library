@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-06-05 20:44:38
+# Date:     2026-06-06 10:03:11
 # Mode:     DOMAIN
-# Count:    4251 (Raw: 4251)
+# Count:    4252 (Raw: 4252)
 # Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -2729,7 +2729,6 @@ pachosting.com
 pacom.mil
 pacopacomama.com
 page.link
-pages.dev
 paimon.moe
 pancakeswap.finance
 pandafan.pub
@@ -3342,6 +3341,7 @@ surfeasy.com
 surfeasy.com.au
 surfshark.com
 surrenderat20.net
+suyingtv.com
 swagbucks.com
 swapspace.co
 swissinfo.ch
@@ -4025,6 +4025,7 @@ wowhead.com
 wowporn.com
 woyaolian.org
 wp.com
+wplace.live
 wpoforum.com
 writesonic.com
 wsj.com
