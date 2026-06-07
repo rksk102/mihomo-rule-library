@@ -112,6 +112,7 @@ notebooklm.google.com
 notebooklm.googleapis.com
 o33249.ingest.sentry.io
 oaistatic.com
+oaistatsig.com
 oaiusercontent.com
 ollama.com
 opal.google
@@ -137,8 +138,10 @@ pplx-res.cloudinary.com
 pplx.ai
 proactivebackend-pa.googleapis.com
 production-openaicom-storage.azureedge.net
+qoder.com
 robinfrontend-pa.googleapis.com
 servd-anthropic-website.b-cdn.net
+sider.ai
 sora.com
 spicywriter.com
 stitch.withgoogle.com
