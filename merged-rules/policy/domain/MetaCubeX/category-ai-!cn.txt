@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-06-06 20:03:50
+# Date:     2026-06-07 10:29:18
 # Mode:     DOMAIN
-# Count:    155 (Raw: 155)
+# Count:    158 (Raw: 158)
 # Desc:     Auto-detected from policy/domain/MetaCubeX/category-ai-!cn.txt
 # ----------------------------------------
 agentclientprotocol.com
@@ -121,6 +121,7 @@ notebooklm.google.com
 notebooklm.googleapis.com
 o33249.ingest.sentry.io
 oaistatic.com
+oaistatsig.com
 oaiusercontent.com
 ollama.com
 opal.google
@@ -146,8 +147,10 @@ pplx-res.cloudinary.com
 pplx.ai
 proactivebackend-pa.googleapis.com
 production-openaicom-storage.azureedge.net
+qoder.com
 robinfrontend-pa.googleapis.com
 servd-anthropic-website.b-cdn.net
+sider.ai
 sora.com
 spicywriter.com
 stitch.withgoogle.com
