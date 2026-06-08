@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-06-07 20:06:11
+# Date:     2026-06-08 12:27:53
 # Mode:     DOMAIN
-# Count:    26509 (Raw: 26509)
+# Count:    26510 (Raw: 26510)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -16789,6 +16789,7 @@ noticias-rt.com
 notify.ppy.sh
 notimundo.press
 notion-static.com
+notion-status.com
 notion.com
 notion.new
 notion.site
