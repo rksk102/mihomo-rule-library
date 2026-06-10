@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    Loyalsoldier
-# Date:     2026-06-09 20:52:25
+# Date:     2026-06-10 11:38:22
 # Mode:     DOMAIN
-# Count:    112977 (Raw: 112977)
+# Count:    112975 (Raw: 112975)
 # Desc:     Auto-detected from direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -51808,7 +51808,6 @@ infoldgames.com
 infomorning.com
 infong.net
 infoobs.com
-infoq.com
 infoqstatic.com
 inforbus.com
 inforeenviro.com
@@ -52152,7 +52151,6 @@ iotyes.com
 iouluo.com
 ioxqm.com
 ioxunyun.com
-ip-cdn.com
 ip-guard.net
 ip-hercules.com
 ip-soc.com

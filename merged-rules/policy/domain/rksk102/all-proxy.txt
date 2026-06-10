@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type:     domain
 # Owner:    rksk102
-# Date:     2026-06-09 20:52:25
+# Date:     2026-06-10 11:38:22
 # Mode:     DOMAIN
-# Count:    26510 (Raw: 26510)
+# Count:    26515 (Raw: 26515)
 # Desc:     代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -12265,6 +12265,7 @@ infocert.digital
 infocert.it
 infoglobo.com.br
 infolinker.com.tw
+infoq.com
 infoq.jp
 informs.org
 infosec.exchange
@@ -17062,6 +17063,7 @@ nwxs8.com
 nxta.org
 nxtdig.com.hk
 nxtdig.com.tw
+nxtv.jp
 nyaa.eu
 nyaa.net
 nyaa.si
@@ -23172,6 +23174,9 @@ uncyclopedia.tw
 underhentai.net
 underlords.com
 underwoodammo.com
+unext-info.jp
+unext.co.jp
+unext.jp
 unfiltered.news
 unholyknight.com
 unidraw.io

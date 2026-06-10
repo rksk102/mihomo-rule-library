@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type:     domain
 # Owner:    MetaCubeX
-# Date:     2026-06-09 20:52:25
+# Date:     2026-06-10 11:38:22
 # Mode:     DOMAIN
-# Count:    4676 (Raw: 4676)
+# Count:    4675 (Raw: 4675)
 # Desc:     Auto-detected from direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -1678,6 +1678,7 @@ gdjdxy.com
 gdliontech.com
 gdrc.com
 gdtimg.com
+geekbang.org
 geekpark.net
 geektool.top
 geely.com
@@ -2153,8 +2154,7 @@ inewsweek.cn
 infineon.cn
 infini-fantasy.com
 infinitynewtab.com
-infoq.com
-infoqstatic.com
+infoq.cn
 inftab.com
 inke.cn
 inkuai.com
@@ -2165,7 +2165,6 @@ intime.com.cn
 intsig.com
 intsig.net
 iotronic.tech
-ip-cdn.com
 ip138.com
 ipanda.cn
 ipanda.com
