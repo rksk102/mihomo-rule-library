@@ -1,11 +1,11 @@
 # ----------------------------------------
 # Strategy: policy
-# Type:     domain
-# Owner:    MetaCubeX
-# Date:     2026-06-10 21:22:15
-# Mode:     DOMAIN
-# Count:    158 (Raw: 158)
-# Desc:     Auto-detected from policy/domain/MetaCubeX/category-ai-!cn.txt
+# Type: domain
+# Owner: MetaCubeX
+# Date: 2026-06-11 11:49:32
+# Mode: DOMAIN
+# Count: 158 (Raw: 158)
+# Desc: 自动透传自 policy/domain/MetaCubeX/category-ai-!cn.txt
 # ----------------------------------------
 agentclientprotocol.com
 ai.google.dev

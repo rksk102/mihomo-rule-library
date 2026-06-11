@@ -1,11 +1,11 @@
 # ----------------------------------------
 # Strategy: direct
-# Type:     domain
-# Owner:    DustinWin
-# Date:     2026-06-10 21:22:15
-# Mode:     DOMAIN
-# Count:    168 (Raw: 168)
-# Desc:     Auto-detected from direct/domain/DustinWin/microsoft-cn.txt
+# Type: domain
+# Owner: DustinWin
+# Date: 2026-06-11 11:49:32
+# Mode: DOMAIN
+# Count: 168 (Raw: 168)
+# Desc: 自动透传自 direct/domain/DustinWin/microsoft-cn.txt
 # ----------------------------------------
 21vbc.com
 21vbluecloud.com
