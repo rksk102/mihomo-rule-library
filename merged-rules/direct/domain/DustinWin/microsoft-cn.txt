@@ -2,10 +2,10 @@
 # Strategy: direct
 # Type: domain
 # Owner: DustinWin
-# Date: 2026-06-11 14:11:54
+# Date: 2026-06-11 14:39:33
 # Mode: DOMAIN
 # Count: 168 (Raw: 168)
-# Desc: 自动透传自 direct/domain/DustinWin/microsoft-cn.txt
+# Desc: auto pass-through from direct/domain/DustinWin/microsoft-cn.txt
 # ----------------------------------------
 21vbc.com
 21vbluecloud.com
