@@ -1,11 +1,11 @@
 # ----------------------------------------
 # Strategy: block
-# Type:     domain
-# Owner:    Loyalsoldier
-# Date:     2026-06-10 21:22:15
-# Mode:     DOMAIN
-# Count:    399 (Raw: 399)
-# Desc:     Auto-detected from block/domain/Loyalsoldier/win-extra.txt
+# Type: domain
+# Owner: Loyalsoldier
+# Date: 2026-06-11 12:09:21
+# Mode: DOMAIN
+# Count: 399 (Raw: 399)
+# Desc: 自动透传自 block/domain/Loyalsoldier/win-extra.txt
 # ----------------------------------------
 a-0001.a-msedge.net
 a-0001.dc-msedge.net

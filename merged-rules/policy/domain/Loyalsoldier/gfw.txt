@@ -1,11 +1,11 @@
 # ----------------------------------------
 # Strategy: policy
-# Type:     domain
-# Owner:    Loyalsoldier
-# Date:     2026-06-10 21:22:15
-# Mode:     DOMAIN
-# Count:    4252 (Raw: 4252)
-# Desc:     Auto-detected from policy/domain/Loyalsoldier/gfw.txt
+# Type: domain
+# Owner: Loyalsoldier
+# Date: 2026-06-11 12:09:21
+# Mode: DOMAIN
+# Count: 4252 (Raw: 4252)
+# Desc: 自动透传自 policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
 0rz.tw
