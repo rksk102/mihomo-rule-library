@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-06-12 11:38:48
+# Date: 2026-06-12 21:02:07
 # Mode: DOMAIN
-# Count: 112983 (Raw: 112983)
+# Count: 112984 (Raw: 112984)
 # Desc: 自动透传自 direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -98476,6 +98476,7 @@ www.htc.com
 www.microsoft.com
 www.nike.com
 www.pxcc.com
+www.recaptcha-cn.net
 www.recaptcha.net
 www.redhat.com
 www.samsung.com
