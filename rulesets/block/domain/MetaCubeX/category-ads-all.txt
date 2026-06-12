@@ -226,6 +226,7 @@ analytics-alv.google.com
 analytics-data.io
 analytics-stage.wildberries.ru
 analytics.163.com
+analytics.cloud.unity3d.com
 analytics.facebook.com
 analytics.google.com
 analytics.mobile.yandex.net
@@ -252,6 +253,7 @@ api.dashly.app
 api.dashlytrack.app
 api.mindbox.cloud
 api.mindbox.ru
+api2.amplitude.com
 apilog-web.acfun.cn
 app-analytics-services-att.com
 app-analytics-services.com
@@ -312,6 +314,7 @@ ccs.umeng.com
 cdn.advertserve.com
 cdn.banclip.com
 cdn.pocoiq.cn
+cdp.cloud.unity3d.com
 cfts1tifqr.com
 china-caa.org
 chinaciaf.org
@@ -337,6 +340,7 @@ cnlogs.umeng.com
 cnlogs.umengcloud.com
 collector.github.com
 collector.xhamster.com
+config.uca.cloud.unity3d.com
 contentabc.com
 contextual.media.net
 copilot-telemetry-service.githubusercontent.com
@@ -645,6 +649,8 @@ partnerad.l.google.com
 passport-log.youku.com
 pb.i.sogou.com
 pbmp.ali213.net
+perf-events.cloud.unity3d.com
+perf.cloud.unity3d.com
 pgdt.gtimg.cn
 pglstatp-sdk-toutiao.com
 pglstatp-snssdk-toutiao.com
@@ -670,6 +676,7 @@ plbslog.umeng.com
 pmir.3g.qq.com
 policy.video.iqiyi.com
 pos.baidu.com
+prd-lender.cdp.internal.unity3d.com
 presage.io
 prodvizhenie-adv.ozon.ru
 pubmatic.co.jp
