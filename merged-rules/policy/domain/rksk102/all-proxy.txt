@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: rksk102
-# Date: 2026-06-14 09:05:25
+# Date: 2026-06-14 19:33:22
 # Mode: DOMAIN
-# Count: 26571 (Raw: 26571)
+# Count: 26592 (Raw: 26592)
 # Desc: 代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -9519,18 +9519,31 @@ fusker.xxx
 futanarihq.com
 futhead.com
 futpromos.com
+futu.cn
+futu.link
+futu5.com
+futuau.com
+futuesop.com
 futufin.com
 futuhk.com
+futuhk1.com
+futuhk2.com
 futuhkapp.com
 futuhn.com
 futuholdings.com
 futunited.com
+futuniuniu.com
+futunn.com
+futuoa.com
 future-cs.ru
 futuremessage.org
 futureofbritishmanufacturing.com
 futureofbusinesssurvey.org
 futureofmaktingthings.com
 futureshop.ca
+futusg.com
+futustatic.com
+fututrade.com
 fuxporn.com
 fuzokudx.com
 fw.cm
@@ -13812,6 +13825,7 @@ lantern.io
 lanternal.com
 laogai.org
 laogairesearch.org
+laohu8.com
 laosijifuli9009.top
 laowang.vip
 lapriere.jp
@@ -14188,11 +14202,13 @@ londonmithraeum.com
 londonreal.tv
 lonestarnaughtygirls.com
 longbridge.cloud
+longbridge.cn
 longbridge.com
 longbridge.global
 longbridge.hk
 longbridge.sg
 longbridgeapp.com
+longbridgehk.com
 longmabook.com
 longmabookcn.com
 longman.ch
@@ -20841,6 +20857,7 @@ skysports.fr
 skysports.ie
 skysportsonline.com
 skysportsracing.com
+skytigris.cn
 skyvegas.com
 skyxvpn.com
 sl99mod.buzz
@@ -21497,6 +21514,7 @@ steampowered.com
 steamserver.net
 steamstatic.com
 steamstore-a.akamaihd.net
+steamugcquincy.blob.core.windows.net
 steamunlocked.net
 steamusercontent-a.akamaihd.net
 steamusercontent.com
@@ -22419,6 +22437,8 @@ tidelift.com
 tiendabestbuy.com
 tiffany-towers.com
 tig-ol-bitties.live
+tigerbbs.cn
+tigerbbs.com
 tigervpn.com
 tik-tokapi.com
 tiktok-minis.com
@@ -25271,6 +25291,7 @@ xianjian.tw
 xiaofu.me
 xiaogirls.com
 xiaohexie.com
+xiaohu8.com
 xiaolan.me
 xiaoma.org
 xiaomi.eu
