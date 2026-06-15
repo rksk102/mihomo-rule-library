@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-06-15 10:07:21
+# Date: 2026-06-15 21:41:29
 # Mode: DOMAIN
-# Count: 112667 (Raw: 112667)
+# Count: 112665 (Raw: 112665)
 # Desc: 自动透传自 direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -39010,7 +39010,6 @@ gmt-cn.com
 gmtv.cc
 gmtzy.com
 gmugmu.com
-gmw.com
 gmwiki.com
 gmxmym.ren
 gmya.net
@@ -65596,11 +65595,11 @@ meishi.cc
 meishi13.com
 meishichina.com
 meishiffx.online
-meishij.net
 meishijr.com
 meishilife.com
 meishiqin.com
 meishischool.com
+meishitx.com
 meishiwangluo.com
 meishizuofa.com
 meishow.com
@@ -100686,7 +100685,6 @@ xinshengku.com
 xinshengsemi.com
 xinshi525.com
 xinshiba.com
-xinshipu.com
 xinshishen.com
 xinshouyou.com
 xinshouzhanzhang.com
