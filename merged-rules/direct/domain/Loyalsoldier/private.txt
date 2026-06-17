@@ -2,7 +2,7 @@
 # Strategy: direct
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-06-17 12:12:04
+# Date: 2026-06-17 21:04:03
 # Mode: DOMAIN
 # Count: 122 (Raw: 122)
 # Desc: 自动透传自 direct/domain/Loyalsoldier/private.txt

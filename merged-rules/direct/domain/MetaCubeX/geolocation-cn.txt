@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-06-17 12:12:04
+# Date: 2026-06-17 21:04:03
 # Mode: DOMAIN
-# Count: 4750 (Raw: 4750)
+# Count: 4731 (Raw: 4731)
 # Desc: 自动透传自 direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -97,7 +97,6 @@
 1tyy.cn
 1xhh.cn
 1zhe.com
-21cn.com
 21cnjy.com
 21jingji.com
 2265.com
@@ -336,6 +335,7 @@
 91.com
 917.com
 91danji.com
+91q.com
 91shenfan.com
 91yunxiao.com
 95015.com
@@ -684,7 +684,6 @@ bilibiligame.net
 biligame.co
 biligame.com
 biligame.net
-binglianhuajianzhan.com
 bio-equip.com
 bio360.net
 bio4p.com
@@ -1300,6 +1299,7 @@ dlnel.com
 dlnel.org
 dmall.com
 dmallcdn.com
+dmhmusic.com
 dmzj.com
 dobest.com
 doc88.com
@@ -1726,8 +1726,6 @@ gfbzb.net
 gffunds.com.cn
 gfund.com
 ggkuai.com
-ggoplay.com
-ggowan.com
 ghsl.cn
 ghxi.com
 ghzq.com.cn
@@ -1764,7 +1762,6 @@ gneec.com.cn
 gneec3.com
 gneec4.com
 gneec7.com
-go2map.com
 gobasearcher.com
 goka.top
 gold678.com
@@ -1852,6 +1849,7 @@ gxxmt.com
 gyzq.com.cn
 gzcqs.com
 gzctyiptv.cn
+gzlzfm.com
 gztv.com
 gzurl.cn
 gzwanju.com
@@ -2244,6 +2242,7 @@ itmop.com
 itpub.net
 itsk.com
 ivwen.com
+ixiaochuan.cn
 iyiou.com
 iyunmu.com
 iyunxiao.com
@@ -2253,6 +2252,7 @@ izto.com.cn
 iztzq.com
 izuche.com
 izuchebao.com
+izuiyou.com
 j-test.com
 jamcz.com
 jandan.net
@@ -2742,6 +2742,7 @@ lixiang.com
 lixinger.com
 lizhi.fm
 lizhifm.com
+lizhiinc.com
 ljcdn.com
 lkcoffee.com
 lkkbrand.com
@@ -2791,6 +2792,8 @@ lxway.com
 lxzjjt.cn
 lxzjjt.com
 ly.com
+lz310.com
+lzpipi.com
 m1905.cn
 m1905.com
 mafengwo.cn
@@ -2984,6 +2987,7 @@ mszq.com
 mti100.com
 mtime.cn
 mtime.com
+mting.info
 mtyun.com
 mukewang.com
 mumayi.com
@@ -3234,7 +3238,6 @@ pingplusplus.com
 pingwest.com
 pingxx.com
 pintu360.com
-pinyin.cn
 pipaw.com
 pipaw.net
 pipi.cn
@@ -3285,7 +3288,6 @@ qcc.com
 qcds.com
 qchannel03.cn
 qd-metro.com
-qd.ink
 qd8.com
 qftexpay.cn
 qgzb.com.cn
@@ -3518,11 +3520,7 @@ sfcar.hk
 sfccn.com
 sffix.cn
 sfgy.org
-sg.cn
 sgamer.com
-sgtmos.com
-sgyeyou.com
-sgyouxi.com
 shanbay.com
 shang360.com
 shangc.net
@@ -3566,6 +3564,7 @@ shoujihuifu.com
 shouqianba.com
 shoutanjjj.com
 shouyoubus.com
+showstart.com
 shrbank.com
 shssp.org
 shuanghui.net
@@ -3626,16 +3625,6 @@ socpk.com
 sofreight.com
 softwhy.com
 sofun.com
-sogo.com
-sogou-inc.com
-sogou-op.org
-sogou.cn
-sogou.com
-sogou.com.cn
-sogou.net
-sogoucdn.com
-sogoucdndl.com
-sogouimecdn.com
 sohu.com
 sohucs.com
 sojson.com
@@ -3643,9 +3632,6 @@ sojump.com
 solidot.org
 somode.com
 sootoo.com
-soso.com
-soso.com.cn
-sososnap.com
 sou.cn
 sou.com
 soufunimg.com
@@ -3766,6 +3752,7 @@ tai3.cn
 taichuan.com
 taichuan.net
 taihe.com
+taihemusic.cn
 taihuoniao.com
 taikang.com
 taikanglife.com
@@ -3797,7 +3784,6 @@ tebiefuza.cn
 tebon.com.cn
 techwalker.com
 techweb.com.cn
-teemo.cn
 teleows.com
 tencent-cloud.cn
 tencent-cloud.com
@@ -3816,6 +3802,7 @@ tfzq.com
 tgbus.com
 tgpro.top
 tgprocs.net
+th-music.com
 thecover.cn
 thefastfile.com
 thefastimg.com
@@ -4094,7 +4081,6 @@ wanji.net.cn
 wanliniu.com
 wanmei.com
 wannianli8.com
-wannianqingjianzhan.com
 wanplus.com
 wanwan4399.com
 wanwushuo.com
@@ -4231,6 +4217,7 @@ wss1.cn
 wsukwai.com
 wswebcdn.com
 wswebpic.com
+wting.info
 wtown.com
 wtzw.com
 wumii.com
@@ -4273,10 +4260,9 @@ xiamai.net
 xiamenair.com
 xianfae.com
 xiangbababus.com
-xiangrikuijianzhan.com
-xiangrikuisite.com
 xiaoaiassist.com
 xiaobaixitong.com
+xiaochuankeji.cn
 xiaodutv.com
 xiaoe-tech.com
 xiaogouh5.com
@@ -4311,7 +4297,6 @@ xinmeng.info
 xinpianchang.com
 xinrenxinshi.com
 xinwuji.com
-xinyan.cn
 xinyuanfin.com
 xir.cn
 xishanju.com
@@ -4401,7 +4386,6 @@ yeepay.com
 yeshen.com
 yeshj.com
 yesky.com
-yeyousg.com
 yfcache.com
 yfcalc.com
 yfcdn.net
@@ -4413,8 +4397,6 @@ yh31.com
 yhfund.com.cn
 yicai.com
 yiche.com
-yidianliulan.cn
-yidianliulan.com
 yigao.com
 yigoonet.com
 yihaikerry.net.cn
@@ -4560,7 +4542,6 @@ yunzhuxue.com
 yupoo.com
 yuque.com
 yushiyan.net
-yuweikuijianzhan.com
 yuzua.com
 yxbao.com
 yxdmgame.com
