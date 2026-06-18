@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: rksk102
-# Date: 2026-06-18 11:46:42
+# Date: 2026-06-18 21:22:20
 # Mode: DOMAIN
-# Count: 26645 (Raw: 26645)
+# Count: 26654 (Raw: 26654)
 # Desc: 代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -1894,6 +1894,7 @@ appbridge.io
 appbridge.it
 appcenter.ms
 appcloud.com
+appconsent.io
 appdomain.cloud
 appdynamics.co.uk
 appdynamics.com
@@ -2798,6 +2799,7 @@ awwcn.buzz
 awwcn.xyz
 awxcdn.com
 axbdoll.com.tw
+axept.io
 axios.com
 axureformac.com
 ayabank.com
@@ -5128,6 +5130,7 @@ cdjp.org
 cdkworkshop.com
 cdmatech.com
 cdn-apple.com
+cdn-cookieyes.com
 cdn-spotify-experiments.conductrics.com
 cdn-telegram.org
 cdn-terapeak.com
@@ -5859,6 +5862,7 @@ conoha.jp
 conquerwithcharacter.com
 conscrypt.com
 conscrypt.org
+consentmanager.net
 consentpro.com
 constructware.com
 consul.io
@@ -5868,9 +5872,11 @@ contechacademy.com
 contentful.com
 contest.com
 convrgencegame.com
+cookiebot.com
 cookiechoices.org
 cookielaw.org
 cookiepro.com
+cookieyes.com
 cool-comics.com
 cool18.com
 cool3c.com
@@ -21719,6 +21725,7 @@ superadultgames.com
 supercell.com
 supercell.helpshift.com
 supercell.net
+supercell.zendesk.com
 supercellcreators.com
 supercellgames.com
 supercellid.com
@@ -22127,6 +22134,7 @@ terapeak.info
 teraperk.com
 terk.nl
 termius.com
+termly.io
 termux.com
 termux.dev
 termux.org
@@ -22828,6 +22836,7 @@ truefi.io
 truenas.com
 trunest.com
 trust-provider.com
+trustarc.com
 trustcor.ca
 trustcor.com
 trustdoc.ch
