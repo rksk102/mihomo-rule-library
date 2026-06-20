@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-06-19 20:25:44
+# Date: 2026-06-20 10:28:23
 # Mode: DOMAIN
-# Count: 112522 (Raw: 112522)
+# Count: 112521 (Raw: 112521)
 # Desc: 自动透传自 direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -92858,7 +92858,6 @@ urumqimarathon.com
 urumqimtr.com
 us-ex.com
 us-qianzheng.com
-us.ci
 us0.me
 usa-gam.com
 usa-idc.com
