@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-06-20 10:28:23
+# Date: 2026-06-20 20:13:50
 # Mode: DOMAIN
-# Count: 112521 (Raw: 112521)
+# Count: 112385 (Raw: 112528) | Dedup: -143
 # Desc: 自动透传自 direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -10241,9 +10241,7 @@ acthd123.com
 actime.net
 actions-semi.com
 actionsky.com
-activate.activation-v2.kaspersky.com
 activation-gp.com
-activation-v2.geo.kaspersky.com
 activation-v2.kaspersky.com
 activeclub.net
 activepower.net
@@ -12070,15 +12068,11 @@ amo9.com
 amoe.cc
 amonxu.com
 amoydxmed.com
-amp-api-edge-lb-cn.itunes-apple.com.akadns.net
-amp-api-edge-lb.itunes-apple.com.akadns.net
 amp-api-edge.apps.apple.com
-amp-api-edge.music.apple.com
 amp-api-search-edge.apps.apple.com
 amp-api-updates.apps.apple.com
 amp-api.apps.apple.com
 amp-api.media.apple.com
-amp-api.music.apple.com
 amp-intl.com
 ampcn.com
 amperobots.com
@@ -12547,8 +12541,6 @@ aoch.com
 aochengcdn.com
 aocslb.com
 aocter.net
-aod-ssl.itunes.apple.com
-aod.itunes.apple.com
 aodabo.tech
 aodaliyaqianzheng.com
 aodbw.com
@@ -12867,7 +12859,6 @@ appstorehuan.com
 apptao.com
 apptaxi.net
 apptrackerlink.com
-apptrailers.itunes.apple.com
 appubang.com
 appublisher.com
 appurl.cc
@@ -13437,7 +13428,6 @@ austargroup.com
 austarstudy.com
 australiaxy.com
 ausunpharm.com
-auth.music.apple.com
 authbus.com
 authing-inc.co
 authing.co
@@ -13866,6 +13856,7 @@ azt365.com
 azuiblc.com
 azure-wave.com
 azure.cc
+azureflame.cloud
 azureflying.com
 azuremigrate.download.prss.microsoft.com
 azuremigratetest.download.prss.microsoft.com
@@ -14057,8 +14048,6 @@ baf566dfd40e3413.com
 bafangjuhe.com
 bafangwy.com
 baful.net
-bag-cdn.itunes-apple.com.akadns.net
-bag.itunes.apple.com
 bagb2b.com
 bagevent.com
 bags163.com
@@ -16471,6 +16460,7 @@ bjanjili.com
 bjartmuseum.com
 bjatv.com
 bjbaidianfeng.com
+bjbaifan.com
 bjbalb.com
 bjbaodao.net
 bjbb.com
@@ -17478,7 +17468,6 @@ bookfedex.com
 bookfeel.com
 booking001.com
 bookingtee.com
-bookkeeper.itunes.apple.com
 booknest.net
 bookof.com
 bookqi.com
@@ -18915,6 +18904,7 @@ cangdu.org
 cangfengzhe.com
 canghaiip.com
 canghaimachine.com
+cangjggame.com
 canglanghospital.com
 cangmang.xyz
 cangoonline.com
@@ -20551,6 +20541,7 @@ chacheku.com
 chachengji.com
 chacihai.com
 chacuo.net
+chadaodao.com
 chadianhua.net
 chadoc.com
 chaej.com
@@ -23367,7 +23358,6 @@ clickserver.googleads.com
 clicksun.net
 clickwifi.net
 clidone.com
-client-api.itunes.apple.com
 client51.com
 clientflow.apple.com
 clientflow.apple.com.akadns.net
@@ -23643,7 +23633,6 @@ cm-worklink.com
 cm233.com
 cm3721.com
 cm442.com
-cma.itunes.apple.com
 cmacredit.org
 cmaif.com
 cmakaoj.com
@@ -26584,7 +26573,6 @@ ctdcdn.com
 ctdcn.com
 ctdisk.com
 ctdns.net
-ctdsb.clouddiffuse.xyz
 ctdsb.com
 ctdsb.net
 ctdzsk.com
@@ -29871,26 +29859,6 @@ dningbo.com
 dnion.com
 dnjd.com
 dnjsb.com
-dnl-00.geo.kaspersky.com
-dnl-01.geo.kaspersky.com
-dnl-02.geo.kaspersky.com
-dnl-03.geo.kaspersky.com
-dnl-04.geo.kaspersky.com
-dnl-05.geo.kaspersky.com
-dnl-06.geo.kaspersky.com
-dnl-07.geo.kaspersky.com
-dnl-08.geo.kaspersky.com
-dnl-09.geo.kaspersky.com
-dnl-10.geo.kaspersky.com
-dnl-11.geo.kaspersky.com
-dnl-12.geo.kaspersky.com
-dnl-13.geo.kaspersky.com
-dnl-14.geo.kaspersky.com
-dnl-15.geo.kaspersky.com
-dnl-16.geo.kaspersky.com
-dnl-17.geo.kaspersky.com
-dnl-18.geo.kaspersky.com
-dnl-19.geo.kaspersky.com
 dnlunwen.com
 dnmall.com
 dnmcn.com
@@ -30549,7 +30517,6 @@ download.tensorflow.google.com
 download.visualstudio.microsoft.com
 download.windowsupdate.com
 downloadcenter.samsung.com
-downloaddispatch.itunes.apple.com
 downloads.ltd
 downok.com
 downos.com
@@ -32160,7 +32127,6 @@ edengjiang.com
 edesson.com
 edge-byted.com
 edge-cluster-hk-pre.com
-edge.geo.kaspersky.com
 edgefn.net
 edgegslb.com
 edgekey88.net
@@ -34570,6 +34536,7 @@ feierlaiedu.com
 feiersmart.com
 feifandesign.com
 feifanindustry.com
+feifanmi.com
 feifantxt.com
 feifantxt.net
 feifdx.com
@@ -39052,7 +39019,6 @@ gofreeplay.com
 gofrp.org
 gog-cdn-fastly.gog.com
 gog-cdn.akamaized.net
-gog.qtlglb.com
 gogalaxy.gog-statics.com
 gogbuy.com
 goglew5sn.com
@@ -45133,7 +45099,6 @@ hellocq.net
 hellodive.com
 hellof1.com
 helloflask.com
-hellofontpreview.oss-cn-beijing.aliyuncs.com
 hellogame.net
 hellogithub.com
 hellogitlab.com
@@ -45156,7 +45121,6 @@ hellotw.com
 hellotyping.com
 helloweba.net
 hellowebfont.com
-hellowebfonts.oss-cn-beijing.aliyuncs.com
 hellowgame.com
 helloworld.net
 helloxkb.com
@@ -51493,9 +51457,6 @@ inabr.com
 inad.com
 inadvanceof.com
 inaink.com
-inappcheck-cn.itunes-apple.com.akadns.net
-inappcheck-lb.itunes-apple.com.akadns.net
-inappcheck.itunes.apple.com
 inav.site
 inbeing.net
 inbilin.com
@@ -51623,7 +51584,6 @@ init-s01st.push.apple.com
 init.ess.apple.com
 init.gc-lb.apple.com.akadns.net
 init.gc.apple.com
-init.itunes.apple.com
 initaa.com
 initac.com
 initaf.com
@@ -51873,7 +51833,6 @@ iorca.net
 ios114.com
 ios222.com
 ios98.com
-iosapps.itunes.apple.com
 iosapps.itunes.g.aaplimg.com
 iosask.com
 ioser.fun
@@ -52169,7 +52128,6 @@ iruixing.com
 irunner.mobi
 iryoucai.com
 is-programmer.com
-is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
 is1-ssl.mzstatic.com
 is1.mzstatic.com
 is2-ssl.mzstatic.com
@@ -55959,7 +55917,6 @@ jrzp.com
 js-aeg.com
 js-aerfa.com
 js-cct.com
-js-cdn.music.apple.com
 js-cxjt.com
 js-dw.com
 js-emap.com
@@ -58790,7 +58747,6 @@ klxuexi.com
 klyang.com
 klzhlogistics.com
 km.com
-km.support.apple.com
 km10z.net
 km169.net
 km1818.com
@@ -66527,7 +66483,6 @@ mirrorchyan.com
 misaka.center
 misakamoe.com
 misall.com
-misc-assets.itunes.apple.com
 miscd.com
 mishang.com
 mishangkeji.com
@@ -67684,7 +67639,6 @@ musicedu8.com
 musiceol.com
 musicgw.com
 musiciansfriendsaleusa.shop
-musicstatus.music.apple.com
 musiness.vip
 muslimwww.com
 muspost.icu
@@ -67738,7 +67692,6 @@ muzuhui.com
 mvad.com
 mvashanghai.org
 mvhere.com
-mvod.itunes.apple.com
 mvorgexv.com
 mvote.net
 mvpdj.com
@@ -67878,7 +67831,6 @@ myanjian.com
 myanmarembassy.com
 myanmarembassybeijing.com
 myapp.com
-myapp.itunes.apple.com
 myapp.ltd
 myaqsh.com
 myarena7.com
@@ -70601,7 +70553,6 @@ noxgroup.com
 noxpadelsale.com
 noxxxx.com
 noyes88.com
-np-edge.itunes.apple.com
 np176.com
 npbbs.net
 npbeta.com
@@ -70765,22 +70716,8 @@ ntkfqjy.com
 ntlcjd.com
 ntmlxm.com
 ntmyexp.com
-ntp.aliyun.com
 ntp.felixc.at
-ntp.tencent.com
-ntp1.aliyun.com
-ntp1.tencent.com
 ntp123.com
-ntp2.aliyun.com
-ntp2.tencent.com
-ntp3.aliyun.com
-ntp3.tencent.com
-ntp4.aliyun.com
-ntp4.tencent.com
-ntp5.aliyun.com
-ntp5.tencent.com
-ntp6.aliyun.com
-ntp7.aliyun.com
 ntpcb.com
 ntpcn.com
 ntpharma.com
@@ -71921,7 +71858,6 @@ osw3c.com
 oswdj.com
 oswhy.com
 osx.cx
-osxapps.itunes.apple.com
 osxapps.itunes.g.aaplimg.com
 osxxy.com
 osyunwei.com
@@ -72184,35 +72120,13 @@ p-sig-dom.com
 p-sig-dom.net
 p.biz
 p.cdn.persaas.dell.com
-p00.upd.kaspersky.com
-p01.upd.kaspersky.com
-p02.upd.kaspersky.com
 p023.com
-p03.upd.kaspersky.com
 p0371.com
-p04.upd.kaspersky.com
 p0431.com
 p04e.com
-p05.upd.kaspersky.com
-p06.upd.kaspersky.com
-p07.upd.kaspersky.com
-p08.upd.kaspersky.com
-p09.upd.kaspersky.com
 p0y.com
-p1-juejin.byteimg.com
 p1.com
-p10.upd.kaspersky.com
-p11.upd.kaspersky.com
-p12.upd.kaspersky.com
 p12345.com
-p13.upd.kaspersky.com
-p14.upd.kaspersky.com
-p15.upd.kaspersky.com
-p16.upd.kaspersky.com
-p17.upd.kaspersky.com
-p18.upd.kaspersky.com
-p19.upd.kaspersky.com
-p2-juejin.byteimg.com
 p2cdn.com
 p2hp.com
 p2p001.com
@@ -72221,23 +72135,14 @@ p2peye.com
 p2peye.net
 p2psearchers.com
 p3-china.com
-p3-juejin.byteimg.com
-p3-novel.byteimg.com
-p4-juejin.byteimg.com
 p4pp.com
-p5-juejin.byteimg.com
 p555.cc
 p5w.net
-p6-juejin.byteimg.com
-p6-novel.byteimg.com
 p6air.com
 p6sai.com
-p7-juejin.byteimg.com
 p77777777.com
-p8-juejin.byteimg.com
 p80.net
 p8games.com
-p9-juejin.byteimg.com
 p96q3p1m93.world
 p99998888.com
 pa.ci
@@ -72748,9 +72653,7 @@ pcyangguangban.com
 pcz.net
 pczhi.com
 pd-italent.com
-pd-nk.itunes.apple.com
 pd-sts.com
-pd.itunes.apple.com
 pd120.com
 pd17.com
 pdai.tech
@@ -73545,8 +73448,6 @@ platinum-traveller.com
 platinumchina.com
 play-analytics.com
 play.craft.moe
-play.itunes.apple.com
-play.music.apple.com
 play68.com
 play700.com
 play920.com
@@ -75522,6 +75423,7 @@ qingmuxinli.com
 qingnianlvxing.com
 qingniantuzhai.com
 qingnianwang.com
+qingning88.com
 qingpanduola.com
 qingpin.vip
 qingping.co
@@ -77660,7 +77562,6 @@ refineidea.com
 refire.com
 refond.com
 reformdata.org
-refresh-bkg.activation-v2.kaspersky.com
 reg007.com
 regal-marathon.com
 regal-raptor.com
@@ -78915,33 +78816,13 @@ s-yue.com
 s-zone.com
 s.mzstatic.com
 s.xyz
-s00.upd.kaspersky.com
-s01.upd.kaspersky.com
-s02.upd.kaspersky.com
-s03.upd.kaspersky.com
-s04.upd.kaspersky.com
-s05.upd.kaspersky.com
 s0599.com
-s06.upd.kaspersky.com
-s07.upd.kaspersky.com
-s08.upd.kaspersky.com
-s09.upd.kaspersky.com
 s0nnet.com
 s0p6s02x28.com
 s1.mzstatic.com
-s10.upd.kaspersky.com
 s10000.com
-s11.upd.kaspersky.com
-s12.upd.kaspersky.com
-s13.upd.kaspersky.com
 s135.com
-s14.upd.kaspersky.com
-s15.upd.kaspersky.com
-s16.upd.kaspersky.com
 s163.com
-s17.upd.kaspersky.com
-s18.upd.kaspersky.com
-s19.upd.kaspersky.com
 s1979.com
 s1blsecgerto.com
 s1blseclvira.com
@@ -80400,8 +80281,6 @@ sdztxxkj.com
 sdzx.net
 sdzydfy.com
 sdzzdzkj.com
-se-edge.itunes.apple.com
-se2.itunes.apple.com
 sea-group.org
 sea-gullmall.com
 seaarea.com
@@ -80428,7 +80307,6 @@ seaning.com
 seanya.com
 seanyxie.com
 seapsoft.com
-search.itunes.apple.com
 search616.com
 searchpstatp.com
 searchstatic.com
@@ -80764,7 +80642,6 @@ sexytea2013.com
 seyoo.net
 seyuma-cn.com
 sf-airlines.com
-sf-api-token-service.itunes.apple.com
 sf-auto.com
 sf-bearing.com
 sf-bsd.com
@@ -84902,7 +84779,6 @@ sozhe.com
 sozhen.com
 sozyb.com
 sp.cc
-sp.itunes.apple.com
 sp168.com
 sp588.cc
 sp588.net
@@ -84973,7 +84849,6 @@ speedsz.net
 speedws.com
 speedws.info
 speedws.org
-speedysub.music.apple.com
 speedzonerc.com
 speiyou.com
 sperogenix.com
@@ -85573,7 +85448,6 @@ stray-soul.com
 streamax.com
 streamaxtech.com
 streamcomputing.com
-streamingaudio.itunes.apple.com
 streamlakeapi.com
 streffy.com
 strinova.com
@@ -85601,7 +85475,6 @@ studentboss.com
 studioartiz.com
 studstu.com
 study-cloud.com
-study.163.com
 study163.com
 studyems.com
 studyez.com
@@ -85638,7 +85511,6 @@ stzc.com
 stzzx.com
 su-jiao.com
 su-long.com
-su.itunes.apple.com
 suaee.com
 suan5.com
 suanbanyun.com
@@ -86702,7 +86574,6 @@ syn-tron.com
 syn029.com
 synacast.com
 synball.com
-sync.itunes.apple.com
 syncedoffplanet.com
 syncozymes.com
 syngars.com
@@ -89105,7 +88976,6 @@ tezhengma.com
 tezhongzhuangbei.com
 tezign.com
 tf-bm.com
-tf-feedback.itunes.apple.com
 tf.wiki
 tf56.com
 tfauto.net
@@ -89781,7 +89651,6 @@ timbrd.com
 time-weekly.com
 time-year.com
 time.amazonaws.cn
-time.izatcloud.net
 time.xtracloud.net
 timecloud.us
 timecoo.com
@@ -92616,6 +92485,7 @@ uniostay.com
 uniow.com
 unipack-tech.com
 uniproud.com
+unisapps.com
 uniscope.com
 unisdigital.com
 unisedu.com
@@ -92656,7 +92526,6 @@ unitweld.com
 unitymanual.com
 unityonehold.com
 univ-bio.com
-universal-activity-service.itunes.apple.com
 university-hr.com
 uniview.com
 univista-isg.com
@@ -92778,7 +92647,6 @@ uplooking.com
 upluck.cc
 upnono.com
 upowerchain.com
-upp.itunes.apple.com
 uppershop.hk
 upppt.com
 upqzfile.com
@@ -98064,12 +97932,9 @@ www.htc.com
 www.microsoft.com
 www.nike.com
 www.pxcc.com
-www.recaptcha-cn.net
-www.recaptcha.net
 www.redhat.com
 www.samsung.com
 www.st.com
-www.support.apple.com
 www.vive.com
 www.viveport.com
 www.volvocars.com
@@ -102601,7 +102466,6 @@ xyzywl.com
 xz-juming.com
 xz-soft.com
 xz.com
-xz.pphimalayanrt.com
 xz325.com
 xz3733.com
 xz6.com

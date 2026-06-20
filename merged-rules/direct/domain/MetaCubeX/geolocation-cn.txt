@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-06-20 10:28:23
+# Date: 2026-06-20 20:13:50
 # Mode: DOMAIN
-# Count: 4731 (Raw: 4731)
+# Count: 4723 (Raw: 4731) | Dedup: -8
 # Desc: 自动透传自 direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -402,7 +402,6 @@ ahcjw.com
 ahfda.com
 ahitv.com
 ahwang.cn
-ai.zhaomi.cn
 aicdn.com
 aichaoxing.com
 aichongzoo.cn
@@ -1709,7 +1708,6 @@ geekpark.net
 geektool.top
 geely.com
 geetest.com
-geetest.datasink.sensorsdata.cn
 gefund.com.cn
 geilicdn.com
 gepush.com
@@ -1999,7 +1997,6 @@ honorfile.com
 hoopchina.com.cn
 hophing.cn
 hophing.com.cn
-hospital.pku.edu.cn
 hotread.com
 houdao.com
 houyicaiji.com
@@ -2958,7 +2955,6 @@ moleecel.com
 monika.love
 mooc.cn
 moocollege.com
-moocs.unipus.cn
 moonshot.ai
 moonshot.cn
 moonvy.com
@@ -3097,7 +3093,6 @@ nruan.com
 nssd.cn
 ntalker.com
 ntp.aliyun.com
-ntp.neu.edu.cn
 ntp.ntsc.ac.cn
 ntp.org.cn
 ntp.tencent.com
@@ -3155,7 +3150,6 @@ onlinesjtu.com
 onlylady.com
 oojsq.com
 opdown.com
-opencourse.pku.edu.cn
 openjudge.cn
 openkylin.top
 openlearning.com
@@ -3650,7 +3644,6 @@ sq.cc
 sqqnh.cn
 sqqnh.org
 sqreader.com
-ss.bjmu.edu.cn
 ssajax.cn
 sse.com.cn
 sseinfo.com
@@ -3851,7 +3844,6 @@ tiexue.net
 tigeek.net.cn
 tikv.org
 timbrd.com
-time.amazonaws.cn
 time.izatcloud.net
 time.xtracloud.net
 timedoo.com
