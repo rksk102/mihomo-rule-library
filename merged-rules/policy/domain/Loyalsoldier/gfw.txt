@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-06-20 10:28:23
+# Date: 2026-06-20 20:13:50
 # Mode: DOMAIN
-# Count: 4339 (Raw: 4339)
+# Count: 4305 (Raw: 4341) | Dedup: -36
 # Desc: 自动透传自 policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -22,6 +22,7 @@
 173ng.com
 18board.com
 18comic.org
+18mh.net
 1984bbs.com
 1991way.com
 1e100.net
@@ -218,18 +219,14 @@ aoxvpn.com
 apartmentratings.com
 apartments.com
 apat1989.org
-api-gl.lbkrs.com
 api-secure.recaptcha.net
 api-verify.recaptcha.net
 api.ai
-api.futunn.com
-api.lbkrs.com
 api.moomoobull.com
 api.palworldgame.com
 api.pureapk.com
 api.recaptcha.net
 api.steampowered.com
-api5.futunn.com
 apiary.io
 apigee.com
 apk.support
@@ -407,6 +404,7 @@ bigjapanesesex.com
 bignews.org
 bigone.com
 bild.de
+bilinovel.com
 biliworld.com
 binance.com
 binance.org
@@ -671,7 +669,6 @@ cdjp.org
 cdn-images.mailchimp.com
 cdn-telegram.org
 cdn.arstechnica.net
-cdn.futustatic.com
 cdn.jwplayer.com
 cdn.printfriendly.com
 cdn.seatguru.com
@@ -714,7 +711,6 @@ chengmingmag.com
 chenguangcheng.com
 chenpokong.com
 chenpokongvip.com
-chenshan20042005.wordpress.com
 cherrysave.com
 chhongbi.org
 chii.in
@@ -748,7 +744,6 @@ chinasocialdemocraticparty.com
 chinasoul.org
 chinatopsex.com
 chinauncensored.tv
-chinaview.wordpress.com
 chinaworker.info
 chinese-memorial.org
 chinese.engadget.com
@@ -816,9 +811,7 @@ cn.fmnnow.com
 cn.sandscotaicentral.com
 cn.shafaqna.com
 cn.theaustralian.com.au
-cn.uptodown.com
 cna.com.tw
-cnbbnews.wordpress.com
 cnbeta.com.tw
 cnd.org
 cnnews.chosun.com
@@ -1042,7 +1035,6 @@ dougscripts.com
 doujincafe.com
 dowjones.io
 download.dappcdn.com
-download.futunn.com
 dpool.top
 dpp.org.tw
 dpr.info
@@ -1310,7 +1302,6 @@ freebrowser.org
 freechinaweibo.com
 freedom.gov
 freedomhouse.org
-freedominfonetweb.wordpress.com
 freedomsherald.org
 freegao.com
 freegpt.es
@@ -1862,8 +1853,6 @@ hk-pub.com
 hk.gradconnection.com
 hk.jiepang.com
 hk01.com
-hka8964.wordpress.com
-hkanews.wordpress.com
 hkbookcity.com
 hkchronicles.com
 hkcnews.com
@@ -1913,8 +1902,6 @@ hoy.tv
 hpjav.com
 hqcdp.org
 hqjapanesesex.com
-hqsbnet.wordpress.com
-hqsbonline.wordpress.com
 hrichina.org
 hrntt.org
 hrw.org
@@ -1985,7 +1972,6 @@ idiomconnection.com
 idope.se
 ifan.cz.cc
 ifcss.org
-ifreechina.wordpress.com
 ifreewares.com
 ift.tt
 igcd.net
@@ -2051,7 +2037,6 @@ internetfreedom.org
 internetpopculture.com
 interseclab.org
 inthenameofconfuciusmovie.com
-investigating.wordpress.com
 investing.com
 invidio.us
 inxian.com
@@ -2141,7 +2126,6 @@ jma.go.jp
 jmsc.hku.hk
 jmscult.com
 joachims.org
-jobnewera.wordpress.com
 joinclubhouse.com
 joinmastodon.org
 jornaldacidadeonline.com.br
@@ -2341,7 +2325,6 @@ lvv2.com
 lyfhk.net
 lzjscript.com
 lzmtnews.org
-m.hkgalden.com
 m.me
 m.moegirl.org
 macgamestore.com
@@ -2382,7 +2365,6 @@ matome-plus.net
 matrix.org
 matters.news
 matters.town
-matthewdgreen.wordpress.com
 mattwilcox.net
 maven.neoforged.net
 mcadforums.com
@@ -2444,7 +2426,6 @@ mingdemedia.org
 minghui-school.org
 minghui.or.kr
 minghui.org
-minghuiyw.wordpress.com
 mingjinglishi.com
 mingjingnews.com
 mingjingtimes.com
@@ -2746,12 +2727,8 @@ ooni.org
 open.firstory.me
 openai.com
 openapi-quote.longbridge.cn
-openapi-quote.longbridge.com
 openapi-trade.longbridge.cn
-openapi-trade.longbridge.com
-openapi.futunn.com
 openapi.longbridge.cn
-openapi.longbridge.com
 openart.ai
 opencritic.com
 opendemocracy.net
@@ -3006,15 +2983,12 @@ qmp4.com
 qoos.com
 qq.co.za
 qstatus.com
-qtcard.futunn.com
-qtcardfthk.futufin.com
 qtrac.eu
 questvisual.com
 quitccp.org
 quiz.directory
 quora.com
 quoracdn.net
-quote.longbridge.global
 quran.com
 qz.com
 r-pool.net
@@ -3397,7 +3371,6 @@ suche.gmx.net
 sugarsync.com
 sugumiru18.com
 suissl.com
-sujiatun.wordpress.com
 sumrando.com
 sundayguardianlive.com
 sunmedia.ca
@@ -3408,7 +3381,6 @@ supchina.com
 superpages.com
 supervpn.net
 superzooi.com
-support.futunn.com
 suprememastertv.com
 surfeasy.com
 surfeasy.com.au
@@ -3666,8 +3638,6 @@ totalvpn.com
 tou.tv
 tpi.org.tw
 tracfone.com
-trade.futunn.com
-trade.longportapp.com
 tradeup.com
 tradingview.com
 translate.goog
@@ -4088,7 +4058,6 @@ wn.com
 wnacg.com
 wnacg.org
 wo.tc
-wo3ttt.wordpress.com
 woeser.com
 wokar.org
 wolfax.com
@@ -4130,9 +4099,7 @@ www.eastturkistan.net
 www.gmiddle.com
 www.gmiddle.net
 www.hoyolab.com
-www.hustlercash.com
 www.idlcoyote.com
-www.kindleren.com
 www.lorenzetti.com.br
 www.m-sport.co.uk
 www.monlamit.org
@@ -4178,7 +4145,6 @@ xiaolan.me
 xiaoma.org
 xiaomi.eu
 xiaxiaoqiang.net
-xijie.wordpress.com
 xing.com
 xinjiangpolicefiles.org
 xinmiao.com.hk

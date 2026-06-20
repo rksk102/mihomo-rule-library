@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-06-20 10:28:23
+# Date: 2026-06-20 20:13:50
 # Mode: DOMAIN
-# Count: 122 (Raw: 122)
+# Count: 119 (Raw: 122) | Dedup: -3
 # Desc: 自动透传自 direct/domain/Loyalsoldier/private.txt
 # ----------------------------------------
 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
@@ -125,7 +125,4 @@ tendawifi.com
 tplinkwifi.net
 tplogin.cn
 ts.net
-www.asusrouter.com
-www.miwifi.com
-www.routerlogin.com
 zte.home
