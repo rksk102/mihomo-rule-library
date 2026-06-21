@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-06-20 20:13:50
+# Date: 2026-06-21 05:38:33
 # Mode: DOMAIN
-# Count: 4723 (Raw: 4731) | Dedup: -8
+# Count: 4724 (Raw: 4732) | Dedup: -8
 # Desc: 自动透传自 direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -3008,6 +3008,7 @@ mypaas.com.cn
 myparallelstory.com
 myshow360.net
 mysiteres.com
+mysqil.com
 mysxl.cn
 myypark.com
 myyx618.com

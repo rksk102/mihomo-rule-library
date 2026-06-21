@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: rksk102
-# Date: 2026-06-20 20:13:50
+# Date: 2026-06-21 05:38:33
 # Mode: DOMAIN
-# Count: 26068 (Raw: 26691) | Dedup: -623
+# Count: 26069 (Raw: 26693) | Dedup: -624
 # Desc: 代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -9989,6 +9989,7 @@ gofile.me
 gofucker.com
 gofuckmenow.com
 gofundme.com
+gog-cdn-lumen.secure2.footprint.net
 gog-statics.com
 gog.com
 gogettaxi.org
