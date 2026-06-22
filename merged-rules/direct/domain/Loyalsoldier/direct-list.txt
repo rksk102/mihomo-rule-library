@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-06-21 05:38:33
+# Date: 2026-06-22 09:12:49
 # Mode: DOMAIN
-# Count: 112316 (Raw: 112459) | Dedup: -143
+# Count: 112310 (Raw: 112453) | Dedup: -143
 # Desc: 自动透传自 direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -15654,8 +15654,6 @@ bfxpj888.com
 bfyx.com
 bfyx.net
 bfzhan.com
-bg.v4.a.dl.ws.microsoft.com
-bg4.v4.a.dl.ws.microsoft.com
 bg45.com
 bg7ywl.com
 bgbfds.com
@@ -17983,7 +17981,6 @@ buhuyo.com
 buickcare.net
 buidea.com
 build-decor.com
-build.microsoft.com
 build8.com
 build9s.io
 builddecor.org
@@ -19809,7 +19806,6 @@ cdn.apple-mapkit.com
 cdn.fun
 cdn.globalsigncdn.com.cdn.cloudflare.net
 cdn.jetbrains.com
-cdn.marketplaceimages.windowsphone.com
 cdn.samsung.com
 cdn.shanghai.nyu.edu
 cdn.show
@@ -28705,7 +28701,6 @@ dev59.com
 devashen.com
 devask.net
 devbean.net
-devblogs.microsoft.com
 devclub.cc
 devedu.net
 develenv.com
@@ -30029,7 +30024,6 @@ docodgroup.com
 docoi.cc
 docpe.com
 docs.cdnetworks.com
-docs.microsoft.com
 docschina.org
 docshare.org
 docsj.com
@@ -31215,6 +31209,7 @@ dxlfile.com
 dxm-cdn.com
 dxm-int.com
 dxm-yibai.com
+dxmbaoxian.com
 dxmjinr.com
 dxmjuhe.com
 dxmlcf.com
@@ -35979,7 +35974,6 @@ fs-bus.com
 fs-czx.com
 fs-eliza.com
 fs-qiyun.com
-fs.microsoft.com
 fs0757.com
 fs121.com
 fs1982.com
@@ -60662,7 +60656,6 @@ leapmie.com
 leapmmw.com
 leapmotor.com
 learn-quantum.com
-learn.microsoft.com
 learndiary.com
 learnfuture.com
 learningsj.com
@@ -65061,6 +65054,7 @@ mcool.com
 mcpemaster.com
 mcpfks.com
 mcpmaid.com
+mcpworld.com
 mcq93.app
 mcqy.net
 mcsafebox.com
@@ -65624,6 +65618,7 @@ menpad.com
 menpiao.com
 menpiaotuangou.com
 menshiny.com
+mensura.cdn-apple.com
 mentamob.com
 mentorsc.com
 mentrends.com
@@ -68036,6 +68031,7 @@ myspain.org
 mysqil.com
 mysql360.com
 mysqlab.net
+myssl-uri.com
 myssl.com
 mystarch.com
 mysteel.com
@@ -72800,6 +72796,7 @@ perfcode.com
 perfect-input.com
 perfect99.com
 perfectdiary.com
+perfectlingo.com
 perfecttradinghk.com
 perfectwatchen.com
 perfertw.com
@@ -74238,6 +74235,7 @@ pw-partners.com
 pw1999.com
 pw88.com
 pwand.com
+pwcinema.com
 pwdding.icu
 pwithe.com
 pwjptdg.xyz
@@ -77681,8 +77679,6 @@ reputatioy.com
 reqable.com
 reqgvheo.com
 rergdfh.com
-res-1.cdn.office.net
-res.cdn.office.net
 reseetech.com
 resemblancey.com
 resemi.com
@@ -90924,6 +90920,7 @@ trust-one.com
 trust400.com
 trusta-lawyer.com
 trustasia.com
+trustasia.net
 trustcn.com
 trustdecision.com
 trustedsign.com
@@ -97340,8 +97337,6 @@ wscloudvpn.com
 wsclsb.net
 wscn.net
 wscncdn.com
-wscont1.apps.microsoft.com
-wscont2.apps.microsoft.com
 wscp.shop
 wscrm.net
 wscso.com
@@ -97870,7 +97865,6 @@ www.epsonconnect.com
 www.gov.mo
 www.gstatic.com
 www.htc.com
-www.microsoft.com
 www.nike.com
 www.pxcc.com
 www.redhat.com

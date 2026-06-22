@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-06-21 05:38:33
+# Date: 2026-06-22 09:12:49
 # Mode: DOMAIN
-# Count: 4724 (Raw: 4732) | Dedup: -8
+# Count: 4783 (Raw: 4791) | Dedup: -8
 # Desc: 自动透传自 direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -22,6 +22,7 @@
 100tal.com
 100ycdn.com
 10jqka.com.cn
+111.com
 11183.com.cn
 11185.cn
 11222.cn
@@ -242,9 +243,12 @@
 51kim.com
 51meishu.com
 51nod.com
+51ping.com
 51pptmoban.com
 51selling.com
 51sole.com
+51ssl.cn
+51ssl.com
 51togic.com
 51wendang.com
 51yes.com
@@ -326,8 +330,10 @@
 84399.com
 8531.cn
 8686c.com
+88.com
 885.com
 88cdn.com
+88y.cn
 8btc.com
 8uri.cn
 900.la
@@ -341,6 +347,7 @@
 95015.com
 95306.cn
 95311.com
+95504.net
 95504test.com
 95508.com
 95516.com
@@ -547,6 +554,7 @@ awstme.top
 azz.net
 b3log.org
 b3logfile.com
+b612kaji.com
 babytree.com
 babytreeimg.com
 badou.com
@@ -596,6 +604,7 @@ bankofbeijing.com.cn
 banmaaike.com
 banxiaoer.com
 banxiaoer.net
+baobaoaichi.cn
 baofeng.com
 baofeng.net
 baomitu.com
@@ -699,8 +708,10 @@ biyehome.net
 bjcathay.com
 bjctyiptv.cn
 bjinfobank.com
+bjnews.com.cn
 bjyouth.net
 bkchina.cn
+bkeconomy.com
 blogjava.net
 bluepoch.com
 blurdev.com
@@ -804,6 +815,7 @@ cdncl.net
 cdndo.com
 cdnmama.com
 cdnmg.com
+ce.cn
 ceair.com
 ceati.org.cn
 cebbank.com
@@ -861,6 +873,7 @@ checkzeit.com
 chei.com.cn
 chelaile.net.cn
 chememall.com
+chengjiaxiangqin.cn
 chesicc.cn
 chesicc.com
 chesicc.com.cn
@@ -894,6 +907,7 @@ chinakaoyan.com
 chinalawedu.com
 chinalions.com
 chinalive.com
+chinamcloud.com
 chinanature.com.cn
 chinanetcenter.com
 chinanews.com
@@ -1012,6 +1026,7 @@ cnlaw.net
 cnmooc.org
 cnms.net.cn
 cnmstl.net
+cnpc.com.cn
 cnpsec.com
 cnr.cn
 cns.com.cn
@@ -1024,8 +1039,10 @@ cntv.cn
 cntv.com.cn
 cntvwb.cn
 cnweblog.com
+cnwest.com
 cnwza.cn
 cocodiy.com
+cocos.com
 code666.com
 codebuddy.cn
 codechina.net
@@ -1037,6 +1054,7 @@ cofco.com
 cofeed.com
 cofool.com
 coindog.com
+combofin.com
 comfylink.com
 conac.cn
 cone-x.com
@@ -1215,6 +1233,7 @@ datayi.cn
 daton.com.cn
 dayainfo.com
 dayin8.com
+dayoo.com
 daytx.cn
 dayukaoshi.com
 dazijia.com
@@ -1328,6 +1347,7 @@ doucang.com
 douding.cn
 doudou.com
 douguo.com
+douguo.net
 douxie.com
 douyin.com
 douyinact.com
@@ -1368,6 +1388,7 @@ dui88.com
 duiba.com.cn
 duiopen.com
 duitang.com
+dumate.cn
 duoduocdn.com
 duomai.com
 duoshan.com
@@ -1380,6 +1401,7 @@ duurl.cn
 duxiaoman-int.com
 duxiaoman.com
 duxiaomanfintech.com
+duxiaomanfund.com
 duxiaomantech.com
 duxiu.com
 dwion.com
@@ -1388,6 +1410,7 @@ dwstatic.com
 dwz.cn
 dxm-cdn.com
 dxm-int.com
+dxmbaoxian.com
 dxmjinr.com
 dxmlcf.com
 dxmlcfintech.com
@@ -1451,6 +1474,7 @@ ejoy.com
 elecfans.com
 elong.com
 elongstatic.com
+email.cn
 emarbox.com
 emoriko.com
 ems.com.cn
@@ -1479,6 +1503,7 @@ et001.com
 et0731.com
 ets100.com
 everbright.com
+evolife.cn
 ewdcloud.com
 ewww.com.cn
 excelbbx.net
@@ -1555,6 +1580,7 @@ fimmu.com
 finchina.com
 fixdown.com
 fjctyiptv.cn
+fjsen.com
 flowus.cn
 flxdns.cn
 flxdns.com
@@ -1710,6 +1736,7 @@ geely.com
 geetest.com
 gefund.com.cn
 geilicdn.com
+geossl.cn
 gepush.com
 getui.cn
 getui.com
@@ -2512,6 +2539,7 @@ klingai.com
 klpbbs.com
 knet.cn
 knewsmart.com
+knownsec.com
 kolbuyer.cn
 kongfz.com
 koocdn.com
@@ -2622,6 +2650,7 @@ lanzoux.com
 lanzouy.com
 lanzov.com
 laoban100.com
+laohu.com
 laomaotao.net
 laomaotao.org
 lapin365.com
@@ -2727,6 +2756,8 @@ linliyz.com
 linsn.com
 linuxidc.com
 liqucn.com
+litessl.cn
+litessl.com
 liulanqi.net
 liulishuo.com
 liuxiaoer.com
@@ -2846,6 +2877,7 @@ mcdonalds.com.cn
 mchost.guru
 mcmod.cn
 mcprev.cn
+mcpworld.com
 mdcdn.cn
 mdpda.com
 me1.ltd
@@ -2893,6 +2925,7 @@ mhystatic.com
 mhyurl.cn
 miaibox.com
 miaobolive.com
+miaoda.cn
 miaomiaoz.com
 miaomiaozhe.com
 miaopai.com
@@ -3009,6 +3042,8 @@ myparallelstory.com
 myshow360.net
 mysiteres.com
 mysqil.com
+myssl-uri.com
+myssl.com
 mysxl.cn
 myypark.com
 myyx618.com
@@ -3052,6 +3087,8 @@ newniu.com
 news.cn
 news.yxrb.net
 newsimg.cn
+newssc.org
+newstjk.com
 newupbank.com
 newyx.net
 nextstudios.com
@@ -3210,6 +3247,8 @@ peccn.com
 people.cn
 people.com.cn
 peopleapp.com
+perfectlingo.com
+petrochina.com.cn
 pg0.cn
 pgyer.com
 pgzs.com
@@ -3274,6 +3313,9 @@ puh3.net.cn
 pupuapi.com
 pupumall.com
 pushcfg.com
+pwcinema.com
+pwesports.cn
+pwrd.com
 pwsannong.com
 py-axa.com
 qbitai.com
@@ -3306,6 +3348,7 @@ qiancangwms.com
 qiangbus.com
 qianjia.com
 qianlima.com
+qianlong.com
 qianwen.aliyun.com
 qianwen.com
 qianxin.com
@@ -3408,6 +3451,7 @@ rdnsdb.com
 realcybertron.com
 redcross.org.cn
 redmagic.com
+rednet.cn
 renren-inc.com
 renren.com
 renrendoc.com
@@ -3535,6 +3579,7 @@ shelter-china.com
 shelterdome.net
 shengdaosoft.com
 shengqugames.com
+shengwang.cn
 shengyi.ai
 shengyizhuanjia.com
 shenmayouxi.com
@@ -3574,6 +3619,7 @@ shuqi.com
 shuqiapi.com
 shuqiread.com
 shuqireader.com
+shuqistat.com
 shutcm.com
 shuxinyc.com
 shyxhy.com
@@ -3613,6 +3659,7 @@ snimay.com
 snodehome.cn
 snodehome.com
 snowballsecurities.com
+so-quick.cn
 so.com
 sobot.com
 soboten.com
@@ -3720,6 +3767,7 @@ sxl.cn
 sxlcdn.cn
 sxlcdn.com
 sxsimg.com
+sxtvs.com
 sydw8.com
 sys321.com
 syxlgame.com
@@ -3903,6 +3951,10 @@ tritoninfo.net
 trjcn.com
 trpcdn.net
 trunktech.com
+trustasia.cn
+trustasia.com
+trustasia.com.cn
+trustasia.net
 trustexporter.com
 trustie.net
 trustutn.org
@@ -3997,6 +4049,7 @@ unionpayintl.com
 unionpaysecure.com
 unipus.cn
 unity.cn
+unity3dcloud.cn
 unitychina.cn
 uoj.ac
 uoko.com
@@ -4054,6 +4107,7 @@ vipstatic.com
 viviv.com
 vobao.com
 voc.com.cn
+voicecloud.cn
 vpgame.com
 vrzwk.cn
 vrzwk.com
@@ -4120,6 +4174,7 @@ wenkub.com
 wenmingban.com
 wenshushu.cn
 wenshushu.com
+wenwo.com
 wenxiaozhan.cn
 wenxiaozhan.com
 wenxiaozhan.net
@@ -4159,6 +4214,7 @@ wkzq.com.cn
 wkzuche.com
 wlzq.cn
 wmsj.cn
+wmupd.com
 wmzhe.com
 wnhuifu.com
 wo1wan.com
@@ -4287,6 +4343,8 @@ xinhuanet.com
 xinhuaxmt.com
 xinlishumeng.com
 xinmeng.info
+xinmin.cn
+xinminweekly.com.cn
 xinpianchang.com
 xinrenxinshi.com
 xinwuji.com
@@ -4672,6 +4730,7 @@ ziroomapartment.com
 zixiaomao.com
 zixuntop.com
 zjlib.cn
+zjol.com.cn
 zjshulong.com
 zjstv.com
 zjzs.net
