@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: rksk102
-# Date: 2026-06-23 19:38:38
+# Date: 2026-06-24 09:04:52
 # Mode: DOMAIN
-# Count: 26071 (Raw: 26696) | Dedup: -625
+# Count: 26081 (Raw: 26707) | Dedup: -626
 # Desc: 代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -1414,6 +1414,7 @@ allpornsitespass.com
 allspyclips.com
 allswingersclubs.org
 allthefallen.moe
+almalinux.org
 alohatube.com
 alotporn.com
 alphabet.asia
@@ -4650,6 +4651,7 @@ bustynudebabes.com
 bustyoldsluts.com
 bustysammieblack.com
 busu.org
+busybox.net
 buy-from-shanghai.com
 buyaapl.com
 buyaapl.net
@@ -6277,7 +6279,6 @@ deepfreeze.tech
 deepl.com
 deepmind.com
 deezer.com
-default.exp-tas.com
 definebabe.com
 definefetish.com
 degruyter.com
@@ -8048,6 +8049,7 @@ exmormon.org
 exoav.com
 exotic-ghana.com
 exoticuganda.com
+exp-tas.com
 expatshield.com
 expecthim.com
 expekt.com
@@ -9843,6 +9845,7 @@ gitgud.io
 github-api.arkoselabs.com
 github.ai
 github.blog
+github.career
 github.com
 github.community
 github.dev
@@ -13839,6 +13842,7 @@ licdn.com
 licensebuttons.net
 licenseparser.com
 life-global.org
+lifeatspotify.com
 lifemiles.com
 lifeselector.com
 lifestyle-tec.ru
@@ -14346,6 +14350,7 @@ manhuntdaily.com
 manhwa24h.com
 manhwahentai.me
 maniakey.homes
+manjaro.org
 manorama.com
 manoramanews.com
 manoramaonline.com
@@ -19407,6 +19412,7 @@ rocksdb.org
 rocksextube.com
 rockstargames.com
 rockstarnorth.com
+rockylinux.org
 rojo.com
 roku.com
 rokutime.com
@@ -20941,6 +20947,7 @@ spotifycdn.net
 spotifycharts.com
 spotifycodes.com
 spotifyforbrands.com
+spotifyforvendors.com
 spotifyjobs.com
 spraynwash.com
 spreadprivacy.com
@@ -23926,7 +23933,10 @@ vscale.io
 vscale.ru
 vscode-cdn.net
 vscode-unpkg.net
+vscode-webview.net
 vscode.dev
+vscodeedu.app
+vscodeedu.com
 vsemrabota.ru
 vsex.in
 vsezoo.com
