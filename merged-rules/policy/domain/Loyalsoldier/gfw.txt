@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-06-24 19:34:29
+# Date: 2026-06-25 09:05:11
 # Mode: DOMAIN
-# Count: 4305 (Raw: 4341) | Dedup: -36
+# Count: 4306 (Raw: 4342) | Dedup: -36
 # Desc: 自动透传自 policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -1421,6 +1421,7 @@ generated.photos
 genius.com
 geph.io
 get.app
+get.dappcdn.com
 get.dev
 get.how
 get.page

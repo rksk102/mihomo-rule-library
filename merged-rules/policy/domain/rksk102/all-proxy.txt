@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: rksk102
-# Date: 2026-06-24 19:34:29
+# Date: 2026-06-25 09:05:11
 # Mode: DOMAIN
-# Count: 26081 (Raw: 26707) | Dedup: -626
+# Count: 26082 (Raw: 26708) | Dedup: -626
 # Desc: 代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -9674,6 +9674,7 @@ geraldoatlarge.com
 gerritcodereview.com
 gesoten.com
 get.app
+get.dappcdn.com
 get.dev
 get.how
 get.new
