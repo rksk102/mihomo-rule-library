@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-06-25 19:36:46
+# Date: 2026-06-26 09:04:41
 # Mode: DOMAIN
-# Count: 4306 (Raw: 4342) | Dedup: -36
+# Count: 4307 (Raw: 4343) | Dedup: -36
 # Desc: 自动透传自 policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -870,6 +870,7 @@ crazypool.org
 crazyshit.com
 crbug.com
 crchina.org
+creader.com
 creaders.net
 creativelab5.com
 cristyli.com

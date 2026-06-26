@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: rksk102
-# Date: 2026-06-25 19:36:46
+# Date: 2026-06-26 09:04:41
 # Mode: DOMAIN
-# Count: 26082 (Raw: 26708) | Dedup: -626
+# Count: 26083 (Raw: 26708) | Dedup: -625
 # Desc: 代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -5908,6 +5908,7 @@ crazyxxx3dworld.org
 crazyxxxworld.com
 crbug.com
 crchina.org
+creader.com
 creaders.net
 creamasia.com
 creamlemon.info
