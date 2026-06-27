@@ -2,7 +2,7 @@
 # Strategy: policy
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-06-26 19:34:32
+# Date: 2026-06-27 08:54:36
 # Mode: DOMAIN
 # Count: 4307 (Raw: 4343) | Dedup: -36
 # Desc: 自动透传自 policy/domain/Loyalsoldier/gfw.txt
