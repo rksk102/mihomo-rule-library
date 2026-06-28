@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-06-27 19:31:59
+# Date: 2026-06-28 09:02:04
 # Mode: DOMAIN
-# Count: 158 (Raw: 158)
+# Count: 159 (Raw: 159)
 # Desc: 自动透传自 policy/domain/MetaCubeX/category-ai-!cn.txt
 # ----------------------------------------
 agentclientprotocol.com
@@ -157,6 +157,7 @@ stitch.withgoogle.com
 tapnow.ai
 themeforest.net
 trae.ai
+tripo3d.ai
 turn.livekit.cloud
 webchannel-alkalimakersuite-pa.clients6.google.com
 windsurf.build
