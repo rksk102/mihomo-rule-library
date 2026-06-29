@@ -2,7 +2,7 @@
 # Strategy: direct
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-06-28 19:32:19
+# Date: 2026-06-29 09:34:31
 # Mode: DOMAIN
 # Count: 4798 (Raw: 4806) | Dedup: -8
 # Desc: 自动透传自 direct/domain/MetaCubeX/geolocation-cn.txt
@@ -2529,6 +2529,7 @@ kidsccshow.com
 kimg.cn
 kimi.com
 kimiss.com
+kimxz.com
 kingdee.com
 kinghomechina.com
 kingsoft-office-service.com
@@ -2562,7 +2563,6 @@ ks-cdn.com
 ks-cdn1.com
 ks-live.com
 ksapisrv.com
-kscord.com
 kshbank.cn
 kskwai.com
 ksmobile.com

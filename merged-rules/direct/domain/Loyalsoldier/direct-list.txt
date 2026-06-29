@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-06-28 19:32:19
+# Date: 2026-06-29 09:34:31
 # Mode: DOMAIN
-# Count: 112240 (Raw: 112387) | Dedup: -147
+# Count: 112239 (Raw: 112386) | Dedup: -147
 # Desc: 自动透传自 direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -59015,7 +59015,6 @@ kscdns.com
 kschuangku.com
 kscloudapi.com
 ksco.cc
-kscord.com
 ksdedu.com
 ksdhgy.com
 ksecit.com
