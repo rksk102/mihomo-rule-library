@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-06-29 19:35:49
+# Date: 2026-06-30 09:05:24
 # Mode: DOMAIN
-# Count: 4323 (Raw: 4359) | Dedup: -36
+# Count: 4324 (Raw: 4360) | Dedup: -36
 # Desc: 自动透传自 policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -1162,6 +1162,7 @@ expatshield.com
 expecthim.com
 expekt.com
 exploader.net
+expressnews.com
 expressvpn.com
 exrates.me
 extmatrix.com
