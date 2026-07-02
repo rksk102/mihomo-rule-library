@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-07-01 19:34:53
+# Date: 2026-07-02 09:03:14
 # Mode: DOMAIN
-# Count: 4798 (Raw: 4806) | Dedup: -8
+# Count: 4831 (Raw: 4839) | Dedup: -8
 # Desc: 自动透传自 direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -54,6 +54,7 @@
 123624.com
 123641.com
 12365auto.com
+12377.cn
 123842.com
 123860.com
 123912.com
@@ -301,6 +302,7 @@
 61.com
 6655.com
 66law.cn
+66rpg.com
 66wz.com
 68h5.com
 6rooms.com
@@ -311,6 +313,7 @@
 7230.com
 72byte.com
 72whys.com
+777ppt.com
 7down.com
 7k7k.com
 7moor-fs1.com
@@ -326,6 +329,7 @@
 800bestapi.com
 800bestapp.cn
 800bestapp.com
+81.cn
 818ps.com
 8264.com
 84399.com
@@ -396,6 +400,7 @@ activity-zhendingtech.com
 acwifi.net
 acwing.com
 admin5.com
+admincdn.com
 adxvip.com
 afdian.com
 afdian.net
@@ -643,6 +648,7 @@ bdydns.com
 bdydns.net
 bearychat.com
 beckyroom.com
+beie.org
 beifangsl.cn
 beihaidc.com
 beijing-lipin.com
@@ -719,6 +725,7 @@ blyun.com
 bmac.com.cn
 bobbns.com
 bobo.com
+boce.com
 bochaai.com
 boe.com
 boe.com.cn
@@ -845,6 +852,7 @@ cfzq.com
 cgames.com
 cgbchina.com.cn
 cgws.com
+cgyouxi.com
 ch.com
 chachaba.com
 chaindd.com
@@ -1014,6 +1022,7 @@ cnanzhi.com
 cnb.cool
 cnbksy.com
 cnblogs.com
+cnblogs.vip
 cnepub.com
 cnfol.com
 cnfolimg.com
@@ -1101,6 +1110,8 @@ cqsjb.com
 cqvip.com
 cr-cts.com
 cr173.com
+cravatar.cn
+cravatar.com
 crggcn.com
 crscm.com
 crsky.com
@@ -1293,6 +1304,8 @@ dianzhenkeji.com
 dicos.com.cn
 dict.cn
 dida365.com
+didachuxing.com
+didapinche.com
 diiing.cn
 dingdachuxing.com
 dingdatech.com
@@ -1519,6 +1532,7 @@ f.cx
 fa-part.com
 faasapp.cn
 faasdev.cn
+faceid.com
 fadfunds.com
 faloo.com
 famulei.com
@@ -1855,6 +1869,7 @@ gugudata.com
 guigu.org
 guodu.com
 guoguo-app.com
+guojibk.com
 guokr.com
 guokr.net
 guoocang.com
@@ -1884,6 +1899,7 @@ gzwanju.com
 gzyowin.com
 h5uc.com
 hack520.com
+hackernews.cc
 hackhome.com
 hackinn.com
 hacl.cn
@@ -2514,6 +2530,7 @@ keepcdn.com
 kejet.net
 kekeniu.com
 kemen.cn
+keniu.com
 kepuchina.cn
 keruyun.com
 kesong.co
@@ -2537,6 +2554,7 @@ kingsoft.com
 kiwa-tech.com
 kiyuu.club
 kjcdn.com
+kjrb.com.cn
 kjwugx.com
 kk1.vip
 kkmh.com
@@ -3062,6 +3080,7 @@ n0q.cn
 nadianshi.com
 nagcloudcs.com
 naixuecha.com
+nalrer.cn
 namiso.com
 nanhaicorp.com
 nanyuenews.com
@@ -3197,6 +3216,7 @@ onlinesjtu.com
 onlylady.com
 oojsq.com
 opdown.com
+open-douyin.com
 openjudge.cn
 openkylin.top
 openlearning.com
@@ -3486,6 +3506,7 @@ roomeet.cn
 route53.cn
 routewize.com
 rqnoj.cn
+rrmj.plus
 rt-mart.com.cn
 rtbasia.com
 ruan8.com
@@ -3494,6 +3515,7 @@ ruby-china.org
 rubyconfchina.org
 ruguoapp.com
 ruiwen.com
+runningcheese.com
 runoob.com
 ruseer.com
 rwkv.cn
@@ -3726,6 +3748,7 @@ staticfile.net
 staticfile.org
 statickksmg.com
 stcn.com
+stdaily.com
 steam302.xyz
 steampp.net
 sto-express.cn
@@ -3931,6 +3954,7 @@ tobosu.com
 todesk.cn
 todesk.com
 tokyotrial.cn
+tol.vip
 tom.com
 tongdun.net
 tongfangpc.com
@@ -4121,6 +4145,7 @@ vobao.com
 voc.com.cn
 voicecloud.cn
 vpgame.com
+vpsvs.com
 vrzwk.cn
 vrzwk.com
 vrzwk.net
@@ -4165,6 +4190,7 @@ webank.com
 webankcdn.net
 webgame163.com
 webmasterhome.cn
+webportal.top
 webterren.com
 wegame.com
 wegame.com.cn
@@ -4185,6 +4211,7 @@ wenjuan.com
 wenkeju.com
 wenkub.com
 wenmingban.com
+wenpai.org
 wenshushu.cn
 wenshushu.com
 wenwo.com
@@ -4209,6 +4236,7 @@ win7china.com
 win8.net
 win8china.com
 wind.com.cn
+windfonts.com
 windows10zj.com
 windows7en.com
 windowszj.com
@@ -4242,6 +4270,7 @@ wonnder.com
 woodo.cn
 wooyun.org
 woozooo.com
+workercn.cn
 worktile.com
 worldofship.cn
 worldoftank.cn
@@ -4254,6 +4283,7 @@ wowsgame.cn
 woxihuan.com
 woyaogexing.com
 woyoo.com
+wpcy.com
 wps.cn
 wps.com
 wpscdn.cn
@@ -4490,6 +4520,7 @@ yixi.tv
 yiyouliao.com
 yizhibo.com
 yjbys.com
+yjwujian.cn
 yksdks.com
 ykzq.com
 yl-scm.com
@@ -4599,6 +4630,7 @@ yunnan.cn
 yunpan.aliyun.com
 yunpan.cn
 yunpan.com
+yunpian.com
 yunqishi.net
 yunshipei.com
 yunxiao.com
@@ -4620,6 +4652,7 @@ yxwsgame.com
 yy.com
 yyds.co
 yyshub.top
+yysls.cn
 yystatic.com
 yystv.cn
 yytcdn.com
