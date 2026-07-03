@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: rksk102
-# Date: 2026-07-02 19:31:47
+# Date: 2026-07-03 09:02:53
 # Mode: DOMAIN
-# Count: 26115 (Raw: 26742) | Dedup: -627
+# Count: 26117 (Raw: 26745) | Dedup: -628
 # Desc: 代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -5828,6 +5828,7 @@ coomer.su
 coova.com
 coova.net
 coova.org
+copilot.com
 copro.pw
 copy-manga.com
 copy20.com
@@ -24188,6 +24189,7 @@ webpass.net
 webpkgcache.com
 webrtc.org
 websdr.org
+webshare.io
 website.new
 webtoons.com
 webtoonscorp.com
