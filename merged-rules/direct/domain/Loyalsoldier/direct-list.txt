@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-07-04 19:30:05
+# Date: 2026-07-05 09:01:30
 # Mode: DOMAIN
-# Count: 112078 (Raw: 112225) | Dedup: -147
+# Count: 112077 (Raw: 112226) | Dedup: -149
 # Desc: 自动透传自 direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -32600,7 +32600,6 @@ embryform.com
 embryochina.com
 embsky.com
 emby.men
-emby.yun
 embyvip.org
 emcbj.com
 emcdir.com

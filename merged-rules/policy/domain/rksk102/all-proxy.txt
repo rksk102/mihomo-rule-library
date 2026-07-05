@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: rksk102
-# Date: 2026-07-04 19:30:05
+# Date: 2026-07-05 09:01:30
 # Mode: DOMAIN
-# Count: 26117 (Raw: 26745) | Dedup: -628
+# Count: 26120 (Raw: 26748) | Dedup: -628
 # Desc: 代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -1895,6 +1895,7 @@ apple-pay.rs
 apple-pay.wang
 apple-store.net
 apple-store.wang
+apple-studies.com
 apple-usa.net
 apple-watch.com.ru
 apple.ae
@@ -2397,6 +2398,7 @@ atlasonepoint.com
 atlassian-dev.net
 atlassian.com
 atlassian.net
+atmeta.com
 atnext.com
 atokara.jp
 atom.io
@@ -2774,6 +2776,7 @@ azbukainterneta.ru
 aziani.com
 azirevpn.com
 aznude.com
+azure-api.net
 azure-devices-int.net
 azure-devices.net
 azure-dns.com
@@ -2811,6 +2814,7 @@ azureplanetscale.net
 azureserviceprofiler.com
 azuresmartspaces.net
 azurestackvalidation.com
+azurestaticapps.net
 azurewebsites.net
 b-cdn.net
 b-eroland.net
@@ -12180,7 +12184,6 @@ infrapedia.com
 infraworks.com
 infura.io
 ingads.com
-ingest.apple-studies.com
 ingka.com
 ingka.dev
 ingkacentres.com

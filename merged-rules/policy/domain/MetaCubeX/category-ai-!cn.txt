@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-07-04 19:30:05
+# Date: 2026-07-05 09:01:30
 # Mode: DOMAIN
-# Count: 162 (Raw: 162)
+# Count: 163 (Raw: 163)
 # Desc: 自动透传自 policy/domain/MetaCubeX/category-ai-!cn.txt
 # ----------------------------------------
 agentclientprotocol.com
@@ -56,6 +56,7 @@ copilot-proxy.githubusercontent.com
 copilot-telemetry-service.githubusercontent.com
 copilot-telemetry.githubusercontent.com
 copilot-workspace.githubnext.com
+copilot.cloud.microsoft
 copilot.com
 copilot.microsoft.com
 copilotprodattachments.blob.core.windows.net
