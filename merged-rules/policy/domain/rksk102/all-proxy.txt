@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: rksk102
-# Date: 2026-07-06 19:34:52
+# Date: 2026-07-07 09:05:20
 # Mode: DOMAIN
-# Count: 26120 (Raw: 26748) | Dedup: -628
+# Count: 26122 (Raw: 26750) | Dedup: -628
 # Desc: 代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -17546,6 +17546,8 @@ patreoncommunity.com
 patreonusercontent.com
 paulsimon-music.com
 pavpal.com
+pawchive.pw
+pawchive.st
 pawoo.net
 paxful.com
 paxlicense.org
