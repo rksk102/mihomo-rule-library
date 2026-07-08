@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-07-07 19:34:39
+# Date: 2026-07-08 08:51:52
 # Mode: DOMAIN
-# Count: 4831 (Raw: 4839) | Dedup: -8
+# Count: 4850 (Raw: 4858) | Dedup: -8
 # Desc: 自动透传自 direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -505,6 +505,7 @@ anytocopy.com
 anywlan.com
 anzhuo.cn
 aocde.com
+aorizon.cn
 aoshu.com
 aotrip.net
 aoyou.com
@@ -989,6 +990,7 @@ ciweimao.com
 cjjd19.com
 cjol.com
 cjsc.com
+cjyun.org
 ckd.im
 ckxx.net
 clawhub-mirror.com
@@ -1938,6 +1940,8 @@ haowenti.net
 haoyouyinxiang.com
 hapjs.org
 happyhlddz.com
+happyhorse.cn
+happyshrimp.cn
 harmonyos.com
 haydaypop.cn
 hazq.com
@@ -2132,6 +2136,7 @@ hxnews.com
 hxsd.com
 hxzq.cn
 hybiome.com
+hydun.com
 hypercachenode.com
 hytung.cn
 hzdtv.tv
@@ -2811,6 +2816,7 @@ loongair.cn
 lorhf.com
 lotpc.com
 loupan.com
+lovestu.com
 lppz.com
 lppzimg.com
 lrts.me
@@ -3129,6 +3135,8 @@ ngacn.cc
 nicaifu.com
 nihaoafrica.org
 nihaorwanda.cn
+nikkigames.cn
+nikkigames.com.cn
 ningtingche.com
 nio.cn
 nio.com
@@ -3256,6 +3264,8 @@ paidui.com
 paipaibang.com
 pan.quark.cn
 paopaoche.net
+papegames.cn
+papegames.com
 papocket.com
 paydxm.com
 pc6.com
@@ -3678,6 +3688,7 @@ skydweller.cn
 skypixel.com
 skywt.cn
 sl916.com
+sleeplesshorizon.cn
 slk1.net
 sllssrq.com
 smartapps.cn
@@ -3842,6 +3853,7 @@ talk-cloud.net
 talkingdata.com
 talkinggame.com
 tangeche.com
+tanwan.com
 tao123.com
 taoche.com
 taodocs.com
@@ -4013,6 +4025,8 @@ tvcc.com.cn
 tvmao.com
 tvzhe.com
 twscholar.com
+twyx.cn
+twyxh.com
 txrjy.com
 u-cdn.net
 u.tools
@@ -4140,6 +4154,7 @@ vip.com
 vipbcw.com
 vipexam.org
 vipstatic.com
+vistopia.com.cn
 viviv.com
 vobao.com
 voc.com.cn
@@ -4423,6 +4438,7 @@ xoyocdn.com
 xpccdn.com
 xpgod.com
 xqfunds.com
+xrbk.cn
 xsa239.com
 xsbapp.cn
 xsdzq.cn
@@ -4481,6 +4497,8 @@ yeepay.com
 yeshen.com
 yeshj.com
 yesky.com
+yeyou.com
+yeyoucdn.com
 yfcache.com
 yfcalc.com
 yfcdn.net
@@ -4827,6 +4845,7 @@ zuowenwang.net
 zuoyebang.cc
 zuoyebang.com
 zway.top
+zx.com
 zxhgroup.com
 zxsales.cn
 zxxk.com

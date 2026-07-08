@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-07-07 19:34:40
+# Date: 2026-07-08 08:51:52
 # Mode: DOMAIN
-# Count: 112077 (Raw: 112226) | Dedup: -149
+# Count: 112079 (Raw: 112228) | Dedup: -149
 # Desc: 自动透传自 direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -91391,6 +91391,7 @@ twtstudio.com
 twty.vip
 twwtn.com
 twyuxin.com
+twyxh.com
 twyxi.com
 twzilla.com
 twzui6.com
@@ -111604,6 +111605,7 @@ zwzsh.net
 zwzyzx.com
 zx-tour.com
 zx-xcx.com
+zx.com
 zx0093.com
 zx017.com
 zx017.net
