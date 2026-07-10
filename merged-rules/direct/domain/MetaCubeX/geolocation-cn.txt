@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-07-09 19:33:43
+# Date: 2026-07-10 09:04:42
 # Mode: DOMAIN
-# Count: 4850 (Raw: 4858) | Dedup: -8
+# Count: 4866 (Raw: 4874) | Dedup: -8
 # Desc: 自动透传自 direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -565,6 +565,7 @@ b612kaji.com
 babytree.com
 babytreeimg.com
 badou.com
+baicaf.com
 baichuan-ai.com
 baicizhan.com
 baicizhan.org
@@ -1261,6 +1262,7 @@ dcdapp.com
 dcdkjx.com
 dcloud.io
 dcloud.net.cn
+dcshfu.com
 dd373.com
 ddcorp.net
 ddfresh.net
@@ -1771,6 +1773,7 @@ ggkuai.com
 ghsl.cn
 ghxi.com
 ghzq.com.cn
+gifpay.com
 gifshow.com
 gijsq.com
 gio.ren
@@ -2054,6 +2057,7 @@ houyicaiji.com
 houyuantuan.com
 howbuy.com
 hpplay.cn
+hprtupgrade.com
 hqchip.com
 hqdoc.com
 hqpcb.com
@@ -2233,6 +2237,7 @@ imooc.com
 imsyy.com
 in.th
 incopat.com
+indeedpower.com
 indienova.com
 inewsweek.cn
 infineon.cn
@@ -2258,6 +2263,7 @@ ipanda.net
 ipchaxun.com
 ipchaxun.net
 iplaysoft.com
+iposl.com
 ipplus360.com
 iprdp.net
 iprintworks.cn
@@ -2785,6 +2791,7 @@ linliyz.com
 linsn.com
 linuxidc.com
 liqucn.com
+listenai.com
 litessl.cn
 litessl.com
 liulanqi.net
@@ -2832,6 +2839,7 @@ lufax.com
 lufaxcdn.com
 lufunds.com
 luhua.cn
+lulian.cn
 lunwengo.net
 luogu.com.cn
 luojilab.com
@@ -2962,6 +2970,7 @@ miaopai.com
 miaotixing.com
 miaoyanai.com
 miaozhen.com
+micun.com
 midasbuy.com
 midea.cn
 midea.com
@@ -3076,6 +3085,7 @@ mysiteres.com
 mysqil.com
 myssl-uri.com
 myssl.com
+mystery0.vip
 mysxl.cn
 myypark.com
 myyx618.com
@@ -3614,6 +3624,7 @@ shangyexinzhi.com
 shangzhibo.tv
 shanshuihotel.com
 shanxijianzhuzizhi.com
+share123.top
 shareintelli.com
 sharejs.com
 sharesdk.cn
@@ -3889,6 +3900,7 @@ texasholdemcup.com
 texasholdemcup.net
 tfzq.com
 tgbus.com
+tggfl.com
 tgpro.top
 tgprocs.net
 th-music.com
@@ -3904,6 +3916,7 @@ thinkpad.com
 thinkprinter.cn
 thinkprinter.com.cn
 thinkprinter.net
+thispx.com
 thmnet.com
 threatbook.cn
 threatbook.com
@@ -3960,6 +3973,7 @@ tmjiasuqi.com
 tmtpost.com
 tmtsmartlife.com
 tmtsmartrun.com
+tmwanba.com
 tnettms.com
 to8to.com
 tobosu.com
@@ -4071,6 +4085,8 @@ udesk.cn
 uewaf.com
 ufileos.com
 uggame.com
+ugnas.cloud
+ugnas.com
 ugslb.cn
 ugslb.com
 ugslb.info
