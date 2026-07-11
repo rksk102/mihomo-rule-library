@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-07-10 19:31:56
+# Date: 2026-07-11 08:33:59
 # Mode: DOMAIN
-# Count: 4866 (Raw: 4874) | Dedup: -8
+# Count: 4867 (Raw: 4875) | Dedup: -8
 # Desc: 自动透传自 direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -399,6 +399,7 @@ activity-wbsj.com
 activity-zhendingtech.com
 acwifi.net
 acwing.com
+adacpp.com
 admin5.com
 admincdn.com
 adxvip.com
