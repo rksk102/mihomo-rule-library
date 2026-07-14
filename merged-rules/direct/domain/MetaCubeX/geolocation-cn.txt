@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-07-13 19:31:31
+# Date: 2026-07-14 08:43:28
 # Mode: DOMAIN
-# Count: 4911 (Raw: 4919) | Dedup: -8
+# Count: 4913 (Raw: 4921) | Dedup: -8
 # Desc: 自动透传自 direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -1421,6 +1421,7 @@ duiba.com.cn
 duifene.com
 duiopen.com
 duitang.com
+dulupay.com
 dumate.cn
 duoduocdn.com
 duomai.com
@@ -4734,6 +4735,7 @@ yystatic.com
 yystv.cn
 yytcdn.com
 yzcdn.cn
+yzsgo.com
 yzwb.net
 yzyxgame.com
 z-bank.com

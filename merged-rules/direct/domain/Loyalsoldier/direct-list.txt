@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-07-13 19:31:32
+# Date: 2026-07-14 08:43:28
 # Mode: DOMAIN
-# Count: 112021 (Raw: 112172) | Dedup: -151
+# Count: 112023 (Raw: 112174) | Dedup: -151
 # Desc: 自动透传自 direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -30829,6 +30829,7 @@ duliangaotu.com
 dulife.com
 dulifei.com
 dullr.com
+dulupay.com
 dulwich.org
 dumall.com
 dumanhua.com
@@ -107169,6 +107170,7 @@ yzs.com
 yzs.io
 yzsbh.com
 yzsfuer.com
+yzsgo.com
 yzshkjxx.com
 yzshyzz.com
 yzsljz.com

@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-07-13 19:31:31
+# Date: 2026-07-14 08:43:28
 # Mode: DOMAIN
-# Count: 163 (Raw: 163)
+# Count: 164 (Raw: 164)
 # Desc: 自动透传自 policy/domain/MetaCubeX/category-ai-!cn.txt
 # ----------------------------------------
 agentclientprotocol.com
@@ -29,6 +29,7 @@ cerebras.ai
 chat.com
 chatgpt.com
 chatgpt.livekit.cloud
+chatgpt.site
 chutes.ai
 cici.com
 ciciai.com

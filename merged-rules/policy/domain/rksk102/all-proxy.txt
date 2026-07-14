@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: rksk102
-# Date: 2026-07-13 19:31:31
+# Date: 2026-07-14 08:43:28
 # Mode: DOMAIN
-# Count: 26145 (Raw: 26773) | Dedup: -628
+# Count: 26142 (Raw: 26770) | Dedup: -628
 # Desc: 代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -1306,7 +1306,6 @@ alefbank.com
 alexa.com
 alexanderstreet.com
 alfa.me
-alfabank.oavdo.amc
 alfabank.ru
 alfabank.st
 alfadirect.ru
@@ -5200,6 +5199,7 @@ chat.lmsys.org
 chatango.com
 chatgpt.com
 chatgpt.livekit.cloud
+chatgpt.site
 chatgptvideo.xyz
 chatgptvideob.buzz
 chatpdf.com
@@ -13467,6 +13467,7 @@ khatrimaza.org
 khotruyentranhx.com
 kichiku-doujinko.com
 kichikuou.com
+kick.com
 kickporn.com
 kickshatchannel.com
 kicksnike1.com
@@ -18610,10 +18611,6 @@ ppy.sh
 practicalbusinessskills.com
 practicalmoneyskills.ca
 practicalmoneyskills.jp
-practivate.adobe
-practivate.adobe.ipp
-practivate.adobe.newoa
-practivate.adobe.ntp
 prastitutki.ru
 prayforchina.net
 prcleader.org
