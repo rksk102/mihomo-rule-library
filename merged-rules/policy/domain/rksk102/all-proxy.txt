@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: rksk102
-# Date: 2026-07-14 19:31:48
+# Date: 2026-07-15 08:46:45
 # Mode: DOMAIN
-# Count: 26142 (Raw: 26770) | Dedup: -628
+# Count: 26158 (Raw: 26805) | Dedup: -647
 # Desc: 代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -1017,6 +1017,7 @@ afreecatv.com
 afriboyz.com
 aga-expo.com
 agag.tw
+agb9r0ad.qllfkl.com
 agdbank.com
 age.tv
 agedm.app
@@ -4291,6 +4292,7 @@ bnext.com.tw
 bnn.co
 bnrmetal.com
 bntrace.com
+bnxz.net
 boardreader.com
 boboporn.com
 boboporn.net
@@ -4734,6 +4736,7 @@ bynet.co.il
 bypasscensorship.org
 byrut.org
 byspotify.com
+bystys.tech
 bytedapm.com
 byteoversea.com
 bytick.com
@@ -10665,6 +10668,7 @@ hayabusa.media
 hayday.com
 haydaygame.com
 hayya.ae
+hb4bbbbb.pmhcjk.com
 hbabit.com
 hbfile.net
 hbg.com
@@ -13892,7 +13896,14 @@ lightyearvpn.com
 lih.kg
 lihkg.com
 lihksnap.com
+like-video.com
 like.com
+like.video
+likee.com
+likee.video
+likeeapp.ru
+likeevideo.com
+likeevideo.ru
 likeseiyu.com
 liketruyen.net
 liketwice.com
@@ -16128,6 +16139,7 @@ navyfamily.navy.mil
 navyreserve.navy.mil
 naydex.net
 nbabot.net
+nbbb1bb7.pmhcjk.com
 nbc.co
 nbc.com
 nbcnews.com
@@ -17402,6 +17414,7 @@ ovpn.com
 ow.ly
 owl.li
 owltail.com
+owxd.xyz
 oxfordaasc.com
 oxfordartonline.com
 oxfordbibliographies.com
@@ -18865,6 +18878,7 @@ pzhanfor.today
 q10.jp
 q13.com
 q13fox.com
+q676790b.pmhcjk.com
 qatarescortsvip.com
 qattdh.cc
 qattdh.top
@@ -23036,6 +23050,7 @@ uwants.com
 uweb.ru
 uwpcommunitytoolkit.com
 uxthemes.com
+uxzw.club
 uyghur-j.org
 uyghuraa.org
 uyghuramerican.org
@@ -25893,6 +25908,7 @@ yt.be
 ytimg.com
 ytn.co.kr
 yuanming.net
+yucf.top
 yuenuge113.xyz
 yuenuge18.cc
 yugioh-card.com

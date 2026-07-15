@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-07-14 19:31:48
+# Date: 2026-07-15 08:46:45
 # Mode: DOMAIN
-# Count: 4913 (Raw: 4921) | Dedup: -8
+# Count: 4921 (Raw: 4929) | Dedup: -8
 # Desc: 自动透传自 direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -1747,6 +1747,7 @@ ganji.com
 ganjiangvpn.com
 ganjistatic1.com
 gaodun.com
+gaojidata.com
 gaokao.com
 gaoshouyou.com
 gaoxiaojob.com
@@ -1912,6 +1913,7 @@ gxb.io
 gxtv.cn
 gxxmt.com
 gyzq.com.cn
+gzasc.com
 gzcqs.com
 gzctyiptv.cn
 gzlzfm.com
@@ -3516,6 +3518,8 @@ quklive.com
 qunjielong.com
 qunliao.info
 quyaoya.com
+qwapp.top
+qwdjapp.com
 qweather.com
 qweather.net
 qweatherapi.com
@@ -3562,6 +3566,8 @@ route53.cn
 routewize.com
 rqnoj.cn
 rrmj.plus
+rrsp.app
+rrsp.com.cn
 rsscc.cn
 rt-mart.com.cn
 rtbasia.com
@@ -4262,6 +4268,7 @@ webank.com
 webankcdn.net
 webgame163.com
 webmasterhome.cn
+weboss.hk
 webportal.top
 webterren.com
 wegame.com
@@ -4570,6 +4577,7 @@ yh31.com
 yhfund.com.cn
 yicai.com
 yiche.com
+yichengwlkj.com
 yigao.com
 yigoonet.com
 yihaikerry.net.cn
