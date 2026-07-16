@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-07-15 19:29:39
+# Date: 2026-07-16 08:46:10
 # Mode: DOMAIN
-# Count: 164 (Raw: 164)
+# Count: 166 (Raw: 166)
 # Desc: 自动透传自 policy/domain/MetaCubeX/category-ai-!cn.txt
 # ----------------------------------------
 agentclientprotocol.com
@@ -54,6 +54,7 @@ comfy.org
 comfyci.org
 comfyregistry.org
 copilot-proxy.githubusercontent.com
+copilot-stg.com
 copilot-telemetry-service.githubusercontent.com
 copilot-telemetry.githubusercontent.com
 copilot-workspace.githubnext.com
@@ -82,6 +83,7 @@ elevenlabs.io
 envato-static.com
 envato.com
 envatousercontent.com
+flow.google
 gateway.ai.cloudflare.com
 geller-pa.googleapis.com
 gemini.google

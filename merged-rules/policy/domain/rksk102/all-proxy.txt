@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: rksk102
-# Date: 2026-07-15 19:29:38
+# Date: 2026-07-16 08:46:10
 # Mode: DOMAIN
-# Count: 26158 (Raw: 26805) | Dedup: -647
+# Count: 26161 (Raw: 26808) | Dedup: -647
 # Desc: 代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -2805,6 +2805,7 @@ azuredns-prd.info
 azuredns-prd.org
 azureedge-test.net
 azureedge.net
+azureedge.us
 azurefd.net
 azureiotcentral.com
 azureiotsolutions.com
@@ -5838,6 +5839,7 @@ coomer.su
 coova.com
 coova.net
 coova.org
+copilot-stg.com
 copilot.com
 copro.pw
 copy-manga.com
@@ -14854,6 +14856,7 @@ mgstage.com
 mh4u.org
 mhcb.ru
 mhcbr.ru
+mhgui.com
 mhhanman.xyz
 mhqwe.xyz
 mhradio.org
@@ -21182,6 +21185,7 @@ starfieldtech.com
 starfox.com
 stargazer-games.com
 stark-verlag.ch
+starlink.com
 starott.com
 starp2p.com
 starplus.com
@@ -21819,7 +21823,6 @@ terobox.com
 terraform.io
 terragraph.com
 terrapeak.com
-tesla-cdn.thron.com
 tesla.com
 tesla.services
 teslaenergy.services

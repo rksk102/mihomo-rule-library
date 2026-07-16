@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-07-15 19:29:39
+# Date: 2026-07-16 08:46:10
 # Mode: DOMAIN
-# Count: 111809 (Raw: 111960) | Dedup: -151
+# Count: 111808 (Raw: 111959) | Dedup: -151
 # Desc: 自动透传自 direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -88460,7 +88460,6 @@ tesexiu.com
 teshenqi.com
 tesight.com
 tesiro.com
-tesla-cdn.thron.cn
 tesolsh.com
 tesoon.com
 test-cignacmb.com
