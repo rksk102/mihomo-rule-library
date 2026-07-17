@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-07-16 19:28:52
+# Date: 2026-07-17 08:43:15
 # Mode: DOMAIN
-# Count: 4921 (Raw: 4929) | Dedup: -8
+# Count: 4923 (Raw: 4931) | Dedup: -8
 # Desc: 自动透传自 direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -518,6 +518,7 @@ aotrip.net
 aoyou.com
 apabi.com
 api-building.fun
+api.blipsandchitz.me
 apifox.cn
 apifox.com
 apimkt.net
@@ -2083,6 +2084,7 @@ hqchip.com
 hqdoc.com
 hqpcb.com
 hrsec.com.cn
+hrsecn.com
 hsbc.com.cn
 hsbcinsurance.com.cn
 hsbcqh.com.cn
