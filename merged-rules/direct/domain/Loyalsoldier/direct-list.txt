@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-07-17 19:27:32
+# Date: 2026-07-18 08:33:41
 # Mode: DOMAIN
-# Count: 111818 (Raw: 111969) | Dedup: -151
+# Count: 111819 (Raw: 111970) | Dedup: -151
 # Desc: 自动透传自 direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -67478,6 +67478,7 @@ mychuguan.com
 mychunyan.net
 myckjr.com
 mycleanmymac.com
+mycloudnas.com
 mycloudstudy.com
 myclub2.com
 mycnc.org

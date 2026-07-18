@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: rksk102
-# Date: 2026-07-17 19:27:31
+# Date: 2026-07-18 08:33:40
 # Mode: DOMAIN
-# Count: 26162 (Raw: 26809) | Dedup: -647
+# Count: 26163 (Raw: 26810) | Dedup: -647
 # Desc: 代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -18916,6 +18916,7 @@ qmov.net
 qmp4.com
 qmttqg3k.me
 qnap.com
+qnapsupport.net
 qobuz.com
 qoder.com
 qombol.com
