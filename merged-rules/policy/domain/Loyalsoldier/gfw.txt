@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-07-18 19:25:56
+# Date: 2026-07-19 08:46:26
 # Mode: DOMAIN
-# Count: 4325 (Raw: 4361) | Dedup: -36
+# Count: 4326 (Raw: 4362) | Dedup: -36
 # Desc: 自动透传自 policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -22,6 +22,7 @@
 173ng.com
 18board.com
 18comic.org
+18comic.vip
 18mh.net
 1984bbs.com
 1991way.com
