@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-07-21 19:31:53
+# Date: 2026-07-22 08:52:36
 # Mode: DOMAIN
-# Count: 4328 (Raw: 4364) | Dedup: -36
+# Count: 4329 (Raw: 4365) | Dedup: -36
 # Desc: 自动透传自 policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -4289,6 +4289,7 @@ zdnet.com.tw
 zello.com
 zenmate.com
 zenmate.com.ru
+zenmux.ai
 zerohedge.com
 zeronet.io
 zh-hans.cfsh99.com

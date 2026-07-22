@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: rksk102
-# Date: 2026-07-21 19:31:53
+# Date: 2026-07-22 08:52:35
 # Mode: DOMAIN
-# Count: 26172 (Raw: 26821) | Dedup: -649
+# Count: 26173 (Raw: 26822) | Dedup: -649
 # Desc: 代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -26023,6 +26023,7 @@ zenit.ru
 zenlesszonezero.com
 zenmate.com
 zenmate.com.ru
+zenmux.ai
 zenodo.org
 zeplin.dev
 zeplin.io

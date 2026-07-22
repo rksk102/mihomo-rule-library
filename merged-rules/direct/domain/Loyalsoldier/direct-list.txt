@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-07-21 19:31:53
+# Date: 2026-07-22 08:52:36
 # Mode: DOMAIN
-# Count: 111876 (Raw: 112027) | Dedup: -151
+# Count: 111880 (Raw: 112031) | Dedup: -151
 # Desc: 自动透传自 direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -19535,6 +19535,7 @@ cd-wx.net
 cd-zc.com
 cd00c44f211031.beer
 cd120.com
+cd120.info
 cd12371.com
 cd1958.com
 cd20.net
@@ -66584,6 +66585,7 @@ moe233.org
 moe321.com
 moeclub.org
 moedot.net
+moedu.com
 moeelf.com
 moefactory.com
 moefantasy.com
@@ -90644,6 +90646,7 @@ tsingoofoods.com
 tsingpost.com
 tsingshang.com
 tsingtek.com
+tsingtengms.com
 tsingtoo.com
 tsingtuo.com
 tsingyangroup.com
@@ -98287,6 +98290,7 @@ xcxwo.com
 xcxymw.com
 xcxzww.com
 xcyg.net
+xcz.im
 xczhmzb.com
 xczhsh.com
 xczim.com
