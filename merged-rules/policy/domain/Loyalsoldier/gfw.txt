@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-07-22 19:31:40
+# Date: 2026-07-23 08:52:35
 # Mode: DOMAIN
-# Count: 4329 (Raw: 4365) | Dedup: -36
+# Count: 4330 (Raw: 4366) | Dedup: -36
 # Desc: 自动透传自 policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -3630,6 +3630,7 @@ to-porno.com
 togetter.com
 token.im
 tokenlon.im
+tokenplus.app
 tokyo-porn-tube.com
 tokyocn.com
 tomp3.cc

@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: rksk102
-# Date: 2026-07-22 19:31:39
+# Date: 2026-07-23 08:52:35
 # Mode: DOMAIN
-# Count: 26173 (Raw: 26822) | Dedup: -649
+# Count: 26174 (Raw: 26823) | Dedup: -649
 # Desc: 代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -22299,6 +22299,7 @@ tohoku-bank.co.jp
 tok.media
 token.im
 tokenlon.im
+tokenplus.app
 tokyo-hot.com
 tokyo-porn-tube.com
 tokyo-sports.co.jp
