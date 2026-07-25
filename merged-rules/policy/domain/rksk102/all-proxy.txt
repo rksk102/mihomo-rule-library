@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: rksk102
-# Date: 2026-07-24 19:31:16
+# Date: 2026-07-25 19:27:39
 # Mode: DOMAIN
-# Count: 26174 (Raw: 26823) | Dedup: -649
+# Count: 26179 (Raw: 26828) | Dedup: -649
 # Desc: 代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -5422,6 +5422,7 @@ cinemax.com
 cinepornogratis.com
 cinny.in
 cios.org
+circle19.org
 cirosantilli.com
 cisco-returns.com
 cisco-warrantyfinder.com
@@ -6942,6 +6943,7 @@ doclercdn.com
 docs.com
 docs.new
 docs.rs
+docs.rw
 doctor-videos.com
 documentforce.com
 documentingreality.com
@@ -13378,6 +13380,7 @@ kaotic.com
 karabako-gmo.com
 karafarinbank.ir
 karayou.com
+kards.com
 karechat.ai
 karger.com
 karinahart.com
@@ -14056,6 +14059,7 @@ localizestatus.com
 localpresshk.com
 localxlist.org
 lockestek.com
+log.rw
 logi.com
 logicool.co.jp
 logicoolg.com
@@ -22526,6 +22530,7 @@ truyenhentai.xyz
 truyenkk1.com
 truyentranh86.com
 truyenwk.com
+try.rw
 tryalias.com
 tryboobs.com
 trycloudflare.com
