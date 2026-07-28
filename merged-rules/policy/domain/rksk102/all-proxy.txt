@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: rksk102
-# Date: 2026-07-27 19:32:00
+# Date: 2026-07-28 08:54:58
 # Mode: DOMAIN
-# Count: 26179 (Raw: 26828) | Dedup: -649
+# Count: 26181 (Raw: 26830) | Dedup: -649
 # Desc: 代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -9897,6 +9897,7 @@ githubhackathon.com
 githubnext.com
 githubpreview.dev
 githubstatus.com
+githubsupport.com
 githubuniverse.com
 githubusercontent.com
 gitlab-assets.oss-cn-hongkong.aliyuncs.com
@@ -22531,6 +22532,7 @@ truyenkk1.com
 truyentranh86.com
 truyenwk.com
 try.rw
+tryai.dev
 tryalias.com
 tryboobs.com
 trycloudflare.com
