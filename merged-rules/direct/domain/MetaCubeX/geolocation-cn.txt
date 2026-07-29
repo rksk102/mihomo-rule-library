@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-07-28 19:32:20
+# Date: 2026-07-29 08:57:14
 # Mode: DOMAIN
-# Count: 4983 (Raw: 4991) | Dedup: -8
+# Count: 4984 (Raw: 4992) | Dedup: -8
 # Desc: 自动透传自 direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -4547,6 +4547,7 @@ xkb.com.cn
 xkw.com
 xmcdn.com
 xmhouse.com
+xmoj.tech
 xn--fiq53l6wcx3kp9bc7joo6apn8a.cn
 xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s
 xn--fiq53l90et9fpncc7joo6apn8a.cn

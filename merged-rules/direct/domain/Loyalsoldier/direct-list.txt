@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-07-28 19:32:20
+# Date: 2026-07-29 08:57:14
 # Mode: DOMAIN
-# Count: 111880 (Raw: 112031) | Dedup: -151
+# Count: 111881 (Raw: 112032) | Dedup: -151
 # Desc: 自动透传自 direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -100663,6 +100663,7 @@ xmmtu.com
 xmmuye.com
 xmnjdwx.com
 xmocloud01.com
+xmoj.tech
 xmonecode.com
 xmos.tv
 xmov.ai
