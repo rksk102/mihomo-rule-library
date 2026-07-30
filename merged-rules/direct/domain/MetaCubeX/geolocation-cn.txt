@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-07-29 19:30:50
+# Date: 2026-07-30 08:54:24
 # Mode: DOMAIN
-# Count: 4984 (Raw: 4992) | Dedup: -8
+# Count: 4985 (Raw: 4993) | Dedup: -8
 # Desc: 自动透传自 direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -2882,6 +2882,7 @@ lrts.me
 ls66.cn
 lsplayer.com
 lu.com
+lubiao.wiki
 luckincoffeecdn.com
 luckyair.net
 ludashi.com
