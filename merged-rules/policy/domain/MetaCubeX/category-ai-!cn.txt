@@ -2,7 +2,7 @@
 # Strategy: policy
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-07-31 09:01:00
+# Date: 2026-08-01 08:45:55
 # Mode: DOMAIN
 # Count: 167 (Raw: 167)
 # Desc: 自动透传自 policy/domain/MetaCubeX/category-ai-!cn.txt
