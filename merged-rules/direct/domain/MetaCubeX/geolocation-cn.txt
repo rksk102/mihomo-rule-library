@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-08-01 19:27:10
+# Date: 2026-08-02 08:46:53
 # Mode: DOMAIN
-# Count: 5137 (Raw: 5145) | Dedup: -8
+# Count: 5138 (Raw: 5146) | Dedup: -8
 # Desc: 自动透传自 direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -1160,6 +1160,7 @@ cqliving.com
 cqn.com.cn
 cqnews.net
 cqsjb.com
+cqtk.com.cn
 cqvip.com
 cr-cts.com
 cr173.com

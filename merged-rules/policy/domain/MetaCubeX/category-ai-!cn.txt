@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-08-01 19:27:11
+# Date: 2026-08-02 08:46:54
 # Mode: DOMAIN
-# Count: 167 (Raw: 167)
+# Count: 171 (Raw: 171)
 # Desc: 自动透传自 policy/domain/MetaCubeX/category-ai-!cn.txt
 # ----------------------------------------
 agentclientprotocol.com
@@ -92,6 +92,8 @@ gemini.gstatic.com
 generativeai.google
 generativelanguage.googleapis.com
 githubcopilot.com
+grazie.ai
+grazie.aws.intellij.net
 grok.com
 grok.x.com
 grokipedia.com
@@ -102,6 +104,7 @@ hf.space
 host.livekit.cloud
 huggingface.co
 jasper.ai
+jetbrains.ai
 jules.google
 jules.google.com
 kiro.dev
@@ -121,6 +124,7 @@ midjourney.com
 minimax.io
 mistral.ai
 mozilla.ai
+notebook.google.com
 notebooklm-pa.googleapis.com
 notebooklm.google
 notebooklm.google.com

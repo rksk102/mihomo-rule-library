@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: rksk102
-# Date: 2026-08-01 19:27:10
+# Date: 2026-08-02 08:46:53
 # Mode: DOMAIN
-# Count: 26209 (Raw: 26859) | Dedup: -650
+# Count: 26220 (Raw: 26870) | Dedup: -650
 # Desc: 代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -735,6 +735,7 @@ acrobat.com
 acs.org
 actalis.com
 actalis.it
+actifio.com
 activelearnprimary.co.uk
 activelearnprimary.com.au
 activematter.game
@@ -13093,7 +13094,10 @@ jessicaturner.com
 jetbrains.ai
 jetbrains.cloud
 jetbrains.com
+jetbrains.dev
 jetbrains.net
+jetbrains.org
+jetbrains.ru
 jetbrains.space
 jetbrains.team
 jetfuelapp.com
@@ -13647,6 +13651,8 @@ korewaeroi.com
 korona.com
 koshelek.app
 kostenlosepornoclips.com
+kotl.in
+kotlinconf.com
 kotlinlang.org
 koubaibu.jp
 koukoku.jp
@@ -13673,6 +13679,7 @@ ksescortclub.com
 kspcoin.com
 ksyp10.com
 ktech.team
+ktor.io
 ktvu.com
 ktzhk.com
 ku77.xyz
@@ -15990,6 +15997,7 @@ myhulu.com
 myicloud.net
 myiphide.com
 myipod.net
+myjetbrains.com
 myjkwd.com
 myjs.tw
 mykomica.org
@@ -16815,6 +16823,7 @@ ntdtv.se
 ntdtvla.com
 ntdvideo.tw
 ntdvn.com
+nthlink.com
 ntl.fyi
 ntnews.com.au
 ntp-c.colorado.edu
@@ -17346,6 +17355,7 @@ openweathermap.org
 openweave.io
 openwebster.com
 openwrt.org
+openxla.org
 opera.com
 opinionjournal.com
 oppai-doga.info
@@ -21673,6 +21683,7 @@ taleofthenight.com
 talkatone.com
 talkboxapp.com
 talkcc.com
+talkingkotlin.com
 talkonly.net
 talksport.com
 tamilsexvideos.cc
