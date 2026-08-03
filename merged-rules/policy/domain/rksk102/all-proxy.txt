@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: rksk102
-# Date: 2026-08-02 19:27:32
+# Date: 2026-08-03 09:05:48
 # Mode: DOMAIN
-# Count: 26220 (Raw: 26870) | Dedup: -650
+# Count: 26217 (Raw: 26867) | Dedup: -650
 # Desc: 代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -18867,7 +18867,6 @@ punishworld.com
 pure18.com
 pureapk.com
 pureconcepts.net
-puredns.org
 pureinsight.org
 purelov5.com
 purelyceleb.com
@@ -19085,7 +19084,6 @@ radioaustralia.net.au
 radiofarda.com
 radioglobo.com.br
 radiohilight.net
-radiojar.com
 radioline.co
 radiomango.fm
 radiomarsho.com
@@ -24727,7 +24725,6 @@ www-sms-apple.com
 www.ajsands.com
 www.antd.org
 www.aolnews.com
-www.clashverge.dev
 www.cmoinc.org
 www.destinationurl.com
 www.eastturkistan.net
