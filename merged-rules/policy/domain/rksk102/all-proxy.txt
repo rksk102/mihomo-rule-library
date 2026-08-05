@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: rksk102
-# Date: 2026-08-04 19:32:58
+# Date: 2026-08-05 08:55:21
 # Mode: DOMAIN
-# Count: 26217 (Raw: 26867) | Dedup: -650
+# Count: 26231 (Raw: 26881) | Dedup: -650
 # Desc: 代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -6317,6 +6317,8 @@ deepfreeze.net
 deepfreeze.tech
 deepl.com
 deepmind.com
+deepwiki.com
+deepwiki.org
 deezer.com
 definebabe.com
 definefetish.com
@@ -8911,8 +8913,11 @@ fluidfxapp.com
 fluidpreview.com
 flutter.dev
 flutterapp.com
+fly.dev
+fly.io
 flyflv.com
 flyingjizz.com
+flyio.net
 flypool.org
 flyvpn.com
 flyyindh-cc.sbs
@@ -9936,6 +9941,7 @@ glarity.app
 glasamerike.net
 glass8.eu
 gleline.com
+glitchwave.com
 global-sci.org
 globaledu.org
 globaljihad.net
@@ -17483,14 +17489,17 @@ ozodlik.org
 ozon-credit.ru
 ozon-dostavka.ru
 ozon-tech.ru
+ozon.app
 ozon.by
 ozon.com
 ozon.com.by
 ozon.com.kz
 ozon.dev
 ozon.express
+ozon.global
 ozon.kz
 ozon.li
+ozon.market
 ozon.ru
 ozon.tech
 ozon.tm
@@ -19718,6 +19727,7 @@ rutracker.nl
 rutracker.org
 rutrk.org
 rutube.ru
+rutube.sport
 rutubelist.ru
 ruvideos.net
 rwb.ru
@@ -19725,6 +19735,7 @@ rwbautomation.ru
 rwbautomation.tech
 rwbgeo.ru
 rxhj.net
+rym.fm
 ryokoyomiuri.co.jp
 ryukyubank.co.jp
 rzr.to
@@ -20763,6 +20774,7 @@ snjulebu.com
 snk-corp.co.jp
 snk-corp.info
 snkplaymore.info
+snmc.io
 snow.me
 snowcorp.com
 snowmiku.com
@@ -20831,6 +20843,8 @@ solutionstation.com
 solv.finance
 solveforx.com
 somee.com
+sonematic.net
+sonemic.com
 songjianjun.com
 sonorousporn.com
 sony-africa.com

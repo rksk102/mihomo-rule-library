@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-08-04 19:32:59
+# Date: 2026-08-05 08:55:22
 # Mode: DOMAIN
-# Count: 111258 (Raw: 111409) | Dedup: -151
+# Count: 111260 (Raw: 111411) | Dedup: -151
 # Desc: 自动透传自 direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -88883,6 +88883,8 @@ tj-guangxin.com
 tj-kingdee.com
 tj-model.com
 tj-pod1-smp-device.apple.com
+tj-pod2-smp-device.apple.com
+tj-pod3-smp-device.apple.com
 tj-un.com
 tj0573.com
 tj20.com
