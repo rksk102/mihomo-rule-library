@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-08-05 20:24:21
+# Date: 2026-08-06 10:31:48
 # Mode: DOMAIN
-# Count: 111260 (Raw: 111411) | Dedup: -151
+# Count: 111263 (Raw: 111414) | Dedup: -151
 # Desc: 自动透传自 direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -63589,6 +63589,7 @@ madailicai.com
 madajiefood.com
 madaomall.com
 madboxi.com
+made-in-china.com
 madefuns.com
 madeinchinastone.com
 madewei.com
@@ -65333,6 +65334,7 @@ microwu.com
 microxiang.com
 microyan.com
 microzuji.com
+micstatic.com
 mictormedical.com
 micu.hk
 micun.com
@@ -72954,6 +72956,7 @@ powerchinayun.com
 powercx.com
 powerde.com
 powereasy.net
+poweremarket.com
 powerex1.com
 powerflow-tech.com
 powerfulchina.com
