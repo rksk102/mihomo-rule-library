@@ -2,7 +2,7 @@
 # Strategy: direct
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-08-07 08:49:08
+# Date: 2026-08-07 19:50:46
 # Mode: DOMAIN
 # Count: 5151 (Raw: 5159) | Dedup: -8
 # Desc: 自动透传自 direct/domain/MetaCubeX/geolocation-cn.txt
