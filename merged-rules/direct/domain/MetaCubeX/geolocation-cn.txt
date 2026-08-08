@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-08-07 19:50:46
+# Date: 2026-08-08 08:31:08
 # Mode: DOMAIN
-# Count: 5151 (Raw: 5159) | Dedup: -8
+# Count: 5158 (Raw: 5166) | Dedup: -8
 # Desc: 自动透传自 direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -453,8 +453,6 @@ aiqicha.cn
 aiqicha.com
 air-matters.com
 airchangan.com
-airchina.com.cn
-airchinacargo.com
 airguilin.com
 airitilibrary.cn
 airnut.com
@@ -1435,6 +1433,7 @@ douyin.com
 douyinact.com
 douyinact.net
 douyincdn.com
+douyinec.com
 douyinfe.com
 douyinliving.com
 douyinpay.com
@@ -2913,6 +2912,7 @@ liepin.com
 lietou-static.com
 lietou.com
 lieyunwang.com
+lifexue.com
 lightmake.site
 lightonus.com
 likuso.com
@@ -3307,6 +3307,7 @@ newyx.net
 nextstudios.com
 nextvid.net
 nextworkshop.net
+nfcos.cn
 nffund.com
 nfpeople.com
 nga.cn
@@ -3739,6 +3740,7 @@ ruiwen.com
 runningcheese.com
 runoob.com
 ruseer.com
+ruubypay.com
 rwkv.cn
 rwkv.com
 rzrc114.com
@@ -3781,6 +3783,7 @@ scoregg.com
 scratch5.com
 scsentry.cn
 scsjb.cn
+sctcd.com
 sctv-tf.com
 sctv.com
 scyol.com
@@ -3847,6 +3850,7 @@ shengyi.ai
 shengyizhuanjia.com
 shenmayouxi.com
 shenzhenair.com
+shenzhentong.com
 sheui.com
 shfft.com
 shgsec.com
@@ -3927,6 +3931,7 @@ snimay.com
 snodehome.cn
 snodehome.com
 snowballsecurities.com
+snowballtech.com
 snxw.com
 so-quick.cn
 so.com
@@ -3958,6 +3963,7 @@ speedws.org
 speiyou.com
 springairlines.com
 springtour.com
+sptcc.com
 sq.cc
 sqqnh.cn
 sqqnh.org
@@ -4329,6 +4335,7 @@ uiwow.com
 ule.com
 ulecdn.com
 ulife.group
+ulpay.com
 ultimatemusic.cn
 ultracachenode.com
 umajor.net

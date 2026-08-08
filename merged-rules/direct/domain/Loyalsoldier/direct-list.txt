@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-08-07 19:50:46
+# Date: 2026-08-08 08:31:08
 # Mode: DOMAIN
-# Count: 111263 (Raw: 111414) | Dedup: -151
+# Count: 111264 (Raw: 111415) | Dedup: -151
 # Desc: 自动透传自 direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -60896,6 +60896,7 @@ lifeup.vip
 lifevc.com
 lifevccdn.com
 lifeweeker.com
+lifexue.com
 lifeyk.com
 lifeyn.net
 lifezb.com
