@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: rksk102
-# Date: 2026-08-09 19:30:44
+# Date: 2026-08-10 09:10:11
 # Mode: DOMAIN
-# Count: 26270 (Raw: 26923) | Dedup: -653
+# Count: 26272 (Raw: 26925) | Dedup: -653
 # Desc: 代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -1067,6 +1067,7 @@ ai7995.site
 ai91porn.cc
 aiaa.org
 aiasahi.jp
+aihub.top
 aimei133.com
 aimsciences.org
 aiosearch.com
@@ -8007,6 +8008,7 @@ esetsoftware.com
 esforce.com
 esforce.ru
 esg.t91y.com
+esim.redteago.com
 eskimotube.com
 eslite.com
 esm.run
