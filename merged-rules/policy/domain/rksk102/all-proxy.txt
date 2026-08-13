@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: rksk102
-# Date: 2026-08-12 09:04:54
+# Date: 2026-08-13 09:05:05
 # Mode: DOMAIN
-# Count: 26302 (Raw: 26955) | Dedup: -653
+# Count: 26313 (Raw: 26967) | Dedup: -654
 # Desc: 代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -4616,6 +4616,7 @@ buhidoh.net
 buicha.social
 building3dcontent.com
 builtfromebay.com
+builtwithnix.org
 bukkake-jav.com
 bullguard.com
 bullog.org
@@ -16069,6 +16070,7 @@ mymusclevideo.com
 mynavi.jp
 mynetname.net
 mynike.com
+mynixos.com
 myoctocat.com
 myparagliding.com
 mypearson.com
@@ -16760,7 +16762,15 @@ niusnews.com
 nivod.tv
 nivodi.tv
 nivodz.com
+nix-community.org
+nix.dev
+nix.store
+nixcon.org
+nixcon2017.org
+nixlang.com
 nixos.org
+nixos.wiki
+nixpkgs.org
 niziero.info
 njactb.org
 njav.tv
@@ -25655,6 +25665,7 @@ yandex.ee
 yandex.eu
 yandex.fi
 yandex.fr
+yandex.it
 yandex.jobs
 yandex.kg
 yandex.kz
