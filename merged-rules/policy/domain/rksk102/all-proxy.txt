@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: rksk102
-# Date: 2026-08-13 19:54:48
+# Date: 2026-08-14 09:00:55
 # Mode: DOMAIN
-# Count: 26313 (Raw: 26967) | Dedup: -654
+# Count: 26316 (Raw: 26970) | Dedup: -654
 # Desc: 代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -19648,6 +19648,7 @@ rsc.org
 rsdlmonitor.com
 rsf-chinese.org
 rsf.org
+rsg.ms
 rsg.sc
 rshb.ru
 rsk.co
@@ -19990,6 +19991,8 @@ sbti.unun.dev
 sbux.com.my
 sbuxcard.com
 sc-cdn.net
+sc-gw.com
+sc-static.net
 sc.com
 sca-tolo.info
 scala-lang.org
