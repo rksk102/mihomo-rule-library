@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: rksk102
-# Date: 2026-08-15 19:19:06
+# Date: 2026-08-16 08:19:24
 # Mode: DOMAIN
-# Count: 26316 (Raw: 26970) | Dedup: -654
+# Count: 26317 (Raw: 26971) | Dedup: -654
 # Desc: 代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -19788,6 +19788,7 @@ rutracker.me
 rutracker.net
 rutracker.nl
 rutracker.org
+rutracker.wiki
 rutrk.org
 rutube.ru
 rutube.sport
