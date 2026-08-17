@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-08-16 19:19:24
+# Date: 2026-08-17 08:34:16
 # Mode: DOMAIN
-# Count: 111270 (Raw: 111421) | Dedup: -151
+# Count: 111271 (Raw: 111422) | Dedup: -151
 # Desc: 自动透传自 direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -74233,6 +74233,7 @@ qianvisa.com
 qianwa.com
 qianwanku.com
 qianwen.com
+qianwenai.com
 qianxiangbank.com
 qianxibj.net
 qianximiye.com

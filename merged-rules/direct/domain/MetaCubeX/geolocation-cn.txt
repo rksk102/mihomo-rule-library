@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-08-16 19:19:24
+# Date: 2026-08-17 08:34:16
 # Mode: DOMAIN
-# Count: 5217 (Raw: 5225) | Dedup: -8
+# Count: 5223 (Raw: 5231) | Dedup: -8
 # Desc: 自动透传自 direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -1351,6 +1351,7 @@ ddxq.mobi
 ddzn.tech
 dearedu.com
 debugmode.cn
+dedao.cn
 dedecms.com
 deepepg.com
 deepinos.org
@@ -1453,6 +1454,7 @@ douyincdn.com
 douyinec.com
 douyinfe.com
 douyinliving.com
+douyinmusicpromotion.com
 douyinpay.com
 douyinpic.com
 douyinstatic.com
@@ -1559,6 +1561,7 @@ ebtrust.com
 eceshi.com
 echargenet.com
 ecjobhome.com
+eckwai.com
 ecloud-gdu.com
 ecns.cn
 ecsg.com.cn
@@ -2694,7 +2697,6 @@ kemen.cn
 keniu.com
 kepuchina.cn
 keruyun.com
-kesong.co
 ketangpai.com
 kexinshe.com
 keyoo.com
@@ -2800,6 +2802,9 @@ kuyinxiu.com
 kuyinyun.com
 kuyiso.com
 kwaicdn.com
+kwaishop.com
+kwaixiaodian.com
+kwaiying.com
 kwaizt.com
 kwimgs.com
 kysec.cn
@@ -3218,6 +3223,7 @@ moji002.com
 mojicdn.com
 mojichina.com
 mojidict.com
+mojidoc.com
 mokahr.com
 moleecel.com
 moliranran.com
@@ -3619,6 +3625,7 @@ qiantucdn.com
 qianuni.com
 qianwen.aliyun.com
 qianwen.com
+qianwenai.com
 qianxin.com
 qianxincdn.com
 qianxuecloud.com
@@ -4326,9 +4333,6 @@ twyxh.com
 txrjy.com
 u-cdn.net
 u.tools
-u17.com
-u17i.com
-u17t.com
 u3d.cn
 ubssdic.com
 ubuntukylin.com
@@ -4389,6 +4393,7 @@ ume-trip.cn
 umetrip.com
 umetrip.com.cn
 umetrip.net.cn
+umiwi.com
 unaming.cn
 unaming.info
 unaming.net
@@ -4634,6 +4639,7 @@ wsdvs.com
 wsglb.com
 wsglb.net
 wsjqnmmrmv.world
+wskwai.com
 wsoso.com
 wss.cc
 wss.email
