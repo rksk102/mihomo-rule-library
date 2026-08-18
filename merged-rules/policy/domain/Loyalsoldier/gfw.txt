@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-08-17 19:25:01
+# Date: 2026-08-18 08:26:30
 # Mode: DOMAIN
-# Count: 4337 (Raw: 4373) | Dedup: -36
+# Count: 4338 (Raw: 4374) | Dedup: -36
 # Desc: 自动透传自 policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -2303,6 +2303,7 @@ liveleak.com
 livemint.com
 livestream.com
 livevideo.com
+livingatlas.arcgis.com
 livingstream.com
 lmarena.ai
 localbitcoins.com
