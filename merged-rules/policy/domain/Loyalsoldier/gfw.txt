@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-08-18 19:25:04
+# Date: 2026-08-19 08:27:15
 # Mode: DOMAIN
-# Count: 4338 (Raw: 4374) | Dedup: -36
+# Count: 4340 (Raw: 4376) | Dedup: -36
 # Desc: 自动透传自 policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -3129,6 +3129,7 @@ rxhj.net
 s-cute.com
 s.yimg.com
 s3-ap-northeast-1.amazonaws.com
+s3.dualstack.us-west-2.amazonaws.com
 sacks.com
 sacom.hk
 sadistic-v.com
@@ -4070,6 +4071,7 @@ wiktionary.org
 willw.net
 wilsoncenter.org
 windscribe.com
+windy.com
 wingamestore.com
 wingy.site
 wionews.com
