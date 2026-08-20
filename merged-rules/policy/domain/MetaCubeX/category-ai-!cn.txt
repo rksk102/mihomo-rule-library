@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-08-19 19:21:52
+# Date: 2026-08-20 08:28:52
 # Mode: DOMAIN
-# Count: 173 (Raw: 173)
+# Count: 179 (Raw: 179)
 # Desc: 自动透传自 policy/domain/MetaCubeX/category-ai-!cn.txt
 # ----------------------------------------
 agentclientprotocol.com
@@ -79,6 +79,7 @@ diabrowser.com
 diabrowser.engineering
 dify.ai
 dola.com
+dreamgen.com
 duck.ai
 elevenlabs.com
 elevenlabs.io
@@ -109,6 +110,7 @@ jasper.ai
 jetbrains.ai
 jules.google
 jules.google.com
+kimi.ai
 kiro.dev
 labs.google
 labs.google.com
@@ -125,12 +127,15 @@ meta.ai
 midjourney.com
 minimax.io
 mistral.ai
+moonshot.ai
 mozilla.ai
 notebook.google.com
 notebooklm-pa.googleapis.com
 notebooklm.google
 notebooklm.google.com
 notebooklm.googleapis.com
+notegpt.io
+novelai.net
 o33249.ingest.sentry.io
 oaistatic.com
 oaistatsig.com
@@ -168,6 +173,7 @@ sider.ai
 sora.com
 spicywriter.com
 stitch.withgoogle.com
+talkai.info
 tapnow.ai
 themeforest.net
 trae.ai

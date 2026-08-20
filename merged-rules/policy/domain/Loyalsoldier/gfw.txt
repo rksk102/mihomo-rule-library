@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-08-19 19:21:52
+# Date: 2026-08-20 08:28:52
 # Mode: DOMAIN
-# Count: 4340 (Raw: 4376) | Dedup: -36
+# Count: 4341 (Raw: 4377) | Dedup: -36
 # Desc: 自动透传自 policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -2717,6 +2717,7 @@ oklink.com
 okpool.me
 okx.com
 old.honeynet.org
+oldmapsonline.org
 olehdtv.com
 olelive.com
 olevod.com

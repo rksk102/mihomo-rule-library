@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: DustinWin
-# Date: 2026-08-19 19:21:52
+# Date: 2026-08-20 08:28:52
 # Mode: DOMAIN
-# Count: 190 (Raw: 190)
+# Count: 189 (Raw: 189)
 # Desc: 自动透传自 direct/domain/DustinWin/microsoft-cn.txt
 # ----------------------------------------
 21vbc.com
@@ -100,7 +100,6 @@ download.windowsupdate.com
 dreamspark.download.prss.microsoft.com
 dreamsparkuat.download.prss.microsoft.com
 dynamics.cn
-emoi-cncdn.bing.com
 engkoo.com
 f.c2r.ts.cdn.office.net
 hdinsightservices.cn
