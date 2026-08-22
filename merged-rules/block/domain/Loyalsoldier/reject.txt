@@ -2,7 +2,7 @@
 # Strategy: block
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-08-22 08:19:31
+# Date: 2026-08-22 19:20:08
 # Mode: DOMAIN
 # Count: 186880 (Raw: 186880)
 # Desc: 自动透传自 block/domain/Loyalsoldier/reject.txt
