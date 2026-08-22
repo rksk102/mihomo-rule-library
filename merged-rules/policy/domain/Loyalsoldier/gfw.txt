@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-08-21 19:23:27
+# Date: 2026-08-22 08:19:31
 # Mode: DOMAIN
-# Count: 4341 (Raw: 4377) | Dedup: -36
+# Count: 4343 (Raw: 4379) | Dedup: -36
 # Desc: 自动透传自 policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -567,6 +567,7 @@ break.com
 breakgfw.com
 breakingtweets.com
 breakwall.net
+briarproject.org
 brill.com
 brizzly.com
 broadpressinc.com
@@ -708,6 +709,7 @@ character.ai
 chat.com
 chat.lmsys.org
 chatgpt.com
+chatgpt.site
 chatpdf.com
 chaturbate.com
 checkgfw.com
