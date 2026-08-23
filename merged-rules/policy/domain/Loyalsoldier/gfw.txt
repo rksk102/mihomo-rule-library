@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-08-22 19:20:08
+# Date: 2026-08-23 08:20:40
 # Mode: DOMAIN
-# Count: 4343 (Raw: 4379) | Dedup: -36
+# Count: 4347 (Raw: 4383) | Dedup: -36
 # Desc: 自动透传自 policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -1863,6 +1863,7 @@ himalayan-foundation.org
 himemix.com
 hindustantimes.com
 hinet.net
+historylines.net
 hitbtc.com
 hitomi.la
 hive.blog
@@ -2198,6 +2199,7 @@ kinmen.org.tw
 kinmen.travel
 kinokuniya.com
 kiwi.kz
+kiwix.org
 kk-whys.co.jp
 kkbox.com
 kknews.cc
@@ -2391,6 +2393,7 @@ mattwilcox.net
 maven.neoforged.net
 mcadforums.com
 mcaf.ee
+mceindex.com
 mcusercontent.com
 md-t.org
 me.me
@@ -3152,6 +3155,7 @@ savetibet.de
 savetibet.org
 savetibetstore.org
 saveuighur.org
+sb.sb
 sbme.me
 sbti.unun.dev
 schema.org
