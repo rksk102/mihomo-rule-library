@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: rksk102
-# Date: 2026-08-23 19:19:47
+# Date: 2026-08-24 08:38:45
 # Mode: DOMAIN
-# Count: 26334 (Raw: 26988) | Dedup: -654
+# Count: 26336 (Raw: 26990) | Dedup: -654
 # Desc: 代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -1834,6 +1834,7 @@ api.ai
 api.moomoobull.com
 api.news
 api.palworldgame.com
+api.shuaiapi.com
 apiary.io
 apiauto.ru
 apibay.org
@@ -24914,6 +24915,7 @@ x18r.com
 x3guide.com
 x3vid.com
 x6av.com
+x86.fr
 x99av.com
 xamarin.com
 xandr.com
