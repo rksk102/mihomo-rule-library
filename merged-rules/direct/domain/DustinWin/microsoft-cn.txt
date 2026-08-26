@@ -2,7 +2,7 @@
 # Strategy: direct
 # Type: domain
 # Owner: DustinWin
-# Date: 2026-08-25 19:28:22
+# Date: 2026-08-26 08:34:17
 # Mode: DOMAIN
 # Count: 189 (Raw: 189)
 # Desc: 自动透传自 direct/domain/DustinWin/microsoft-cn.txt

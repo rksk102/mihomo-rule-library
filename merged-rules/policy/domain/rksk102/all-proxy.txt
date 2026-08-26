@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: rksk102
-# Date: 2026-08-25 19:28:21
+# Date: 2026-08-26 08:34:16
 # Mode: DOMAIN
-# Count: 26336 (Raw: 26990) | Dedup: -654
+# Count: 26340 (Raw: 26994) | Dedup: -654
 # Desc: 代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -783,6 +783,7 @@ adguard.info
 adguard.io
 adguard.org
 adguardaccount.com
+adguardaccount.net
 adguardcdn.com
 adguardvpn.com
 adhelpnews.com
@@ -1813,6 +1814,7 @@ aoc.cat
 aodahl.com
 aofriend.com
 aokwholesale.net
+aolcdn.com
 aomedia.org
 aomiwang.com
 aorus.com
@@ -17518,6 +17520,7 @@ ourshdtv.com
 ourshemales.com
 oursteps.com.au
 ourtv.hk
+ouryahoo.com
 out-app-purchase.com
 outbound.io
 outdoorpublicsex.com
@@ -25654,6 +25657,7 @@ yahooapis.com
 yahoodns.net
 yahoofinance.com
 yahoohealth.com
+yahooinc.com
 yahoomusic.com
 yahoosandbox.com
 yahoosportsbook.com
