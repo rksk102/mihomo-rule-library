@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: rksk102
-# Date: 2026-08-26 21:38:07
+# Date: 2026-08-27 18:41:34
 # Mode: DOMAIN
-# Count: 26340 (Raw: 26994) | Dedup: -654
+# Count: 26342 (Raw: 26996) | Dedup: -654
 # Desc: 代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -10642,6 +10642,7 @@ h-top.supertop-100.com
 h-webtoon.com
 h0930.com
 h18ani1.vip
+h264.io
 h2o.ai
 h2porn.com
 h528.com
@@ -16506,6 +16507,7 @@ nftstatic.com
 nftstorage.link
 nga.mil
 ngeo.com
+ngfiles.com
 nginx.com
 nginx.org
 nginxconfig.io
