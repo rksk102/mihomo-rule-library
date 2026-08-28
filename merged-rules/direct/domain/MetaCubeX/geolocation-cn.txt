@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-08-28 02:25:20
+# Date: 2026-08-28 19:48:57
 # Mode: DOMAIN
-# Count: 5223 (Raw: 5231) | Dedup: -8
+# Count: 5227 (Raw: 5235) | Dedup: -8
 # Desc: 自动透传自 direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -104,6 +104,7 @@
 1tyy.cn
 1xhh.cn
 1zhe.com
+20130123.com
 21cnjy.com
 21jingji.com
 2265.com
@@ -446,6 +447,7 @@ aichongzoo.cn
 aidream.website
 aiemy.com
 aiganggu.com
+aigefurniture.com
 aigodlike.com
 aihst8.com
 aihuishou.com
@@ -2957,6 +2959,7 @@ lingkou.cn
 lingkou.com
 lingkou.xyz
 lingxigames.com
+lingxing.com
 linka2a.net
 linkflowtech.com
 linkheer.com
@@ -5156,6 +5159,7 @@ zhulang.com
 zhuoyou.com
 zhuoyuegame.com
 zhuye.kim
+ziniao.com
 ziroom.com
 ziroomapartment.com
 zixiaomao.com

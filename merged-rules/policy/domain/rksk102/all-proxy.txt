@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: rksk102
-# Date: 2026-08-28 02:25:19
+# Date: 2026-08-28 19:48:56
 # Mode: DOMAIN
-# Count: 26342 (Raw: 26996) | Dedup: -654
+# Count: 26344 (Raw: 26998) | Dedup: -654
 # Desc: 代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -19449,6 +19449,7 @@ reiporno.com
 relateiq.com
 religionnews.com
 remirepo.net
+remna.st
 rencapbank.ru
 renchead.com
 rencredit.ru
@@ -24806,6 +24807,7 @@ wpoforum.com
 wpvip.com
 wrds-www.wharton.upenn.edu
 wrenchead.com
+write.as
 writesonic.com
 ws-blau.com
 ws-tcg.com

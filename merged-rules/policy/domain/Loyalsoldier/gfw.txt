@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-08-28 02:25:20
+# Date: 2026-08-28 19:48:56
 # Mode: DOMAIN
-# Count: 4349 (Raw: 4385) | Dedup: -36
+# Count: 4350 (Raw: 4386) | Dedup: -36
 # Desc: 自动透传自 policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -4121,6 +4121,7 @@ woyaolian.org
 wp.com
 wplace.live
 wpoforum.com
+write.as
 writesonic.com
 wsj.com
 wsj.net
