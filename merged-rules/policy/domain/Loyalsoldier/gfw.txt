@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-08-30 21:49:44
+# Date: 2026-08-31 15:43:30
 # Mode: DOMAIN
-# Count: 4350 (Raw: 4386) | Dedup: -36
+# Count: 4352 (Raw: 4388) | Dedup: -36
 # Desc: 自动透传自 policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -1450,6 +1450,7 @@ geti2p.net
 getlantern.org
 getmalus.com
 getmdl.io
+getmonero.org
 getoutline.org
 getsession.org
 getsync.com
@@ -2638,6 +2639,7 @@ nga.mil
 nhentai.net
 nic.cz.cc
 nic.gov
+nicoseiga.jp
 nicovideo.jp
 nightswatch.top
 nikke-en.com

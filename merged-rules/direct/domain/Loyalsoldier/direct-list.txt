@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-08-30 21:49:44
+# Date: 2026-08-31 15:43:30
 # Mode: DOMAIN
-# Count: 111071 (Raw: 111222) | Dedup: -151
+# Count: 111075 (Raw: 111226) | Dedup: -151
 # Desc: 自动透传自 direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -3104,6 +3104,7 @@
 25fe391eb68e3f9c.com
 25game.com
 25ku.com
+25mao.com
 25nc.com
 25pp.com
 25q7ekcc67.com
@@ -42091,6 +42092,7 @@ gzjk120.com
 gzjkfk.com
 gzjkfund.com
 gzjkjl.com
+gzjkoa.com
 gzjkqh.com
 gzjkyljt.com
 gzjlp.com
@@ -43046,6 +43048,7 @@ hanpokou.com
 hanpupharm.com
 hanqigroup.com
 hanqinghb.com
+hanqiuming888.com
 hanqunfeng.com
 hans-ad.com
 hanschen.site
@@ -91293,6 +91296,7 @@ unclicks.com
 under-5.shop
 underfill.cc
 uneed.com
+uneedx.com
 unfish.net
 ungifts.com
 uni-cent.com
