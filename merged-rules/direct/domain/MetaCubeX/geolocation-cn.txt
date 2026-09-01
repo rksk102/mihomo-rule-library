@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-08-31 23:06:10
+# Date: 2026-09-01 12:55:36
 # Mode: DOMAIN
-# Count: 5275 (Raw: 5283) | Dedup: -8
+# Count: 5280 (Raw: 5288) | Dedup: -8
 # Desc: 自动透传自 direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -159,6 +159,7 @@
 360pay.cn
 360qhcdn.com
 360safe.com
+360scdn.com
 360shouji.com
 360sjyh.cn
 360so.com
@@ -1371,6 +1372,7 @@ dedecms.com
 deepepg.com
 deepinos.org
 deepseek.com
+deepseeksvc.com
 dengguobi.com
 deppon.com
 deppon.com.cn
@@ -4187,6 +4189,7 @@ tcl.com.cn
 tclai.top
 tcltech.com
 tcp5.com
+tctpwebankcdn.net
 tcwqqdy.guru
 te5.com
 teachblog.net
@@ -4552,6 +4555,7 @@ warsaga.cn
 wasu.cn
 wasu.tv
 wasumedia.cn
+wbweilicai.com
 wcbygame.com
 wch-ic.com
 wch.cn
@@ -4652,6 +4656,7 @@ wonnder.com
 woodo.cn
 wooyun.org
 woozooo.com
+workbuddy.cn
 workercn.cn
 worktile.com
 worldofship.cn
