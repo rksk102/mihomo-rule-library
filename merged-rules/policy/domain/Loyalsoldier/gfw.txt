@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-09-05 20:55:30
+# Date: 2026-09-06 11:51:47
 # Mode: DOMAIN
-# Count: 4355 (Raw: 4391) | Dedup: -36
+# Count: 4364 (Raw: 4400) | Dedup: -36
 # Desc: 自动透传自 policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -13,6 +13,8 @@
 1000giri.net
 10beasts.net
 10musume.com
+123av.com
+123av.me
 12bet.com
 12vpn.com
 12vpn.net
@@ -1841,6 +1843,7 @@ help.byspotify.com
 helpeachpeople.com
 helpster.de
 hembed.com
+hentai.tv
 heqinglian.net
 heritage.org
 herokuapp.com
@@ -3107,6 +3110,7 @@ rlwlw.com
 rmbl.ws
 roblox.com
 robustnessiskey.com
+roc-taiwan.org
 rocket-inc.net
 rocket.chat
 rocksdb.org
@@ -3116,6 +3120,7 @@ rolia.net
 rolsociety.org
 ronjoneswriter.com
 rou.video
+roushuwo.com
 rsdlmonitor.com
 rsf-chinese.org
 rsf.org
@@ -3417,6 +3422,7 @@ supchina.com
 superpages.com
 supervpn.net
 superzooi.com
+supjav.com
 supremecourt.gov
 suprememastertv.com
 surfeasy.com
@@ -3446,10 +3452,12 @@ taa-usa.org
 taaze.tw
 taedp.org.tw
 tagwalk.com
+taiav.com
 tails.net
 taipeisociety.org
 taipeitimes.com
 taisounds.com
+taiwanembassy.org
 taiwanhot.net
 taiwanjustice.net
 taiwanncf.org.tw
@@ -4130,6 +4138,7 @@ write.as
 writesonic.com
 wsj.com
 wsj.net
+wtfpass.com
 wufafangwen.com
 wufi.org.tw
 wujieliulan.com
