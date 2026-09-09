@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-09-08 21:32:50
+# Date: 2026-09-09 12:36:37
 # Mode: DOMAIN
-# Count: 110909 (Raw: 111061) | Dedup: -152
+# Count: 110910 (Raw: 111062) | Dedup: -152
 # Desc: 自动透传自 direct/domain/Loyalsoldier/direct-list.txt
 # ----------------------------------------
 0.zone
@@ -104784,6 +104784,7 @@ yuano.cc
 yuanpanguoji.com
 yuanqiao.net
 yuanqiao.pw
+yuanqidesk.com
 yuanqilt.com
 yuanqingsh.com
 yuanqisenlin.com

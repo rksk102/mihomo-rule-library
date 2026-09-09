@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-09-08 21:32:49
+# Date: 2026-09-09 12:36:37
 # Mode: DOMAIN
-# Count: 5280 (Raw: 5288) | Dedup: -8
+# Count: 5282 (Raw: 5290) | Dedup: -8
 # Desc: 自动透传自 direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -5025,6 +5025,7 @@ yuanbao.tencent.com
 yuanbei.biz
 yuanfudao.com
 yuanqi.tencent.com
+yuanqidesk.com
 yuanshen.com
 yuansouti.com
 yuantiku.com
@@ -5160,6 +5161,7 @@ zhaopin.com
 zhcw.com
 zhenai.com
 zhfund.com
+zhhainiao.com
 zhi10.com
 zhibo8.cc
 zhibo8.com
