@@ -2,7 +2,7 @@
 # Strategy: block
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-09-10 21:22:53
+# Date: 2026-09-11 12:29:04
 # Mode: DOMAIN
 # Count: 327 (Raw: 347) | Dedup: -20
 # Desc: 自动透传自 block/domain/Loyalsoldier/win-spy.txt
