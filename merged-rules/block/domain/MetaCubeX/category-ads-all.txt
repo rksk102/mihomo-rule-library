@@ -2,9 +2,9 @@
 # Strategy: block
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-06-21 02:26:53
+# Date: 2026-09-12 23:28:22
 # Mode: DOMAIN
-# Count: 893 (Raw: 895) | Dedup: -2
+# Count: 907 (Raw: 910) | Dedup: -3
 # Desc: 自动透传自 block/domain/MetaCubeX/category-ads-all.txt
 # ----------------------------------------
 1l-hit.mail.ru
@@ -74,6 +74,8 @@ adbox.sina.com.cn
 adbutter.net
 adc.hpplay.cn
 adcolony.com
+addthis.com
+addthiscdn.com
 addthisedge.com
 adeng.hpplay.cn
 adeventtracker.spotify.com
@@ -101,7 +103,6 @@ adnet.sohu.com
 adnxs.com
 adping.qq.com
 adpm.app.qq.com
-adq.chinaso.com
 ads-api.duolingo.com
 ads-gate.wildberries.ru
 ads-img.mozilla.org
@@ -251,18 +252,25 @@ api-js.mindbox.ru
 api-ru.carrotquest.app
 api-ru.carrotquest.io
 api-ru.mindbox.cloud
+api-secure.amplitude.com
 api-secure.carrotquest.app
 api-secure.carrottrack.app
+api-secure.eu.amplitude.com
+api-sr.amplitude.com
+api-sr.eu.amplitude.com
 api-staging.mindbox.ru
+api.amplitude.com
 api.carrotquest.app
 api.carrotquest.io
 api.carrottrack.app
 api.dashly.app
 api.dashlytrack.app
+api.eu.amplitude.com
 api.mindbox.cloud
 api.mindbox.ru
 api2.amplitude.com
 apilog-web.acfun.cn
+app-ads-services.com
 app-analytics-services-att.com
 app-analytics-services.com
 app-measurement-cn.com
@@ -279,6 +287,8 @@ apptracer.ru
 ar.umeng.com
 ark.letv.com
 aspect-upush.umeng.com
+assistant-api.amplitude.com
+assistant-api.eu.amplitude.com
 assp.sohu.com
 atanx.alicdn.com
 atanx2.alicdn.com
@@ -319,8 +329,9 @@ casalemedia.com
 cb.baidu.com
 cbjs.baidu.com
 ccs.umeng.com
+cdn.amplitude.com
 cdn.banclip.com
-cdn.pocoiq.cn
+cdn.eu.amplitude.com
 cdp.cloud.unity3d.com
 cfts1tifqr.com
 china-caa.org
@@ -362,13 +373,13 @@ crash.163.com
 crash2.zhihu.com
 crashlytics.163.com
 cretgate.com
+csjplatform.com
 cstm.baidu.com
 ctobsnssdk.com
 cupid.iqiyi.com
 cxhub.ru
 da.hunantv.com
 da.mgtv.com
-das-rpt-log.ucloud.cn
 data.flurry.com
 data.mistat.india.xiaomi.com
 data.mistat.intl.xiaomi.com
@@ -379,8 +390,6 @@ dc.letv.com
 decide.mixpanel.com
 demdex.net
 dig.bdurl.net
-disney.my.sentry.io
-dn-growing.qbox.me
 doubleclick-cn.net
 doubleclick.cn
 doubleclick.com
@@ -403,6 +412,8 @@ eduad.baidu.com
 eiv.baidu.com
 emogi.com
 ems.youku.com
+engagement-static.amplitude.com
+engagement-static.eu.amplitude.com
 ero-advertising.com
 eroadvertising.com
 error-tracking.megamarket.tech
@@ -427,6 +438,7 @@ g1.tagtic.cn
 g3.letv.com
 gdt.qq.com
 gemini.yahoo.com
+getsentry.com
 gia.jd.com
 gio.ren
 giocdn.com
@@ -462,6 +474,8 @@ graph.whatsapp.net
 growin.cn
 growingio.cn
 growingio.com
+gs.amplitude.com
+gs.eu.amplitude.com
 guanggaoad.youku.com
 gz-data.com
 gzads.com
@@ -502,6 +516,7 @@ incoming.telemetry.mozilla.org
 informer.yandex.ru
 inner-active.mobi
 innovid.com
+insights-collector.gog.com
 inte.sogou.com
 inte.sogoucdn.com
 ipinyou.com
@@ -521,6 +536,8 @@ kaprila.com
 kepler-37b.com
 kurogames-ads.com
 kuyun.com
+lab.amplitude.com
+lab.eu.amplitude.com
 ladsp.com
 leanplum.com
 lianmeng.360.cn
@@ -618,14 +635,12 @@ new-adv.ozon.ru
 ns1p.net
 nsclick.baidu.com
 nsclickvideo.baidu.com
-o33249.ingest.sentry.io
-o4504926511693824.ingest.sentry.io
 obs.mts.ru
 oc.umeng.com
-oct.pocoiq.cn
 ogury.co
 ogury.com
 onesignal.com
+openai.qualtrics.com
 openx.net
 openxadexchange.com
 openxcdn.net
@@ -640,6 +655,7 @@ p4p.sina.com.cn
 p6-ad-sign.byteimg.com
 p9-ad-sign.byteimg.com
 pagead.l.google.com
+pangle.cn
 pangolin-dsp-toutiao-b.com
 pangolin-dsp-toutiao.com
 pangolin-hl.snssdk.com
@@ -663,16 +679,6 @@ pglstatp-snssdk-toutiao.com
 pglstatp-toutiao-b.com
 pglstatp-toutiao.com
 pimlog.baidu.com
-pinggai0.caixin.com
-pinggai1.caixin.com
-pinggai2.caixin.com
-pinggai3.caixin.com
-pinggai4.caixin.com
-pinggai5.caixin.com
-pinggai6.caixin.com
-pinggai7.caixin.com
-pinggai8.caixin.com
-pinggai9.caixin.com
 pingjs.qq.com
 pixel.facebook.com
 pixel.rustore.ru
@@ -685,6 +691,7 @@ pos.baidu.com
 prd-lender.cdp.internal.unity3d.com
 presage.io
 prodvizhenie-adv.ozon.ru
+pub.network
 pubmatic.co.jp
 pubmatic.com
 push.qq.com
@@ -703,6 +710,8 @@ r1.mail.ru
 radar.imgsmail.ru
 reachmax.cn
 realsrv.com
+regionconfig.amplitude.com
+regionconfig.eu.amplitude.com
 reke.at.sohu.com
 reklama.mail.ru
 relap.mail.ru
@@ -739,12 +748,15 @@ segment.io
 segmenthub.com
 segmentify.com
 sensors.umetrip.com.cn
+sentry-cdn.com
 sentry-ng.g.smailru.net
 sentry.d.mi.com
 sentry.d.xiaomi.net
+sentry.dev
 sentry.dev-my.com
 sentry.dev-my.games
 sentry.hetzner.company
+sentry.io
 sentry.iptv.rt.ru
 sentry.kontur.host
 sentry.mindbox.ru
@@ -771,11 +783,12 @@ spcode.baidu.com
 splash-ads.cdn.unity.cn
 splash-ads.unitychina.cn
 spotxchange.com
+sr-client-cfg.amplitude.com
+sr-client-cfg.eu.amplitude.com
 srch-telemeter10.g.smailru.net
 ssacdn.com
 ssp.api.tappx.com
 stacks.vk-portal.net
-stat.chinaso.com
 stat.m.jd.com
 stat.y.qq.com
 stat.youku.com
@@ -891,6 +904,7 @@ yfanads.com
 yk-ssp.ad.youku.com
 ykad-data.youku.com
 ylog.hiido.com
+youdaoads.com
 ysm.yahoo.com
 z.gds.cnzz.com
 zhihu-web-analytics.zhihu.com
