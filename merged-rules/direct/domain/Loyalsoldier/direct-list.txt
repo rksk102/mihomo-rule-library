@@ -2,7 +2,7 @@
 # Strategy: direct
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-09-14 05:14:44
+# Date: 2026-09-14 22:36:47
 # Mode: DOMAIN
 # Count: 110910 (Raw: 111062) | Dedup: -152
 # Desc: 自动透传自 direct/domain/Loyalsoldier/direct-list.txt
