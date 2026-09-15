@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: rksk102
-# Date: 2026-09-15 06:15:13
+# Date: 2026-09-15 21:01:42
 # Mode: DOMAIN
-# Count: 26361 (Raw: 27016) | Dedup: -655
+# Count: 26365 (Raw: 27020) | Dedup: -655
 # Desc: 代理域名规则
 # ----------------------------------------
 000webhost.com
@@ -17612,6 +17612,7 @@ ozonsport.ru
 ozonstatus.ru
 ozonusercontent.com
 ozvoice.org
+p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
 pa9pal.com
 paaypal.com
 pachosting.com
@@ -21512,6 +21513,9 @@ stripcamfun.com
 stripchat.com
 stripe-terminal-local-reader.net
 stripe.com
+stripe.dev
+stripe.events
+stripe.global
 stripe.network
 stripecdn.com
 stripparadise.com

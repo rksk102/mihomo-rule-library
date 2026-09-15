@@ -2,7 +2,7 @@
 # Strategy: block
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-09-15 06:15:13
+# Date: 2026-09-15 21:01:43
 # Mode: DOMAIN
 # Count: 355 (Raw: 399) | Dedup: -44
 # Desc: 自动透传自 block/domain/Loyalsoldier/win-extra.txt
