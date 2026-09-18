@@ -2,7 +2,7 @@
 # Strategy: block
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-09-18 05:54:56
+# Date: 2026-09-18 20:34:07
 # Mode: DOMAIN
 # Count: 907 (Raw: 910) | Dedup: -3
 # Desc: 自动透传自 block/domain/MetaCubeX/category-ads-all.txt
