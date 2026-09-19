@@ -2,7 +2,7 @@
 # Strategy: direct
 # Type: ipcidr
 # Owner: Loyalsoldier
-# Date: 2026-09-19 20:11:11
+# Date: 2026-09-20 05:16:41
 # Mode: IP-CIDR
 # Count: 9741 (Raw: 9741)
 # Desc: 自动透传自 direct/ipcidr/Loyalsoldier/cncidr.txt
