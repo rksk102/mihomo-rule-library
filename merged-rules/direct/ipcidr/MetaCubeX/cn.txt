@@ -2,7 +2,7 @@
 # Strategy: direct
 # Type: ipcidr
 # Owner: MetaCubeX
-# Date: 2026-09-20 20:47:11
+# Date: 2026-09-21 05:09:29
 # Mode: IP-CIDR
 # Count: 9741 (Raw: 9741)
 # Desc: 自动透传自 direct/ipcidr/MetaCubeX/cn.txt
