@@ -2,7 +2,7 @@
 # Strategy: policy
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-09-20 05:16:40
+# Date: 2026-09-20 20:47:09
 # Mode: DOMAIN
 # Count: 26365 (Raw: 27020) | Dedup: -655
 # Desc: 自动透传自 policy/domain/Loyalsoldier/proxy.txt
