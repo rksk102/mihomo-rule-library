@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-09-21 05:09:27
+# Date: 2026-09-21 22:44:27
 # Mode: DOMAIN
-# Count: 179 (Raw: 179)
+# Count: 181 (Raw: 181)
 # Desc: 自动透传自 policy/domain/MetaCubeX/category-ai-!cn.txt
 # ----------------------------------------
 agentclientprotocol.com
@@ -87,6 +87,7 @@ envato-static.com
 envato.com
 envatousercontent.com
 flow.google
+flow.google.com
 gateway.ai.cloudflare.com
 geller-pa.googleapis.com
 gemini.google
@@ -129,6 +130,7 @@ minimax.io
 mistral.ai
 moonshot.ai
 mozilla.ai
+notebook.google
 notebook.google.com
 notebooklm-pa.googleapis.com
 notebooklm.google

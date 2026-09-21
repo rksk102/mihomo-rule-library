@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-09-21 05:09:28
+# Date: 2026-09-21 22:44:27
 # Mode: DOMAIN
-# Count: 26365 (Raw: 27020) | Dedup: -655
+# Count: 26370 (Raw: 27026) | Dedup: -656
 # Desc: 自动透传自 policy/domain/Loyalsoldier/proxy-list.txt
 # ----------------------------------------
 000webhost.com
@@ -5730,6 +5730,7 @@ code-class.ru
 code.org
 codeberg.org
 codeberg.page
+codebuff.com
 codecademy.com
 codeforaliving.io
 codeforces.com
@@ -8854,10 +8855,12 @@ fiotolia.com
 fire-emblem-heroes.com
 firearmsworld.net
 firebase.com
+firebase.dev
 firebase.io
 firebaseapp.com
 firebaseio.com
 fireemblemawakening.com
+firefox-portal-detection.com
 firefox.com
 firefox.hu
 firefoxtweetmachine.com
@@ -9271,6 +9274,7 @@ freebigmovies.com
 freebrowser.org
 freebs.com
 freebsd.org
+freebuff.com
 freecamsfan.com
 freecartoons.biz
 freechatnow.com
@@ -22039,6 +22043,7 @@ textnow.com
 textnow.me
 texttobuy.org
 texture.com
+tfbnw.net
 tfc-taiwan.org.tw
 tferwq.com
 tfhub.dev
