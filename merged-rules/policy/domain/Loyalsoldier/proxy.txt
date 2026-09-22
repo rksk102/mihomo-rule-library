@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-09-22 06:25:16
+# Date: 2026-09-22 20:58:59
 # Mode: DOMAIN
-# Count: 26370 (Raw: 27026) | Dedup: -656
+# Count: 26372 (Raw: 27028) | Dedup: -656
 # Desc: 自动透传自 policy/domain/Loyalsoldier/proxy.txt
 # ----------------------------------------
 000webhost.com
@@ -5395,6 +5395,7 @@ chinesedemocracy.com
 chinesegay.org
 chinesen.de
 chinesenews.net.au
+chineseposters.net
 chineseradioseattle.com
 chinesespanking.com
 chineseupress.com
@@ -16849,6 +16850,7 @@ nordvpn.com
 norsk.mobi
 norton.com
 nos.nl
+note.com
 notegpt.io
 notepad-plus-plus.org
 noticias-rt.com

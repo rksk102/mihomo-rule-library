@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-09-22 06:25:16
+# Date: 2026-09-22 20:58:59
 # Mode: DOMAIN
-# Count: 4365 (Raw: 4384) | Dedup: -19
+# Count: 4367 (Raw: 4386) | Dedup: -19
 # Desc: 自动透传自 policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -761,6 +761,7 @@ chinesedemocracy.com
 chinesegay.org
 chinesen.de
 chinesenews.net.au
+chineseposters.net
 chineseradioseattle.com
 chineseupress.com
 chingcheong.com
@@ -2672,6 +2673,7 @@ nordstromimage.com
 nordstromrack.com
 nordvpn.com
 nos.nl
+note.com
 notepad-plus-plus.org
 nottinghampost.com
 now.com
