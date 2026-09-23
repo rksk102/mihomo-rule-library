@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-09-23 05:46:03
+# Date: 2026-09-23 21:11:15
 # Mode: DOMAIN
-# Count: 5369 (Raw: 5377) | Dedup: -8
+# Count: 5370 (Raw: 5378) | Dedup: -8
 # Desc: 自动透传自 direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -4053,6 +4053,7 @@ sinopecgroup.com
 sinopecnews.com.cn
 sinopecsales.com
 sipeed.com
+sjfls6.com
 sjwyx.com
 skillhub.cn
 skimit.net

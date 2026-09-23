@@ -2,7 +2,7 @@
 # Strategy: block
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-09-23 05:46:02
+# Date: 2026-09-23 21:11:17
 # Mode: DOMAIN
 # Count: 907 (Raw: 910) | Dedup: -3
 # Desc: 自动透传自 block/domain/MetaCubeX/category-ads-all.txt
@@ -159,7 +159,6 @@ adsense.com
 adsensecustomsearchads.com
 adsenseformobileapps.com
 adservice.google.com
-adservice.sigmob.cn
 adserviceretry.kglink.cn
 adserviceretry.kugou.com
 adsfile.qq.com
@@ -773,6 +772,7 @@ sf3-ttcdn-tos.pstatp.com
 shhs-ydd8x2.yjrmss.cn
 shoppingads.cn
 shuzilm.cn
+sigmob.cn
 sigmob.com
 slog.sina.cn
 slog.sina.com.cn
