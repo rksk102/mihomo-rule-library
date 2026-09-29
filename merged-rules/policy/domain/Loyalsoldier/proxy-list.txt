@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-09-29 22:29:51
+# Date: 2026-09-30 06:49:37
 # Mode: DOMAIN
-# Count: 26374 (Raw: 27030) | Dedup: -656
+# Count: 26378 (Raw: 27036) | Dedup: -658
 # Desc: 自动透传自 policy/domain/Loyalsoldier/proxy-list.txt
 # ----------------------------------------
 000webhost.com
@@ -11644,6 +11644,7 @@ huanyuju.com
 huaren.us
 huarenav.com
 huarenporn.com
+huarun.win
 huashangnews.com
 huashundg.com
 huati.cc
@@ -14928,6 +14929,7 @@ messytube.com
 met-nude.com
 meta.ai
 meta.com
+metaaivm.com
 metabora.io
 metabrainz.org
 metacloud.com
@@ -15934,6 +15936,7 @@ musashinobank.co.jp
 muscache.com
 muscdn.com
 musclegirlflix.com
+muse.ai
 muse.jhu.edu
 mushroomtrack.com
 mushymush.tv
@@ -17413,6 +17416,7 @@ openart.ai
 openbook.org.tw
 opencas.io
 openclaw.ai
+opencode.ai
 opencollective.com
 opencreate.org
 opencritic.com
