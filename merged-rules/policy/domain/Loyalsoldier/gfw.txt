@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-09-30 22:28:34
+# Date: 2026-10-01 06:48:48
 # Mode: DOMAIN
-# Count: 4370 (Raw: 4389) | Dedup: -19
+# Count: 4372 (Raw: 4391) | Dedup: -19
 # Desc: 自动透传自 policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -1400,6 +1400,7 @@ futuremessage.org
 futustatic.com
 fututrade.com
 fututrustee.com
+fuyin116.com
 fw.cm
 fxcm-chinese.com
 fxnetworks.com
@@ -2545,6 +2546,7 @@ mthruf.com
 mubi.com
 mullvad.net
 multiply.com
+muse.ai
 music.amazon.com
 musixmatch.com
 muzi.com
