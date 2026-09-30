@@ -2,9 +2,9 @@
 # Strategy: direct
 # Type: domain
 # Owner: MetaCubeX
-# Date: 2026-09-30 06:49:37
+# Date: 2026-09-30 22:28:34
 # Mode: DOMAIN
-# Count: 5370 (Raw: 5378) | Dedup: -8
+# Count: 5371 (Raw: 5379) | Dedup: -8
 # Desc: 自动透传自 direct/domain/MetaCubeX/geolocation-cn.txt
 # ----------------------------------------
 0033.cn
@@ -1109,6 +1109,7 @@ cmcmcdn.com
 cn.pool.ntp.org
 cnanzhi.com
 cnb.cool
+cnb.space
 cnbksy.com
 cnblogs.com
 cnblogs.vip
