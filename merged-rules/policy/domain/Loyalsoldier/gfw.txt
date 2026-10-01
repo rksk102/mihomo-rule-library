@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-10-01 22:58:36
+# Date: 2026-10-02 06:59:12
 # Mode: DOMAIN
-# Count: 4372 (Raw: 4391) | Dedup: -19
+# Count: 4373 (Raw: 4392) | Dedup: -19
 # Desc: 自动透传自 policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -4001,6 +4001,7 @@ waffle1999.com
 wainao.me
 walletconnect.com
 walletconnect.org
+wallhaven.cc
 wallmama.com
 wallpapercasa.com
 wallsttv.com
