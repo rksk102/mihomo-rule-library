@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-10-02 22:21:29
+# Date: 2026-10-03 06:48:26
 # Mode: DOMAIN
-# Count: 4373 (Raw: 4392) | Dedup: -19
+# Count: 4374 (Raw: 4393) | Dedup: -19
 # Desc: 自动透传自 policy/domain/Loyalsoldier/gfw.txt
 # ----------------------------------------
 000webhost.com
@@ -3261,6 +3261,7 @@ simpleswap.io
 simplex.chat
 sina.com.hk
 sinchew.com.my
+sing-box.sagernet.org
 singaporepools.com.sg
 singlelogin.se
 singtao.com

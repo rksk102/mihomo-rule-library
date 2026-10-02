@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-10-02 22:21:29
+# Date: 2026-10-03 06:48:26
 # Mode: DOMAIN
-# Count: 26379 (Raw: 27037) | Dedup: -658
+# Count: 26380 (Raw: 27038) | Dedup: -658
 # Desc: 自动透传自 policy/domain/Loyalsoldier/proxy-list.txt
 # ----------------------------------------
 000webhost.com
@@ -5555,6 +5555,7 @@ classymomsex.com
 clau.de
 claude.ai
 claude.com
+claude.dev
 claudemcpclient.com
 claudemcpcontent.com
 claudeusercontent.com
