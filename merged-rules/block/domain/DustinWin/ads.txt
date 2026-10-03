@@ -2,7 +2,7 @@
 # Strategy: block
 # Type: domain
 # Owner: DustinWin
-# Date: 2026-10-03 20:54:36
+# Date: 2026-10-04 05:58:23
 # Mode: DOMAIN
 # Count: 100061 (Raw: 100064) | Dedup: -3
 # Desc: 自动透传自 block/domain/DustinWin/ads.txt
