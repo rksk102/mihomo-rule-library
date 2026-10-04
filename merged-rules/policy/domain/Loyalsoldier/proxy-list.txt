@@ -2,9 +2,9 @@
 # Strategy: policy
 # Type: domain
 # Owner: Loyalsoldier
-# Date: 2026-10-04 21:36:03
+# Date: 2026-10-05 06:11:14
 # Mode: DOMAIN
-# Count: 26380 (Raw: 27038) | Dedup: -658
+# Count: 26381 (Raw: 27039) | Dedup: -658
 # Desc: 自动透传自 policy/domain/Loyalsoldier/proxy-list.txt
 # ----------------------------------------
 000webhost.com
@@ -10431,6 +10431,7 @@ googleoptimize.com
 googlepagecreator.com
 googlephotos.com
 googleplay.com
+googleplaycensorship.com
 googleplus.com
 googlescholar.com
 googlesource.com
